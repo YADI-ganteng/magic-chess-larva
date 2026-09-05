@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<message_popup>
+		<element id='0' name="마법사탕 부족" popup_text1="Pas assez de bonbons magiques." popup_text2="" popup_text3=""/>
+		<element id='1' name="마법사탕 부족(구매창으로 이동)" popup_text1="Pas assez de bonbons magiques." popup_text2="" popup_text3=""/>
+		<element id='2' name="골드 부족" popup_text1="Il ne suffit pas d'or." popup_text2="" popup_text3=""/>
+		<element id='3' name="히어로 터치시" popup_text1="Bientôt !!" popup_text2="" popup_text3=""/>
+		<element id='4' name="히어로 오픈 직후" popup_text1="Heroes a ouvert de nouveaux amis." popup_text2="" popup_text3=""/>
+		<element id='5' name="월드맵을 건너띄어 오픈 시도할 경우" popup_text1="Vous devez retirer" popup_text2="le monde précédent." popup_text3=""/>
+		<element id='6' name="월드맵 오픈 확인 메시지" popup_text1="Le monde ouvre." popup_text2="" popup_text3=""/>
+		<element id='7' name="히어로 친구 소환 확인" popup_text1="Heroes a ouvert de nouveaux amis." popup_text2="" popup_text3=""/>
+		<element id='8' name="장착 슬롯 부족" popup_text1="emplacement d'équipement insuffisant." popup_text2="" popup_text3=""/>
+		<element id='9' name="인벤토리 UI가 아닌곳에서 아이템 선택" popup_text1="Vous pouvez utiliser l'élément sélectionné" popup_text2="" popup_text3=""/>
+		<element id='10' name="레벨 부족 장착 불가" popup_text1="Ce n'est pas assez." popup_text2="" popup_text3=""/>
+		<element id='11' name="히어로 친구 전체 소환 사용후" popup_text1="Should 'tous les héros et amis'" popup_text2="Pouvez-vous jouer avec l'ami des héros" popup_text3=""/>
+		<element id='12' name="유닛 전체 소환 사용후" popup_text1="Ils ont ouvert " popup_text2="Pouvez-vous jouer avec les unités amies" popup_text3=""/>
+		<element id='13' name="스킬 전체 소환 사용후" popup_text1="Vous avez «tout héros de compétences '" popup_text2="Pouvez-vous quatre capacités spéciales" popup_text3=""/>
+		<element id='14' name="올인원 아이템 사용후" popup_text1="Defender." popup_text2="" popup_text3=""/>
+		<element id='15' name="비엔나 획득량 2배 아이템 사용시" popup_text1="double avantage Wiener" popup_text2="" popup_text3=""/>
+		<element id='16' name="자동획득 아이템 사용시" popup_text1="gain de Wiener Auto est" popup_text2="" popup_text3=""/>
+		<element id='17' name="변신물약 사용시" popup_text1="Le nombre d'utilisation" popup_text2="" popup_text3=""/>
+		<element id='18' name="인벤토리 슬롯 부족할 경우" popup_text1="Il n'y a pas assez d'espace d'inventaire." popup_text2="" popup_text3=""/>
+		<element id='19' name="강화 완료 후" popup_text1="Enchantement succès." popup_text2="" popup_text3=""/>
+		<element id='20' name="강화 불가 팝업" popup_text1="Et vous ne pouvez pas aimer ce sujet." popup_text2="" popup_text3=""/>
+		<element id='21' name="용병 선택 않하고 장비 장착 시도시" popup_text1="Vous pouvez également équiper ce produit" popup_text2="" popup_text3=""/>
+		<element id='22' name="중복 구매 불가 메시지" popup_text1="Vous ne pouvez pas acheter cet article." popup_text2="" popup_text3=""/>
+		<element id='23' name="스킬 업그레이드 불가" popup_text1="Puisque vous ne pouvez pas mettre à niveau." popup_text2="" popup_text3=""/>
+		<element id='24' name="유닛 업그레이드 불가" popup_text1="Puisque vous ne pouvez pas mettre à niveau." popup_text2="" popup_text3=""/>
+		<element id='25' name="스킬 장착 슬롯 오픈시" popup_text1="Bonus ouvre correctement." popup_text2="" popup_text3=""/>
+		<element id='26' name="유닛 장착 슬롯 오픈시" popup_text1="fente d'équipe ouvrir correctement." popup_text2="" popup_text3=""/>
+		<element id='27' name="이전 슬롯 오픈 체크" popup_text1="Vous pouvez ouvrir des fentes sélectionnées" popup_text2="En face de la fente" popup_text3=""/>
+		<element id='28' name="월드 오픈" popup_text1="Voulez-vous ouvrir" popup_text2="nouveau monde?" popup_text3=""/>
+		<element id='29' name="월드 오픈2" popup_text1="Pas clefs d'or assez" popup_text2="Avez-vous ouvert avec des bonbons magiques?" popup_text3=""/>
+		<element id='30' name="유닛 오픈 직후" popup_text1="le dispositif est ouvert." popup_text2="" popup_text3=""/>
+		<element id='31' name="스킬 오픈 직후" popup_text1="compétences apprises." popup_text2="" popup_text3=""/>
+		<element id='32' name="게임종료 시도시" popup_text1="Voulez-vous fermer le jeu?" popup_text2="" popup_text3=""/>
+		<element id='33' name="Google Play 로그인" popup_text1="Lorsque Google Play est activée, vous pouvez le faire" popup_text2="Les classements et performances" popup_text3="Comme les utilisateurs de jeux et de récompenses gamme"/>
+		<element id='34' name="매직캔디 구매창" popup_text1="Vous pouvez acheter des bonbons magiques." popup_text2="" popup_text3=""/>
+		<element id='35' name="골드 구매창" popup_text1="Vous pouvez acheter de l'or avec Magic Candy." popup_text2="" popup_text3=""/>
+		<element id='36' name="정상 구매" popup_text1="Achetez la réussite matérielle." popup_text2="" popup_text3=""/>
+		<element id='37' name="구매 실패" popup_text1="Ne constitue pas une Kaufart normale." popup_text2="" popup_text3=""/>
+		<element id='38' name="히어로 능력 2배" popup_text1="capacité de Hero double." popup_text2="" popup_text3=""/>
+		<element id='39' name="히어로친구능력 2배" popup_text1="Amis héros de la capacité double." popup_text2="" popup_text3=""/>
+		<element id='40' name="히어로 친구 오픈" popup_text1="Heroes a ouvert de nouveaux amis." popup_text2="" popup_text3=""/>
+		<element id='41' name="셋트장비 오픈" popup_text1="L'armure a été ouverte." popup_text2="" popup_text3=""/>
+		<element id='42' name="해적획득1" popup_text1="Vous avez le bonbon magique." popup_text2="" popup_text3=""/>
+		<element id='43' name="해적획득2" popup_text1="Vous devez boire." popup_text2="" popup_text3=""/>
+		<element id='44' name="해적획득3" popup_text1="Pour obtenir l'or." popup_text2="" popup_text3=""/>
+		<element id='45' name="장비 모두 구매 완료" popup_text1="Vous avez le Sapphire et Ruby Set." popup_text2="" popup_text3=""/>
+		<element id='46' name="리뷰" popup_text1="Si vous laissez un commentaire," popup_text2="Pour obtenir 10 des bonbons magiques." popup_text3=""/>
+		<element id='47' name="구매대기" popup_text1="Achat." popup_text2="S'il vous plaît attendez une minute." popup_text3=""/>
+		<element id='48' name="캐쉬아이템설명1" popup_text1="Bonbons magiques 500EA" popup_text2="" popup_text3=""/>
+		<element id='49' name="캐쉬아이템설명2" popup_text1="Bonbons magiques 900EA" popup_text2="" popup_text3=""/>
+		<element id='50' name="캐쉬아이템설명3" popup_text1="Bonbons magiques 3000EA" popup_text2="" popup_text3=""/>
+		<element id='51' name="캐쉬아이템설명4" popup_text1="Bonbons magiques 10000EA" popup_text2="" popup_text3=""/>
+		<element id='52' name="캐쉬아이템설명5" popup_text1="4500EA candy magie, Buff élément 100ea, saphir Set articles" popup_text2="" popup_text3=""/>
+		<element id='53' name="캐쉬아이템설명6" popup_text1="12000EA douce magie, Buff article 200 EA, articles Rubin en Septembre" popup_text2="" popup_text3=""/>
+		<element id='54' name="캐쉬아이템설명3" popup_text1="마법사탕 2625개, 잭선장 쿠키 120개" popup_text2="" popup_text3=""/>
+		<element id='55' name="캐쉬아이템설명4" popup_text1="마법사탕 4500개, 잭선장 쿠키 200개" popup_text2="" popup_text3=""/>
+		<element id='56' name="캐쉬아이템설명4" popup_text1="마법사탕 12000개, 잭선장 쿠키 350개,사파이어셋,루비셋" popup_text2="" popup_text3=""/>
+		<element id='57' name="리뷰2" popup_text1="게임에 대한 리뷰를 작성해 주시면" popup_text2="다음 업데이트에 도움이 됩니다." popup_text3=""/>
+		<element id='58' name="모어게임" popup_text1="게임을 설치하시면" popup_text2="마법사탕 10개를 드립니다." popup_text3=""/>
+		<element id='59' name="모어게임" popup_text1="마법사탕 10개를 받았습니다." popup_text2="" popup_text3=""/>
+		<element id='60' name="모어게임" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='61' name="해적획득4" popup_text1="Nous avons acquis des équipements." popup_text2="" popup_text3=""/>
+		<element id='62' name="펫구매" popup_text1="Voulez-vous acheter un" popup_text2="animal de compagnie?" popup_text3=""/>
+	</message_popup>
+
+	<choice_popup>
+		<element id='0' name="[Héros Öffnen]" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='1' name="[Héros Öffnen]" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='2' name="[Héros Öffnen]" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='3' name="Carte du monde ouvert lorsque la décision finale" popup_text1="Voulez-vous ouvrir nouveau monde?" popup_text2="" popup_text3=""/>
+		<element id='4' name="Lors de la vente des éléments de sortie (type éléments se chevauchent)" popup_text1="Souhaitez-vous vendre des produits?" popup_text2="" popup_text3=""/>
+		<element id='5' name="Geräteschlitz" popup_text1="Voulez-vous fermer la fente d'entraînement?" popup_text2="" popup_text3=""/>
+		<element id='6' name="Fertigkeitsschlitz" popup_text1="Voulez-vous ouvrir la fente compétence fermée?" popup_text2="" popup_text3=""/>
+		<element id='7' name="Regenbogenkrieger" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='8' name="Schwarzer Ritter" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='9' name="Brauner Zauberer" popup_text1="Avez-vous ouvert avec" popup_text2="Magie douce?" popup_text3=""/>
+		<element id='10' name="- Ausgang -" popup_text1="Attention !!" popup_text2="L'étape de jeu n'est pas enregistrée." popup_text3="Aller à la carte du monde?"/>
+		<element id='11' name="- Wiederholung -" popup_text1="Attention !!" popup_text2="L'étape de jeu n'est pas enregistrée." popup_text3="Démarrez à nouveau la scène?"/>
+		<element id='12' name="- Fortsetzen -" popup_text1="Puis trois bonbons magie est nécessaire" popup_text2="Vous voulez jouer en continu?" popup_text3=""/>
+		<element id='13' name="Aufrechtzuerhalten" popup_text1="Vous voulez acheter" popup_text2="Tous les héros et amis?" popup_text3=""/>
+		<element id='14' name="Aufrechtzuerhalten" popup_text1="Vous voulez acheter" popup_text2="Toutes les unités?" popup_text3=""/>
+		<element id='15' name="Aufrechtzuerhalten" popup_text1="Vous voulez acheter" popup_text2="Toutes les compétences?" popup_text3=""/>
+		<element id='16' name="Aufrechtzuerhalten" popup_text1="Acheter tous et saphir" popup_text2="Armure Rubin." popup_text3=""/>
+		<element id='17' name="1. Wie man sich bewegt" popup_text1=" " popup_text2="Si vous touchez l'icône de doigt" popup_text3="Pouvez-vous passer de cette façon."/>
+		<element id='18' name="1. Wie man sich bewegt" popup_text1=" " popup_text2="S'il vous plaît cliquer sur l'icône de flèche." popup_text3=""/>
+		<element id='19' name="2. Auto-Angriff" popup_text1="Quand le héros se rapproche de l'unité" popup_text2="ennemie, Attaquer automatiquement." popup_text3="Actuellement! Unité ennemi attaque."/>
+		<element id='20' name="3. Auto Freund héros Angriff" popup_text1=" " popup_text2="attaquer ami héros ennemi" popup_text3="Automatiquement après héros."/>
+		<element id='21' name="4. Held Freund Wiederbelebung" popup_text1="Ami de héros Cas est mort dans les combats," popup_text2="vous pouvez Réactivation en utilisant le bouton de" popup_text3="réanimation. Chaque fois que le héros L'ami est"/>
+		<element id='22' name="4. Held Freund Wiederbelebung" popup_text1="Appuyez sur le bouton gauche et vous pouvez" popup_text2="revivre Ami du héros. Vous pouvez également" popup_text3="les héros Ami de l'or et des bonbons magiques."/>
+		<element id='23' name="5. Heldenverwandlung" popup_text1="Si vous transformez, Le contact et peut-il" popup_text2="utiliser des compétences spéciales. S'il vous" popup_text3="plaît appuyez sur le bouton et faire pivoter."/>
+		<element id='24' name="5. Heldenverwandlung" popup_text1="Vous devez convertir. il peut" popup_text2="Acheter Potion Transformation et utilisation" popup_text3="Rassemblez tous 'LARVE' alphabet."/>
+		<element id='25' name="6. LARVE alphabet." popup_text1=" " popup_text2="Actuellement! Obtenez la larve de l'alphabet." popup_text3=""/>
+		<element id='26' name="7. Wie die Einheit zu produzieren" popup_text1=" " popup_text2="Manger des saucisses de Francfort, de produire une unité de défense." popup_text3="réactivent, le bonbon magique est utilisé."/>
+		<element id='27' name="8. Wie man Verteidigungseinheit herstellt" popup_text1="Unité de défense de la défense" popup_text2="Attaques Hero ennemis au lieu." popup_text3="Actuellement! Éliminez unité ennemie derrière l'unité de défense."/>
+		<element id='28' name="9. Heldenfertigkeit" popup_text1="  " popup_text2="Vous pouvez la capacité de héros dans la boutique et acheter" popup_text3="Essayez compétences héros!"/>
+		<element id='29' name="- Tutorial Belohnung -" popup_text1="  " popup_text2="1. Normal Potion 25" popup_text3="2. Transformation Potion Heroes 2"/>
+		<element id='30' name="아이템 구매" popup_text1="Voulez-vous acheter cet article?" popup_text2="" popup_text3=""/>
+	</choice_popup>
+
+	<other_popup>
+		<element id='0' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='1' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='2' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='3' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='4' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='5' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='6' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='7' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='8' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='9' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='10' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='11' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='12' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='13' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='14' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='15' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='16' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='17' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='18' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='19' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='20' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='21' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='22' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='23' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='24' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='25' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='26' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='27' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='28' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='29' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='30' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='31' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='32' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='33' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='34' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='35' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='36' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='37' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='38' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='39' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='40' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='41' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='42' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='43' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='44' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='45' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='46' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='47' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='48' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='49' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='50' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='51' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='52' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='53' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='54' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='55' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='56' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='57' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='58' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='59' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='60' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='61' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='62' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='63' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='64' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='65' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='66' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='67' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='68' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='69' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='70' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='71' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='72' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='73' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='74' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='75' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='76' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='77' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='78' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='79' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='80' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='81' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='82' name="unité Rosa Guard Hellgate." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='83' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='84' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='85' name="Défendre le camp de base l'ami héroïque." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='86' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='87' name="Détruisez la base ennemie." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='88' name="Retirer l'enfer, produit des unités." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='89' name="Battez le boss ennemi." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='90' name="1-10 보스 1 차 말풍선" popup_text1="chef scout ... pas dos à la porte de l'enfer ..." popup_text2="Pour ouvrir la porte de l'enfer .., et d'envoyer toute la lutte" popup_text3="Troupes territoire occupé ..."/>
+		<element id='91' name="1-10 보스 2 차 말풍선" popup_text1="Maintenant, pour éliminer tout obstacle à" popup_text2="Conquête de la Ville de New York ..." popup_text3=""/>
+		<element id='92' name="2-10 보스 1 차 말풍선" popup_text1="Soldats! - Allemand - Anglais - Linguee comme traduction" popup_text2="L'obscurité et de se préparer pour les attaques." popup_text3=""/>
+		<element id='93' name="2-10 보스 2 차 말풍선" popup_text1="Une autre commande ... attaque intense voitures de larves" popup_text2="L'unité et la lutte contre la défaite de l'ennemi." popup_text3=""/>
+		<element id='94' name="3-10 보스 1 차 말풍선" popup_text1="Capitaine Frangken ha ha ha ~" popup_text2="Si l'armée amicale des héros fait jeu," popup_text3="Je regrette la larve de l'Armée."/>
+		<element id='95' name="3-10 보스 2 차 말풍선" popup_text1="Maintenant ... montrez-moi l'efficacité au combat de l'armée de la larve." popup_text2="" popup_text3=""/>
+		<element id='96' name="4-10 보스 1 차 말풍선" popup_text1="Je l'avais sous-estimé l'armée de la larve." popup_text2="" popup_text3=""/>
+		<element id='97' name="4-10 보스 2 차 말풍선" popup_text1="Cette fois, je vais vous combattre droit" popup_text2="Pour la conquête de la ville de New York." popup_text3=""/>
+		<element id='98' name="5-10 보스 1 차 말풍선" popup_text1="Pourquoi vous cachez-vous nos frères ..." popup_text2="Larve fou! ... Ha ha ~ ~ petits messieurs de larves ..." popup_text3="Comment osez-vous défier sans crainte?"/>
+		<element id='99' name="5-10 보스 2 차 말풍선" popup_text1="Son armée est heureux que le capitaine supprimer" popup_text2="Franken, mais leur abondance est que le temps." popup_text3=""/>
+		<element id='100' name="6-10 보스 1 차 말풍선" popup_text1="En attendant ce moment" popup_text2="Mon seul frère a été tué par son armée." popup_text3=""/>
+		<element id='101' name="6-10 보스 2 차 말풍선" popup_text1="Je jure devant le frère de la tombe" popup_text2="Et il est douloureux jure vengeance" popup_text3="Avant frère tombe."/>
+		<element id='102' name="7-10 보스 1 차 말풍선" popup_text1="HA HA ~ ~ ha, il est excitant que la conquête." popup_text2="New York, bourdonnements, nous détruisons le bâtiment," popup_text3="House, le parc avec le marteau et la pompe."/>
+		<element id='103' name="7-10 보스 2 차 말풍선" popup_text1="Ce qui rend cette odeur désagréable ~" popup_text2="Vérifiez cela, quel est le problème." popup_text3=""/>
+		<element id='104' name="8-10 보스 1 차 말풍선" popup_text1="Je suis en colère, surtout moi." popup_text2="Pourquoi ils ne sont pas égaux morts?" popup_text3=""/>
+		<element id='105' name="8-10 보스 2 차 말풍선" popup_text1="Donc, je préfère le héros et la larve" popup_text2="Amis à la porte de l'enfer." popup_text3=""/>
+		<element id='106' name="9-10 보스 1 차 말풍선" popup_text1="J'ai perdu mon frère! Brown! Il est mon Locky." popup_text2="Vous ne savez pas comment vous pouvez me trouver," popup_text3="Certes, nous avons ici."/>
+		<element id='107' name="9-10 보스 2 차 말풍선" popup_text1="Maintenant ~ New York City avec moi et Conquer" popup_text2="Si le nouveau chef de son frère. Si vous ne voulez pas," popup_text3="Vous et vos amis serez mort de mon armée."/>
+		<element id='108' name="Jeu de chargement" popup_text1="Astuce: Si vous supprimez la mission d'une journée," popup_text2="l'or supplémentaire est obtenu." popup_text3=""/>
+		<element id='109' name="Jeu de chargement" popup_text1="Astuce: Etape or clair est ajouté 10% au niveau de la mission." popup_text2="" popup_text3=""/>
+		<element id='110' name="Jeu de chargement" popup_text1="Astuce: Le mode d'entraînement est un mode dans lequel les seules" popup_text2="unités de production se reproduisent." popup_text3=""/>
+		<element id='111' name="Jeu de chargement" popup_text1="Astuce: Le mode PVP est un mode qui peut se battre" popup_text2="contre d'autres utilisateurs." popup_text3=""/>
+		<element id='112' name="Jeu de chargement" popup_text1="Astuce: Larve besoin de voiture unité amie 2, 4, 6, 8 monde." popup_text2="" popup_text3=""/>
+		<element id='113' name="Jeu de chargement" popup_text1="Astuce: Sélectionnez la recherche fortune cookie 'Captain Jack'" popup_text2="sur la carte du monde." popup_text3=""/>
+		<element id='114' name="Jeu de chargement" popup_text1="Astuce: héros Puissants ami, les compétences et les unités" popup_text2="en attente dans le magasin." popup_text3=""/>
+		<element id='115' name="Jeu de chargement" popup_text1="Astuce: Si vous supprimez toutes les étapes de gameplay." popup_text2="Vous pouvez obtenir un coupon de 'Captain Jack'." popup_text3=""/>
+		<element id='116' name="Jeu de chargement" popup_text1="Astuce: Si tout l'alphabet 'LARVE' Obtenez une" popup_text2="potion de transformation." popup_text3=""/>
+		<element id='117' name="Jeu de chargement" popup_text1="Astuce: Larve besoin de voiture unité amie 2, 4, 6, 8 monde." popup_text2="" popup_text3=""/>
+		<element id='118' name="Jeu de chargement" popup_text1="Astuce: dur, mode maître, les unités ennemies est fou et la pluie," popup_text2="de sombres nuages et les rayons émergent." popup_text3=""/>
+		<element id='119' name="Sauter Tutorial" popup_text1="Attention !!" popup_text2="Le tutoriel peut être\njoué qu'une seule fois." popup_text3="Vous voulez sauter le tutoriel?"/>
+	</other_popup>
+
+	<add_popup>
+		<element id='0' popup_text1="Augmente Atk" popup_text2="Augmente HP" popup_text3="Soigner HP par 15 secondes" popup_text4="Augmente critique" popup_text5="Récompenses de la collection"/>
+		<element id='1' popup_text1="- Niveau Currnet" popup_text2="- Niveau suivant" popup_text3="Taux de réussite :" popup_text4="Souhaitez-vous améliorer votre animal de compagnie?" popup_text5="Billet Défi Boss"/>
+		<element id='2' popup_text1="5 fois -> 10 fois" popup_text2="$ 2.99" popup_text3="* Boss Dungeon ou World difficulté normale devrait être fait ci-dessus." popup_text4="Vous pouvez \nsurclasser votre \nboss Dungeon." popup_text5="(Mise à niveau possible)"/>
+		<element id='3' popup_text1="1. Capacité de base" popup_text2="HP 10% de guérison\npar 15 secondes" popup_text3="(Hero ＆ Friend)" popup_text4="2. Capacité spéciale" popup_text5="Atk +"/>
+		<element id='4' popup_text1="Exp +" popup_text2="Augmentation de HP\nde 10%" popup_text3="Drop Item (1 + 1)" popup_text4="(Sauf Boss)" popup_text5="15 secondes"/>
+		<element id='5' popup_text1="S'il vous plaît ouvrir les animaux sur la carte du monde." popup_text2="Vous devez regarder la publicité sur la carte du monde." popup_text3="L'animal a été ouvert." popup_text4="La pierre a été ouverte." popup_text5="Beg est plein."/>
+		<element id='6' popup_text1="Sausageis pas assez." popup_text2="La boîte à saucisses doit être ouverte." popup_text3="Mise à niveau terminée." popup_text4="Les morceaux de pierre ne suffisent pas." popup_text5="Saucisse ouverte."/>
+		<element id='7' popup_text1="Pas assez de clé" popup_text2="Les billets pour Boss Dungeon sont facturés une fois par jour." popup_text3="Saucisse ouverte." popup_text4="Utilisez des saucisses pour ouvrir l'animal et la pierre." popup_text5="Vous pouvez obtenir des saucisses en jouant !!!"/>
+		<element id='8' popup_text1="La boîte à saucisses doit être ouverte pour pouvoir être utilisée !!!" popup_text2="Vous pouvez ouvrir la \npierre avec des saucisses!" popup_text3="TOUCH TO START" popup_text4="" popup_text5=""/>
+		<element id='9' popup_text1="Nos unités amicales" popup_text2="Héros compétences équiper" popup_text3="CHARGEMENT..." popup_text4="- Original -" popup_text5="Vous pouvez jouer à un jeu de scénario."/>
+		<element id='10' popup_text1="Pack d'extension (avec PVP)" popup_text2="Vous pouvez jouer en mode multi avec" popup_text3="héros, donjon, PVP (Network Play)" popup_text4="Tap Little Hero: La guerre des 1000 jours" popup_text5="Supprimez les Titans diaboliques\npour arrêter la fin du monde."/>
+		<element id='11' popup_text1="Ferme en ligne" popup_text2="Jeu de puzzle qui relie tous les mêmes" popup_text3="objets et remplit tout le tableau." popup_text4="Bubble Monster" popup_text5="C'est un jeu de tir à bulles de style Halloween."/>
+		<element id='12' popup_text1="ATK" popup_text2="HP" popup_text3="de guérison par" popup_text4="critique" popup_text5="augmentation"/>
+		<element id='13' popup_text1="" popup_text2="" popup_text3="" popup_text4="" popup_text5=""/>
+	</add_popup>
+</define>
