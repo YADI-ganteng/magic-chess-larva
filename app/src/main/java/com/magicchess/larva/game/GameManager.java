@@ -74,6 +74,7 @@ public class GameManager {
                 board.removeHero(duplicates.get(0).getPosition());
                 board.removeHero(duplicates.get(1).getPosition());
                 hero.upgradeStar();
+                soundManager.playSound("sound/levelup.ogg");
             }
         }
     }
@@ -97,12 +98,14 @@ public class GameManager {
             player.spendGold(levelCost);
             player.levelUp();
             board.setMaxHeroes(player.getLevel());
+            soundManager.playSound("sound/levelup.ogg");
         }
     }
     
     public void startBattle() {
         currentState = GameState.BATTLE;
         combatSystem.startBattle(this);
+        soundManager.playSound("sound/bgm/war_bgm.ogg");
     }
     
     public void processBattleResult(boolean victory) {
@@ -136,7 +139,14 @@ public class GameManager {
         if (player.getGold() >= 2) {
             player.spendGold(2);
             shop.refresh(player.getLevel());
+            soundManager.playSound("sound/ui/button.ogg");
         }
+    }
+    
+    // Apply synergy saat hero berubah
+    public void refreshSynergies() {
+        List<Hero> heroes = board.getHeroes();
+        synergyManager.applySynergyBonuses(heroes);
     }
     
     // Getters
