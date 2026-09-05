@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/board_background">
+    
+    <!-- Top Bar -->
+    <LinearLayout
+        android:id="@+id/top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#22000000"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="16dp">
+        
+        <TextView
+            android:id="@+id/tv_round"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/round"
+            android:textColor="@color/text_primary"
+            android:textSize="14sp" />
+        
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        
+        <TextView
+            android:id="@+id/tv_gold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gold"
+            android:textColor="@color/gold"
+            android:textSize="16sp"
+            android:layout_marginRight="16dp" />
+        
+        <TextView
+            android:id="@+id/tv_hp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hp"
+            android:textColor="@color/hp_green"
+            android:textSize="16sp" />
+    </LinearLayout>
+    
+    <!-- Game Area -->
+    <FrameLayout
+        android:id="@+id/game_area"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/top_bar"
+        android:layout_above="@id/bottom_bar" />
+    
+    <!-- Bottom Bar -->
+    <LinearLayout
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:background="#22000000"
+        android:gravity="center"
+        android:padding="16dp"
+        android:layout_alignParentBottom="true">
+        
+        <Button
+            android:id="@+id/btn_shop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/shop" />
+        
+        <Button
+            android:id="@+id/btn_board"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/board"
+            android:layout_marginHorizontal="8dp" />
+        
+        <Button
+            android:id="@+id/btn_battle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/battle" />
+    </LinearLayout>
+    
+</RelativeLayout>
