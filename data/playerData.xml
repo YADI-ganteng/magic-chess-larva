@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<kPT_Yellow type='0' hp='250' mp='1000' mp_regen='10' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='65' stun_x='21' stun_y='-117' eff_x='51' eff_y='59' hp_x='21' hp_y='106' position_type='1'/>
+	<kPT_YellowHulk type='0' hp='300' mp='1000' mp_regen='10' move_speed='4' skill_rate='0' attack_cooltime='0' defence='6' critical='2' sight_range='400' attack_range='100' stun_x='0' stun_y='-150' eff_x='0' eff_y='0' hp_x='-6' hp_y='149' position_type='1'/>
+	<kPT_Red type='0' hp='250' mp='1000' mp_regen='10' move_speed='4' skill_rate='10' attack_cooltime='0' defence='2' critical='1' sight_range='350' attack_range='70' stun_x='15' stun_y='-78' eff_x='0' eff_y='0' hp_x='16' hp_y='78' position_type='1'/>
+	<!-- transform only -->
+	<kPT_YellowHulkTrans type='0' hp='340' mp='0' mp_regen='0' move_speed='4' skill_rate='0' attack_cooltime='0' defence='6' critical='2' sight_range='400' attack_range='100' stun_x='0' stun_y='-150' eff_x='0' eff_y='0' hp_x='-6' hp_y='149' position_type='1'/>
+	<kPT_RedVikingTrans type='0' hp='255' mp='0' mp_regen='0' move_speed='4' skill_rate='0' attack_cooltime='0' defence='2' critical='1' sight_range='350' attack_range='90' stun_x='13' stun_y='-100' eff_x='0' eff_y='0' hp_x='12' hp_y='98' position_type='1'/>
+	<!-- update -->
+	<kPT_WizardBrown type='0' hp='150' mp='1000' mp_regen='10' move_speed='4' skill_rate='0' attack_cooltime='1000' defence='3' critical='1' sight_range='350' attack_range='300' stun_x='10' stun_y='-115' eff_x='51' eff_y='59' hp_x='10' hp_y='113' position_type='1'/>
+	<kPT_WizardBrownTrans type='0' hp='300' mp='1000' mp_regen='0' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='300' stun_x='10' stun_y='-115' eff_x='51' eff_y='59' hp_x='10' hp_y='113' position_type='1'/>
+	<kPT_BlackKnight type='0' hp='300' mp='1000' mp_regen='10' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='180' stun_x='30' stun_y='-170' eff_x='51' eff_y='59' hp_x='30' hp_y='170' position_type='1'/>
+	<kPT_BlackKnightTrans type='0' hp='600' mp='1000' mp_regen='0' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='180' stun_x='30' stun_y='-170' eff_x='51' eff_y='59' hp_x='30' hp_y='170' position_type='1'/>
+	<kPT_RainbowWarrior type='0' hp='300' mp='1000' mp_regen='10' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='120' stun_x='20' stun_y='-125' eff_x='51' eff_y='59' hp_x='10' hp_y='179' position_type='1'/>
+	<kPT_RainbowWarriorTrans type='0' hp='600' mp='1000' mp_regen='0' move_speed='4' skill_rate='0' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='120' stun_x='20' stun_y='-125' eff_x='51' eff_y='59' hp_x='10' hp_y='179' position_type='1'/>
+</define>
+
+
+<!--
+	PlayerType
+
+	type: 0==melee 1==range
+	position_type == 1 지상유닛, ==2 공중유닛, ==4 지하유닛 (항목 추가 JY_120130) 63 115
+	skill_rate 스킬 발동 확률 추가 JY_131122
+	
+	kPT_PartyRedViking -> 레드 변신용 데이타 추가 by JY_140108
+-->
+
