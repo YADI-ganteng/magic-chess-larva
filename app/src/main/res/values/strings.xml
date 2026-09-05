@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Magic Chess Larva</string>
+    <string name="start_game">Mulai Game</string>
+    <string name="shop">Toko</string>
+    <string name="board">Papan</string>
+    <string name="battle">Pertarungan</string>
+    <string name="gold">Gold</string>
+    <string name="hp">HP</string>
+    <string name="level">Level</string>
+    <string name="round">Ronde</string>
+    <string name="reroll">Reroll</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="sell">Jual</string>
+    <string name="buy">Beli</string>
+</resources>
