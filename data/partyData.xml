@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<kBPT_PartyYellow type='0' hp='180' mp='1000' mp_regen='10' move_speed='4' skill_rate='8' attack_cooltime='0' defence='3' critical='1' sight_range='350' attack_range='70' stun_x='21' stun_y='-117' eff_x='51' eff_y='59' hp_x='21' hp_y='106' position_type='1'/>
+	<kBPT_PartyYellowHulk type='0' hp='340' mp='0' mp_regen='2' move_speed='4' skill_rate='8' attack_cooltime='1000' defence='6' critical='2' sight_range='400' attack_range='100' stun_x='0' stun_y='-150' eff_x='0' eff_y='0' hp_x='-6' hp_y='149' position_type='1'/>
+	<kBPT_PartyRed type='0' hp='160' mp='0' mp_regen='0' move_speed='4' skill_rate='8' attack_cooltime='1000' defence='2' critical='1' sight_range='350' attack_range='70' stun_x='15' stun_y='-78' eff_x='0' eff_y='0' hp_x='16' hp_y='78' position_type='1'/>
+	<kBPT_PartyRedSpider type='1' hp='160' mp='0' mp_regen='0' move_speed='5' skill_rate='8' attack_cooltime='1500' defence='2' critical='1' sight_range='400' attack_range='350' stun_x='5' stun_y='-133' eff_x='0' eff_y='0' hp_x='14' hp_y='71' position_type='1'/>
+	<kBPT_PartyRedTermi type='1' hp='200' mp='0' mp_regen='0' move_speed='5' skill_rate='8' attack_cooltime='1500' defence='2' critical='1' sight_range='400' attack_range='350' stun_x='18' stun_y='-83' eff_x='0' eff_y='0' hp_x='18' hp_y='85' position_type='1'/>
+	<kBPT_PartyRedIron type='1' hp='200' mp='0' mp_regen='0' move_speed='5' skill_rate='8' attack_cooltime='1500' defence='2' critical='1' sight_range='400' attack_range='350' stun_x='0' stun_y='-107' eff_x='0' eff_y='0' hp_x='0' hp_y='102' position_type='1'/>
+	<kBPT_PartyRedViking type='0' hp='300' mp='0' mp_regen='0' move_speed='4' skill_rate='8' attack_cooltime='1000' defence='2' critical='1' sight_range='350' attack_range='90' stun_x='13' stun_y='-100' eff_x='0' eff_y='0' hp_x='12' hp_y='98' position_type='1'/>
+	<kBPT_PartyRedNinja type='1' hp='160' mp='0' mp_regen='0' move_speed='5' skill_rate='8' attack_cooltime='1500' defence='2' critical='1' sight_range='400' attack_range='350' stun_x='4' stun_y='-91' eff_x='0' eff_y='0' hp_x='18' hp_y='88' position_type='1'/>
+	<kBPT_PartyRedKungfu type='0' hp='260' mp='0' mp_regen='0' move_speed='4' skill_rate='8' attack_cooltime='1000' defence='2' critical='1' sight_range='350' attack_range='55' stun_x='17' stun_y='-84' eff_x='0' eff_y='0' hp_x='17' hp_y='84' position_type='1'/>
+	<kBPT_PartyRedZoro type='0' hp='280' mp='0' mp_regen='0' move_speed='4' skill_rate='8' attack_cooltime='1000' defence='2' critical='1' sight_range='350' attack_range='65' stun_x='11' stun_y='-84' eff_x='0' eff_y='0' hp_x='10' hp_y='83' position_type='1'/>
+</define>
+
+<!--
+	BattlePartyType
+	
+	
+-->
+
