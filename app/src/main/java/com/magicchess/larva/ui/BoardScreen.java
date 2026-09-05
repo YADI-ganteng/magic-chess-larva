@@ -42,9 +42,6 @@ public class BoardScreen extends LinearLayout {
         // Clear grid
         boardGrid.removeAllViews();
         
-        // Add hero cells
-        List<Hero> heroes = gameManager.getBoard().getHeroes();
-        
         // Create 16 cells (4x4)
         for (int i = 0; i < 16; i++) {
             BoardCell cell = new BoardCell(getContext(), gameManager, i);
