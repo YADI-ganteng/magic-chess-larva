@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<mission_1>
+		<element id='0' pink_hp_easy='200' pink_hp_normal='300' pink_hp_hard='400' pink_hp_master='500'/>
+		<element id='1' pink_hp_easy='300' pink_hp_normal='400' pink_hp_hard='500' pink_hp_master='600'/>
+		<element id='2' pink_hp_easy='400' pink_hp_normal='500' pink_hp_hard='600' pink_hp_master='700'/>
+		<element id='3' pink_hp_easy='500' pink_hp_normal='600' pink_hp_hard='700' pink_hp_master='800'/>
+		<element id='4' pink_hp_easy='600' pink_hp_normal='700' pink_hp_hard='800' pink_hp_master='900'/>
+		<element id='5' pink_hp_easy='700' pink_hp_normal='800' pink_hp_hard='900' pink_hp_master='1000'/>
+		<element id='6' pink_hp_easy='800' pink_hp_normal='900' pink_hp_hard='1000' pink_hp_master='1100'/>
+		<element id='7' pink_hp_easy='900' pink_hp_normal='1000' pink_hp_hard='1100' pink_hp_master='1200'/>
+		<element id='8' pink_hp_easy='1000' pink_hp_normal='1100' pink_hp_hard='1200' pink_hp_master='1300'/>
+	</mission_1>
+	<mission_2>
+		<element id='0' party_id_1='5' party_id_2='8' party_id_3='3' party_id_4='4' party_id_5='6' party_id_6='7' party_id_7='5' party_id_8='9' party_id_9='2'/>
+		<element id='1' party_id_1='0' party_id_2='3' party_id_3='4' party_id_4='5' party_id_5='9' party_id_6='7' party_id_7='8' party_id_8='9' party_id_9='1'/>
+		<element id='2' party_id_1='0' party_id_2='2' party_id_3='3' party_id_4='4' party_id_5='5' party_id_6='6' party_id_7='7' party_id_8='8' party_id_9='9'/>
+		<element id='3' party_id_1='0' party_id_2='1' party_id_3='2' party_id_4='3' party_id_5='4' party_id_6='5' party_id_7='6' party_id_8='7' party_id_9='8'/>
+		<element id='4' party_id_1='1' party_id_2='2' party_id_3='3' party_id_4='4' party_id_5='5' party_id_6='6' party_id_7='7' party_id_8='8' party_id_9='9'/>
+		<element id='5' party_id_1='2' party_id_2='3' party_id_3='4' party_id_4='5' party_id_5='6' party_id_6='7' party_id_7='8' party_id_8='9' party_id_9='0'/>
+	</mission_2>	
+</define>
