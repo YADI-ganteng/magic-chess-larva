@@ -1,0 +1,74 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<define>
+	<fix_item_shop>
+		<element id='0' item_id='0' item_number='1' name="넝쿨 모자" item_explain="착용시 최대HP+50, 최대MP+45, MP회복+2,\n공격력+6, 방어력+8 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='1' item_id='1' item_number='1' name="나뭇잎 모자" item_explain="착용시 최대HP+150, 최대MP+85, MP회복+3,\n공격력+18, 방어력+24 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='2' item_id='2' item_number='1' name="병뚜껑 모자" item_explain="착용시 최대HP+350, 최대MP+165, MP회복+5\n공격력+42, 방어력+56 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='3' item_id='3' item_number='1' name="날개 모자" item_explain="착용시 최대HP+550, 최대MP+245, MP회복+7,\n공격력+66, 방어력+88 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='4' item_id='4' item_number='1' name="황금 비엔나 모자" item_explain="착용시 최대HP+650, 최대MP+285, MP회복+8,\n공격력+78, 방어력+104 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='5' item_id='5' item_number='1' name="황금 날개 모자" item_explain="착용시 최대HP+1100, 최대MP+465, MP회복+11,\n공격력+132, 방어력+176 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='6' item_id='6' item_number='1' name="넝쿨 목걸이" item_explain="착용시 최대HP+50, 최대MP+45, MP회복+2,\n공격력+6, 방어력+8 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='7' item_id='7' item_number='1' name="나뭇잎 목걸이" item_explain="착용시 최대HP+150, 최대MP+85, MP회복+3,\n공격력+18, 방어력+24 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='8' item_id='8' item_number='1' name="병뚜껑 목걸이" item_explain="착용시 최대HP+350, 최대MP+165, MP회복+5,\n공격력+42, 방어력+56 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='9' item_id='9' item_number='1' name="날개 목걸이" item_explain="착용시 최대HP+550, 최대MP+245, MP회복+7,\n공격력+66, 방어력+88 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='10' item_id='10' item_number='1' name="황금 비엔나 목걸이" item_explain="착용시 최대HP+650, 최대MP+285, MP회복+8,\n공격력+78, 방어력+104 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='11' item_id='11' item_number='1' name="황금 날개 목걸이" item_explain="착용시 최대HP+1100, 최대MP+465, MP회복+11,\n공격력+132, 방어력+176 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='12' item_id='12' item_number='1' name="넝쿨 팔찌" item_explain="착용시 최대HP+50, 최대MP+45, MP회복+2,\n공격력+6, 방어력+8 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='13' item_id='13' item_number='1' name="나뭇잎 팔찌" item_explain="착용시 최대HP+150, 최대MP+85, MP회복+3,\n공격력+18, 방어력+24 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='14' item_id='14' item_number='1' name="병뚜껑 팔찌" item_explain="착용시 최대HP+350, 최대MP+165, MP회복+5,\n공격력+42, 방어력+56 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='15' item_id='15' item_number='1' name="날개 팔찌" item_explain="착용시 최대HP+550, 최대MP+245, MP회복+7,\n공격력+66, 방어력+88 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='16' item_id='16' item_number='1' name="황금 비엔나 팔찌" item_explain="착용시 최대HP+650, 최대MP+285, MP회복+8,\n공격력+78, 방어력+104 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='17' item_id='17' item_number='1' name="황금 날개 팔찌" item_explain="착용시 최대HP+1100, 최대MP+465, MP회복+11,\n공격력+132, 방어력+176 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='18' item_id='18' item_number='1' name="넝쿨 반지" item_explain="착용시 최대HP+50, 최대MP+45, MP회복+2,\n공격력+6, 방어력+8 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='19' item_id='19' item_number='1' name="나뭇잎 반지" item_explain="착용시 최대HP+150, 최대MP+85, MP회복+3,\n공격력+18, 방어력+24 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='20' item_id='20' item_number='1' name="병뚜껑 반지" item_explain="착용시 최대HP+350, 최대MP+165, MP회복+5,\n공격력+42, 방어력+56 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='21' item_id='21' item_number='1' name="날개 반지" item_explain="착용시 최대HP+550, 최대MP+245, MP회복+7,\n공격력+66, 방어력+88 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='22' item_id='22' item_number='1' name="황금 비엔나 반지" item_explain="착용시 최대HP+650, 최대MP+285, MP회복+8,\n공격력+78, 방어력+104 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='23' item_id='23' item_number='1' name="황금 날개 반지" item_explain="착용시 최대HP+1100, 최대MP+465, MP회복+11,\n공격력+132, 방어력+176 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='24' item_id='24' item_number='1' name="넝쿨 벨트" item_explain="착용시 최대HP+50, 최대MP+45, MP회복+2,\n공격력+6, 방어력+8 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='25' item_id='25' item_number='1' name="나뭇잎 벨트" item_explain="착용시 최대HP+150, 최대MP+85, MP회복+3,\n공격력+18, 방어력+24 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='26' item_id='26' item_number='1' name="병뚜껑 벨트" item_explain="착용시 최대HP+350, 최대MP+165, MP회복+5,\n공격력+42, 방어력+56 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='27' item_id='27' item_number='1' name="날개 벨트" item_explain="착용시 최대HP+550, 최대MP+245, MP회복+7,\n공격력+66, 방어력+88 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='28' item_id='28' item_number='1' name="황금 비엔나 벨트" item_explain="착용시 최대HP+650, 최대MP+285, MP회복+8,\n공격력+78, 방어력+104 상승!\n장착가능 캐릭터: 옐로우/레드" />
+		<element id='29' item_id='29' item_number='1' name="황금 날개 벨트" item_explain="착용시 최대HP+1100, 최대MP+465, MP회복+11,\n공격력+132, 방어력+176 상승!\n장착가능 캐릭터: 옐로우/레드" />
+  </fix_item_shop>
+  <eat_item_shop>
+		<element id='30' item_id='30' item_number='10' name="탄산음료" item_explain="게임 플레이중 사용시 옐로우 MP 30% 회복" />
+		<element id='31' item_id='31' item_number='10' name="젤리" item_explain="게임 플레이중 사용시 옐로우 HP 30% 회복" />
+		<element id='32' item_id='32' item_number='10' name="사탕" item_explain="게임 플레이중 사용시 레드 HP 30% 회복" />
+		<element id='33' item_id='33' item_number='10' name="치즈" item_explain="게임 플레이중 사용시 전체 유닛의 HP 20% 회복" />
+		<element id='34' item_id='34' item_number='10' name="피자" item_explain="게임 플레이중 사용시 옐로우와 레드의 HP 30% 회복" />
+		<element id='35' item_id='35' item_number='50' name="공격력" item_explain="구매사용시 모험을 시작할때마다 차감되며,\n해당 모험에서 옐로우의 공격력이 30%상승합니다." />
+		<element id='36' item_id='36' item_number='50' name="이동속도" item_explain="구매사용시 모험을 시작할때마다 차감되며,\n해당 모험에서 옐로우의 이동속도가 2배 상승합니다." />
+		<element id='37' item_id='37' item_number='50' name="체력" item_explain="구매사용시 모험을 시작할때마다 차감되며,\n해당 모험에서 옐로우의 공격력이 30%상승합니다." />
+		<element id='38' item_id='38' item_number='50' name="경험치" item_explain="구매사용시 모험을 시작할때마다 차감되며,\n해당 모험에서 옐로우의 공격력이 30%상승합니다." />
+		<element id='39' item_id='39' item_number='50' name="비엔나 게이지" item_explain="구매사용시 모험을 시작할때마다 차감되며,\n해당 모험에서 옐로우의 공격력이 30%상승합니다." />
+		<element id='40' item_id='40' item_number='10' name="변신사탕" item_explain="약의 힘을 빌려 일순간 옐로우가 변신할 수 있습니다." />
+  </eat_item_shop>
+  <special_shop>
+		<element id='41' item_id='41' item_number='1' name="비엔나 자동획득" item_explain="강력한 초능력으로 하늘에서 떨어지는 비엔나를 끌어당깁니다." />
+		<element id='42' item_id='42' item_number='1' name="비엔나 획득량 2배" item_explain="하늘에서 떨어지는 비엔나가 2배가 됩니다." />
+		<element id='43' item_id='43' item_number='1' name="캐쉬장비 세트1" item_explain="B등급 황금 장비 아이템을 모두 구매합니다. (Lv제한 1)" />
+		<element id='44' item_id='44' item_number='1' name="캐쉬장비 세트2" item_explain="A등급 황금 장비 아이템을 모두 구매합니다. (Lv제한 1)" />
+		<element id='45' item_id='45' item_number='1' name="히어로 능력치 2배" item_explain="구매 사용시, 히어로의 능력치가 영구히 2배로 적용 됩니다." />
+		<element id='46' item_id='46' item_number='1' name="히어로 친구 능력치 2배" item_explain="구매 사용시, 히어로친구의 능력치가 영구히 2배로 적용 됩니다." />
+  </special_shop>
+  <google_special>
+    <element id='51' item_id='51' item_number='1' name="구글 스페셜 머리띠" item_explain="강력한 초능력으로 하늘에서 떨어지는 비엔나를 끌어당깁니다." />
+    <element id='52' item_id='52' item_number='1' name="구글 스페셜 목걸이" item_explain="하늘에서 떨어지는 비엔나가 2배가 됩니다." />
+    <element id='53' item_id='53' item_number='1' name="구글 스페셜 팔찌" item_explain="아직 익히지 않은 모든 옐로우의 스킬을 습득할 수 있습니다.  (Lv1로 습득)" />
+    <element id='54' item_id='54' item_number='1' name="구글 스페셜 반지" item_explain="아직 소환되지 않은 모든 유닛을 소환할 수 있습니다. (소환시 유닛 Lv1)" />
+    <element id='55' item_id='55' item_number='1' name="구글 스페셜 벨트" item_explain="레드 히어로 세트를 구매할 수 있습니다." />    
+  </google_special>
+</define>
+
+<!--
+
+//specialbelt 캠페인모드 제외
+	<element id='48' item_id='54' item_number='1" />
+	<element id='49' item_id='55' item_number='1" />
+	<element id='50' item_id='56' item_number='1" />
+	<element id='51' item_id='57' item_number='1" />
+	<element id='52' item_id='58' item_number='1" />
+
+-->
