@@ -1,0 +1,123 @@
+================================================================================
+LAPORAN ANALISIS LOG - FLOATING TRANSLATOR
+Waktu: 2026-09-05 04:14:13
+================================================================================
+
+Repository: YADI-ganteng/FloatingTranslator
+Total runs dianalisis: 10
+Total errors: 69
+
+--------------------------------------------------------------------------------
+RINGKASAN PER RUN:
+--------------------------------------------------------------------------------
+
+Run #65:
+  Status: completed
+  Conclusion: failure
+  Errors: 9
+
+Run #64:
+  Status: completed
+  Conclusion: failure
+  Errors: 4
+
+Run #63:
+  Status: completed
+  Conclusion: failure
+  Errors: 4
+
+Run #62:
+  Status: completed
+  Conclusion: failure
+  Errors: 7
+
+Run #61:
+  Status: completed
+  Conclusion: failure
+  Errors: 7
+
+Run #60:
+  Status: completed
+  Conclusion: failure
+  Errors: 4
+
+Run #59:
+  Status: completed
+  Conclusion: failure
+  Errors: 4
+
+Run #58:
+  Status: completed
+  Conclusion: failure
+  Errors: 4
+
+Run #57:
+  Status: completed
+  Conclusion: failure
+  Errors: 13
+
+Run #56:
+  Status: completed
+  Conclusion: failure
+  Errors: 13
+
+--------------------------------------------------------------------------------
+DETAIL ERROR:
+--------------------------------------------------------------------------------
+
+
+[KOTLIN ERRORS] - 24 errors:
+  - 2026-09-05T04:09:20.7323307Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:267:16 'getter for defaultDisplay: Display!' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:20.7342527Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:267:31 'getRealMetrics(DisplayMetrics!): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:20.7346121Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/MainActivity.kt:46:21 'startActivityForResult(Intent, Int): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:20.7349470Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/MainActivity.kt:53:13 'startActivityForResult(Intent, Int): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:27.5050532Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:267:16 'getter for defaultDisplay: Display!' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:27.5090562Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:267:31 'getRealMetrics(DisplayMetrics!): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:27.5122300Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/MainActivity.kt:46:21 'startActivityForResult(Intent, Int): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:27.5151869Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/MainActivity.kt:53:13 'startActivityForResult(Intent, Int): Unit' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:31.5170938Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:234:16 'getter for defaultDisplay: Display!' is deprecated. Deprecated in Java
+  - 2026-09-05T04:09:31.5175263Z w: file:///home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/java/com/example/floatingtranslator/FloatingTranslatorService.kt:234:31 'getRealMetrics(DisplayMetrics!): Unit' is deprecated. Deprecated in Java
+
+
+[BUILD ERRORS] - 25 errors:
+  - 2026-09-05T04:09:45.1401401Z * What went wrong:
+  - 2026-09-05T04:09:45.1455751Z Execution failed for task ':app:packageDebug'.
+  - 2026-09-05T04:09:45.1483189Z > A failure occurred while executing com.android.build.gradle.tasks.PackageAndroidArtifact$IncrementalSplitterRunnable
+  - 2026-09-05T04:09:45.1521246Z    > java.lang.OutOfMemoryError (no error message)
+  - 2026-09-05T04:09:45.1521713Z
+  - 2026-09-05T04:09:16.4480698Z * What went wrong:
+  - 2026-09-05T04:09:16.4490231Z Execution failed for task ':app:processDebugResources'.
+  - 2026-09-05T04:09:16.4492493Z > A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+  - 2026-09-05T04:09:16.4494017Z    > Android resource linking failed
+  - 2026-09-05T04:09:16.4496204Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:62: AAPT: error: resource drawable/input_background (aka com.example.floatingtranslator:drawable/input_background) not found.
+
+
+[RESOURCE ERRORS] - 20 errors:
+  - 2026-09-05T04:09:16.4496204Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:62: AAPT: error: resource drawable/input_background (aka com.example.floatingtranslator:drawable/input_background) not found.
+  - 2026-09-05T04:09:16.5142881Z ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:62: AAPT: error: resource drawable/input_background (aka com.example.floatingtranslator:drawable/input_background) not found.
+  - 2026-09-05T04:09:13.5054781Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:62: AAPT: error: resource drawable/input_background (aka com.example.floatingtranslator:drawable/input_background) not found.
+  - 2026-09-05T04:09:13.5515550Z ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:62: AAPT: error: resource drawable/input_background (aka com.example.floatingtranslator:drawable/input_background) not found.
+  - 2026-09-05T03:30:36.9537254Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:75: AAPT: error: '0' is incompatible with attribute minHeight (attr) dimension.
+  - 2026-09-05T03:30:36.9550339Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:75: AAPT: error: '0' is incompatible with attribute minWidth (attr) dimension.
+  - 2026-09-05T03:30:36.9584620Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:86: AAPT: error: '0' is incompatible with attribute minHeight (attr) dimension.
+  - 2026-09-05T03:30:36.9589186Z      ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:86: AAPT: error: '0' is incompatible with attribute minWidth (attr) dimension.
+  - 2026-09-05T03:30:37.0597428Z ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:75: AAPT: error: '0' is incompatible with attribute minHeight (attr) dimension.
+  - 2026-09-05T03:30:37.0601008Z ERROR: /home/runner/work/FloatingTranslator/FloatingTranslator/app/src/main/res/layout/floating_translator.xml:75: AAPT: error: '0' is incompatible with attribute minWidth (attr) dimension.
+
+--------------------------------------------------------------------------------
+REKOMENDASI:
+--------------------------------------------------------------------------------
+
+1. Fix Kotlin errors:
+   - Periksa unresolved reference
+   - Periksa smart cast
+   - Periksa null safety
+
+2. Fix Resource errors:
+   - Periksa XML attribute
+   - Periksa duplicate resources
+
+3. Fix Build errors:
+   - Periksa dependency
+   - Periksa gradle config
+
