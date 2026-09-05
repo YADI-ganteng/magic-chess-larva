@@ -98,40 +98,51 @@ public class CombatSystem {
     public boolean simulateNextTick() {
         if (!battleInProgress) return false;
         
+        // Player units attack
         for (CombatUnit unit : playerUnits) {
             if (unit.isAlive()) {
                 unitAttack(unit, enemyUnits);
             }
         }
         
+        // Enemy units attack
         for (CombatUnit unit : enemyUnits) {
             if (unit.isAlive()) {
                 unitAttack(unit, playerUnits);
             }
         }
         
+        // Check battle end
         boolean playerAlive = playerUnits.stream().anyMatch(CombatUnit::isAlive);
         boolean enemyAlive = enemyUnits.stream().anyMatch(CombatUnit::isAlive);
         
         if (!playerAlive || !enemyAlive) {
             battleInProgress = false;
-            return true;
+            return true; // Battle ended
         }
         
-        return false;
+        return false; // Battle continues
     }
     
     private void unitAttack(CombatUnit attacker, List<CombatUnit> targets) {
+        // Find target (nearest alive enemy)
         CombatUnit target = findNearestTarget(attacker, targets);
         
         if (target != null) {
+            // Calculate damage
             int damage = attacker.getHero().getAttack();
+            
+            // Apply defense reduction
             damage = Math.max(1, damage - target.getHero().getDefense() / 2);
+            
+            // Random variation
+            damage = damage + random.nextInt(5) - 2;
             
             target.takeDamage(damage);
             target.addMana(10);
             attacker.addMana(10);
             
+            // Check for skill usage
             if (attacker.isReadyForSkill()) {
                 useSkill(attacker, targets);
                 attacker.setMana(0);
@@ -142,6 +153,12 @@ public class CombatSystem {
     private void useSkill(CombatUnit caster, List<CombatUnit> targets) {
         // Simple skill: AoE damage
         int skillDamage = caster.getHero().getAttack() * 2;
+        int magicPower = caster.getHero().getMagicPower();
+        
+        // Add magic power to damage
+        skillDamage += magicPower;
+        
+        // Hit all nearby enemies
         for (CombatUnit target : targets) {
             if (target.isAlive() && Math.abs(target.getPosition() - caster.getPosition()) <= 2) {
                 target.takeDamage(skillDamage);
