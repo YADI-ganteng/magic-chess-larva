@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<hero_text_box>
+		<element id='0' name="Jaune" contents_text="Jaune attaque l'unité ennemie en utilisant la \nlangue longue et la queue dure."/>
+		<element id='1' name="Super-jaune" contents_text="Super Jaune est le plus fort. La compétence \nShockwave vous permet d'attaquer des unités \nennemies de masse."/>
+		<element id='2' name="Rouge" contents_text="La vitesse de Red vous permet d'attaquer l'unité \nennemie sans dommage en utilisant la \ncompétence tête-bout."/>
+		<element id='3' name="Masque rouge" contents_text="Vitesse de réduction des unités ennemies en \nutilisant la toile d'araignée à l'unité ennemie."/>
+		<element id='4' name="Rouge Cyborg" contents_text="Cyborg Red Lancez 'Power missile' aux unités \nennemies et l'ennemi devient knock-back."/>
+		<element id='5' name="Steel net" contents_text="Acier Red lance 'Power lazer' aux unités ennemies \net l'ennemi devient étourdi."/>
+		<element id='6' name="Rouge viking" contents_text="Viking Red spin Marteau de puissance pour \nattaquer les unités ennemies de masse."/>
+		<element id='7' name="Red Ninja" contents_text="Ninja Red attaque les unités ennemies en jetant \nle poignard pointu et venimeux."/>
+		<element id='8' name="Kung Fu Rouge" contents_text="Kungpu Red nunchuck swing pour attaquer l'unité \nennemie de masse et de les laisser voler."/>
+		<element id='9' name="Le renard roux" contents_text="Zorro Red swing mince épée aussi rapide que la \nfoudre pour attaquer les unités \nennemies."/>
+	</hero_text_box>
+  
+	<unit_text_box>
+		<element id='0' name="Scarabée" contents_text="Type de base de l'unité des attaques de mêlée."/>
+		<element id='1' name="Protection arc" contents_text="Une utilisation bouclier massif pour se défendre contre les attaques ennemies."/>
+		<element id='2' name="Voiture de larve" contents_text="Lampe de poche dans la zone sombre désavantage ne sont pas endommagés. MAX: 4"/>
+		<element id='3' name="Noir" contents_text="L'unité la plus forte de mêlée avec le poinçon."/>
+		<element id='4' name="Bug bombe" contents_text="Aller dommages à proximité ennemis et le souffle des unités ennemies."/>
+		<element id='5' name="Arc en ciel" contents_text="Défense d'attaquer les unités ennemies cachées dans la défense de coquille d'escargot est pas mal."/>
+		<element id='6' name="Marron" contents_text="Le tir de fumier puant à l'unité ennemie."/>
+		<element id='7' name="Arc-en-Hunter" contents_text="Lancer son bouclier à une unité ennemie."/>
+		<element id='8' name="Chevalier noir" contents_text="Jetez un coup à l'unité de l'ennemi."/>
+		<element id='9' name="Rose" contents_text="Dan musuh godaan, Unité Setrum."/>
+		<element id='10' name="Prince-espace" contents_text="Super kekuatan Menggunakan, mengirim Tentara setan de masse ke sisi JAUH JAUH."/>
+		<element id='11' name="Rainbow Warriors" contents_text="Musuh le dengan de l'unité de héros Untuk Perisai."/>
+		<element id='12' name="Bleu" contents_text="Tarian Menari kutukan donner Secara bertahap mengurangi setan corps 'HP'."/>
+		<element id='13' name="Violet" contents_text="Serangan yang unité akan mencegah Muncul de l'UIT Muncul Ketika."/>
+	</unit_text_box>
+  
+	<skill_text_box>
+		<element id='0' name="Chef de l'Impact" contents_text="attaque unité ennemie avec un langage fort."/>
+		<element id='1' name="Pirates du mouvement" contents_text="Toutes les unités ennemies accélèrent. La capacité des inconvénients"/>
+		<element id='2' name="Koksbombe" contents_text="Installez Koksbombe et le souffle des dégâts aux unités ennemies."/>
+		<element id='3' name="Vent bénédiction" contents_text="Toutes nos unités amies augmentent la vitesse de compétence."/>
+		<element id='4' name="Schwanzstichel" contents_text="Appuyez sur l'unité ennemie avec poinçon vireur loin."/>
+		<element id='5' name="Nettoyage Bénédiction" contents_text="Sure maudire toutes les unités amies avec buff magique compétence."/>
+		<element id='6' name="salive" contents_text="Saliva lauch beaucoup éternuer dans l'unité ennemie."/>
+		<element id='7' name="Pirates de violence" contents_text="Réduire 'puissance d'attaque »pour toutes les unités ennemies avec la danse habileté malédiction."/>
+		<element id='8' name="nez qui coule" contents_text="NLaunch un nez qui coule et d'attaquer l'ennemi."/>
+		<element id='9' name="The Curse of Pain" contents_text="Réduction «force de défense» toutes les unités ennemies avec une malédiction compétence douloureux."/>
+		<element id='10' name="Bénédiction Bouclier" contents_text="Augmenter la «force de défense» toutes les unités amies avec buff magique compétence."/>
+		<element id='11' name="rouleau" contents_text="Jaune recroquevillé dans un corps qui attaque plusieurs ennemis."/>
+		<element id='12' name="choc" contents_text="Etourdit toutes les unités ennemies buff compétence magique."/>
+		<element id='13' name="rot" contents_text="Burp attaque des unités ennemies dans la zone de compétence."/>
+		<element id='14' name="gâteau de pompe" contents_text="Installer un gâteau de pompe et forte explosion des dégâts aux unités ennemies."/>
+		<element id='15' name="Bénédiction de puissance" contents_text="Augmente la puissance «attaque» toutes les unités amies avec buff magique compétence."/>
+		<element id='16' name="queue tournant" contents_text="Attaque plusieurs unités ennemies avec vrille."/>
+		<element id='17' name="pet" contents_text="Démarrer le gaz de la pompe pour éliminer plusieurs unités ennemies avant héros."/>
+		<element id='18' name="Une étrange barrière" contents_text="mouvement de défense de toutes les unités ennemies avec mur de glace magique."/>
+		<element id='19' name="Bénédiction de récupération" contents_text="augmente HP '' toutes les unités amies avec buff compétence magique."/>
+		<element id='20' name="Pirates du mouvement" contents_text="Toutes les unités ennemies accélèrent. La capacité des inconvénients"/>
+		<element id='21' name="stockage d'énergie" contents_text="Red SPRED recueillir la puissance et le prix de la tête de son adversaire."/>
+		<element id='22' name="Bénédiction de la violence" contents_text="Augmente la puissance «attaque» toutes les unités amies avec buff magique compétence."/>
+		<element id='23' name="impuissance" contents_text="Etourdit toutes les unités ennemies buff compétence magique."/>
+		<element id='24' name="la destruction de la mort" contents_text="La vitesse du réseau vous permet d'attaquer unité ennemie sans endommager habilement la tête."/>
+		<element id='25' name="Un assassiner sourire" contents_text="Augmente la puissance «attaque» toutes les unités amies avec buff magique compétence."/>
+		<element id='26' name="cri" contents_text="Augmenter 'hp' toutes les unités ennemies buff de compétence magique."/>
+		<element id='27' name="Shockwave" contents_text="Pierre se lève à partir du sol. capacités de l'onde de choc permet d'attaquer les unités ennemies."/>
+		<element id='28' name="puissance de feu" contents_text="Boule pouvoir magique pour appeler le feu."/>
+		<element id='29' name="météore" contents_text="Tomber pierre appelée comme une énergie cachée de la baguette."/>
+		<element id='30' name="la lumière de guérison" contents_text="Augmente la puissance «attaque» toutes les unités amies avec buff magique compétence."/>
+		<element id='31' name="Danse chaos" contents_text="SStun toutes les unités ennemies comme une malédiction danse caractéristiques ethniques"/>
+		<element id='32' name="onde de marteau" contents_text="Les dommages à l'ennemi par la foudre."/>
+		<element id='33' name="crier fou" contents_text="Augmente la puissance d'attaque des unités amies comme géant hurlant pour l'amateur."/>
+		<element id='34' name="marteau coulé" contents_text="Endommager l'adversaire en faisant tourner le marteau pointu."/>
+		<element id='35' name="ray d'onde" contents_text="Dommages-intérêts multiples ennemis ne jurent que par la foudre dans le ciel."/>
+		<element id='36' name="écran pare-feu" contents_text="endommageant plusieurs ennemis aussi puissants puissance de feu de la plaque."/>
+		<element id='37' name="dieux bouclier" contents_text="Hero presque pas endommagé par l'ennemi, parce que les forces de défense augmente."/>
+		<element id='38' name="Grenade" contents_text="Lancer des grenades sur les ennemis et les dommages ennemis."/>
+		<element id='39' name="faisceau arc" contents_text="Commencez faisceau arc à travers le bouclier de l'ennemi et les dommages."/>
+	</skill_text_box>
+	
+	<fix_item_shop>
+		<element id='0' name="Couronne en cuir" contents_text1="" contents_text2="Cuir" contents_text3="couronne"/>
+		<element id='1' name="Couronne en cuivre" contents_text1="" contents_text2="Cuivre" contents_text3="couronne"/>
+		<element id='2' name="Couronne en argent" contents_text1="" contents_text2="Argenté" contents_text3="couronne"/>
+		<element id='3' name="Couronne en or" contents_text1="" contents_text2="Or" contents_text3="couronne"/>
+		<element id='4' name="Couronne saphir" contents_text1="" contents_text2="Saphir" contents_text3="couronne"/>
+		<element id='5' name="Couronne rubis" contents_text1="" contents_text2="Rubis" contents_text3="couronne"/>
+		<element id='6' name="Collier en cuir" contents_text1="" contents_text2="Cuir" contents_text3="collier"/>
+		<element id='7' name="Collier de cuivre" contents_text1="" contents_text2="Cuivre" contents_text3="collier"/>
+		<element id='8' name="Collier en argent" contents_text1="" contents_text2="Argenté" contents_text3="collier"/>
+		<element id='9' name="Collier en or" contents_text1="" contents_text2="Or" contents_text3="collier"/>
+		<element id='10' name="Collier de saphir" contents_text1="" contents_text2="Saphir" contents_text3="collier"/>
+		<element id='11' name="Collier de rubis" contents_text1="" contents_text2="Rubis" contents_text3="collier"/>
+		<element id='12' name="Bracelet Cuir" contents_text1="" contents_text2="Cuir" contents_text3="bracelet"/>
+		<element id='13' name="Bracelet en Cuivre" contents_text1="" contents_text2="Cuivre" contents_text3="bracelet"/>
+		<element id='14' name="Bracelet en argent" contents_text1="" contents_text2="Argenté" contents_text3="bracelet"/>
+		<element id='15' name="Bracelet en or" contents_text1="" contents_text2="Or" contents_text3="bracelet"/>
+		<element id='16' name="Bracelet en saphir" contents_text1="" contents_text2="Saphir" contents_text3="bracelet"/>
+		<element id='17' name="Bracelet rubis" contents_text1="" contents_text2="Rubis" contents_text3="bracelet"/>
+		<element id='18' name="Anneau en cuir" contents_text1="" contents_text2="Cuir" contents_text3="anneau"/>
+		<element id='19' name="Anneau en cuivre" contents_text1="" contents_text2="Cuivre" contents_text3="anneau"/>
+		<element id='20' name="Anneau en argent" contents_text1="" contents_text2="Argenté" contents_text3="anneau"/>
+		<element id='21' name="Anneau en or" contents_text1="" contents_text2="Or" contents_text3="anneau"/>
+		<element id='22' name="Anneau de saphir" contents_text1="" contents_text2="Saphir" contents_text3="anneau"/>
+		<element id='23' name="Anneau de rubis" contents_text1="" contents_text2="Rubis" contents_text3="anneau"/>
+		<element id='24' name="Ceinture en cuir" contents_text1="" contents_text2="Cuir" contents_text3="ceinture"/>
+		<element id='25' name="Ceinture en cuivre" contents_text1="" contents_text2="Cuivre" contents_text3="ceinture"/>
+		<element id='26' name="Ceinture argent" contents_text1="" contents_text2="Argenté" contents_text3="ceinture"/>
+		<element id='27' name="Ceinture en or" contents_text1="" contents_text2="Or" contents_text3="ceinture"/>
+		<element id='28' name="Ceinture en saphir" contents_text1="" contents_text2="Saphir" contents_text3="ceinture"/>
+		<element id='29' name="Ceinture en rubis" contents_text1="" contents_text2="Rubis" contents_text3="ceinture"/>
+	</fix_item_shop>
+	
+  	<eat_item_shop>
+		<element id='30' name="MP potion" contents_text1="MP héros peut récupérer 30% de soude dans \nle jeu." contents_text2="MP potion" contents_text3=""/>
+		<element id='31' name="HP potion" contents_text1="Vous pouvez Held HP 30% récupérer avec de \nla gelée Play." contents_text2="HP potion" contents_text3=""/>
+		<element id='32' name="Partie HP potion" contents_text1="Héros Firend peut récupérer HP 30% \nPotion partie à jouer." contents_text2="partie" contents_text3="HP potion"/>
+		<element id='33' name="Held Nourriture" contents_text1="Vous pouvez jouer 20% avec du fromage \nhéros et ami du héros HP." contents_text2="Held" contents_text3="Nourriture"/>
+		<element id='34' name="HP unité Poiton" contents_text1="Vous pouvez restaurer les unités amies \nHP30% avec la pizza en jeu." contents_text2="unité" contents_text3="HP potion"/>
+		<element id='35' name="la force d'attaque" contents_text1="Augmente la «puissance  attaque» à \n30% du héros avec l'élément buff passif dans le jeu." contents_text2="la force" contents_text3="d'attaque"/>
+		<element id='36' name="Accélérer" contents_text1="Augmentez la vitesse de doublage du héros en \nutilisant un objet de buff passif lors de la lecture." contents_text2="Accélérer" contents_text3=""/>
+		<element id='37' name="HP augmente" contents_text1="HP Gage 30% de Augmentations du héros avec \nun membre de buff passif à jouer." contents_text2="HP augmente" contents_text3=""/>
+		<element id='38' name="Augmentation Exp" contents_text1="Augmenter «CAD» 30% du héros avec l\n'élément buff passif dans le jeu." contents_text2="Augmentation" contents_text3="Exp"/>
+		<element id='39' name="Jauge d'unité" contents_text1="Augmentez de 30% le nombre de héros \nutilisant un objet de buff passif au jeu." contents_text2="Jauge" contents_text3="d'unité"/>
+		<element id='40' name="Hero Potion" contents_text1="Vous pouvez avec 'icône jaune' pour changer \njaune pièces jaunes super-héros." contents_text2="Hero Potion" contents_text3=""/>		
+	</eat_item_shop>
+	
+  	<special_shop>
+		<element id='41' name="Aimant magique" contents_text1="Vous pouvez numéroter automatiquement vienna \nsans limitations de travail." contents_text2="magie" contents_text3="aimant"/>
+		<element id='42' name="à double vienna" contents_text1="Vous pouvez obtenir 'gagner Dubble \nvienna' nombre illimité d'utilisation." contents_text2="deux fois" contents_text3="Vienne"/>
+		<element id='43' name="Ensemble saphir" contents_text1="vous pouvez obtenir une armure shappire 5set. (Nv.1 ~)" contents_text2="Ensemble" contents_text3="saphir"/>
+		<element id='44' name="Ensemble de rubis" contents_text1="Vous pouvez obtenir une armure de rubis 5set. (Nv.1 ~)" contents_text2="Ensemble" contents_text3="de rubis"/>
+		<element id='45' name="Héros capacité X2" contents_text1="Héros capacité x2 (HP, Attaque, Défense)" contents_text2="Héros" contents_text3="capacité X2"/>
+		<element id='46' name="Capacité d'ami X2" contents_text1="Toute la capacité ami héros x2 \n(HP, Attaque, Défense)" contents_text2="Capacité" contents_text3="d'ami X2"/>
+	</special_shop>
+	
+	<google_special>
+		<element id='47' name="구글 스페셜 머리띠" contents_text1="" contents_text2="구글 스페셜" contents_text3="머리띠"/>
+		<element id='48' name="구글 스페셜 목걸이" contents_text1="" contents_text2="구글 스페셜" contents_text3="목걸이"/>
+		<element id='49' name="구글 스페셜 팔찌" contents_text1="" contents_text2="구글 스페셜" contents_text3="팔찌"/>
+		<element id='50' name="구글 스페셜 반지" contents_text1="" contents_text2="구글 스페셜" contents_text3="반지"/>
+		<element id='51' name="구글 스페셜 벨트" contents_text1="" contents_text2="구글 스페셜" contents_text3="벨트"/>
+	</google_special>
+
+	 <set_item>
+		<element id='0' name="Couronne Brillant en cuir" contents_text1="" contents_text2="빛나는 가죽" contents_text3="머리띠"/>
+		<element id='1' name="Collier Brillant en cuir" contents_text1="" contents_text2="빛나는 가죽" contents_text3="목걸이"/>
+		<element id='2' name="Bracelet Brillant en cuir" contents_text1="" contents_text2="빛나는 가죽" contents_text3="팔찌"/>
+		<element id='3' name="Anneau Brillant en cuir" contents_text1="" contents_text2="빛나는 가죽" contents_text3="반지"/>
+		<element id='4' name="Ceinture Brillant en cuir" contents_text1="" contents_text2="빛나는 가죽" contents_text3="벨트"/>
+
+		<element id='5' name="Couronne Brillant en cuivre" contents_text1="" contents_text2="빛나는 구리" contents_text3="머리띠"/>
+		<element id='6' name="Collier Brillant en cuivre" contents_text1="" contents_text2="빛나는 구리" contents_text3="목걸이"/>
+		<element id='7' name="Bracelet Brillant en cuivre" contents_text1="" contents_text2="빛나는 구리" contents_text3="팔찌"/>
+		<element id='8' name="Anneau Brillant en cuivre" contents_text1="" contents_text2="빛나는 구리" contents_text3="반지"/>
+		<element id='9' name="Ceinture Brillant en cuivre" contents_text1="" contents_text2="빛나는 구리" contents_text3="벨트"/>
+
+		<element id='10' name="Couronne Brillant en argent" contents_text1="" contents_text2="빛나는 은" contents_text3="머리띠"/>
+		<element id='11' name="Collier Brillant en argent" contents_text1="" contents_text2="빛나는 은" contents_text3="목걸이"/>
+		<element id='12' name="Bracelet Brillant en argent" contents_text1="" contents_text2="빛나는 은" contents_text3="팔찌"/>
+		<element id='13' name="Anneau Brillant en argent" contents_text1="" contents_text2="빛나는 은" contents_text3="반지"/>
+		<element id='14' name="Ceinture Brillant en argent" contents_text1="" contents_text2="빛나는 은" contents_text3="벨트"/>
+
+		<element id='15' name="émeraude Couronne" contents_text1="" contents_text2="에메랄드" contents_text3="머리띠"/>
+		<element id='16' name="émeraude Collier" contents_text1="" contents_text2="에메랄드" contents_text3="목걸이"/>
+		<element id='17' name="émeraude Bracelet" contents_text1="" contents_text2="에메랄드" contents_text3="팔찌"/>
+		<element id='18' name="émeraude Anneau" contents_text1="" contents_text2="에메랄드" contents_text3="반지"/>
+		<element id='19' name="émeraude Ceinture" contents_text1="" contents_text2="에메랄드" contents_text3="벨트"/>
+
+		<element id='20' name="Diamant Collier" contents_text1="" contents_text2="다이아몬드" contents_text3="머리띠"/>
+		<element id='21' name="Diamant Collier" contents_text1="" contents_text2="다이아몬드" contents_text3="목걸이"/>
+		<element id='22' name="Diamant Bracelet" contents_text1="" contents_text2="다이아몬드" contents_text3="팔찌"/>
+		<element id='23' name="Diamant Anneau" contents_text1="" contents_text2="다이아몬드" contents_text3="반지"/>
+		<element id='24' name="Diamant Ceinture" contents_text1="" contents_text2="다이아몬드" contents_text3="벨트"/>
+		
+		<element id='25' name="Billet Boss Donjon" contents_text1="Billets pour entrer dans le Boss Dungeon." contents_text2="0" contents_text3="0"/>
+		<element id='26' name="Pierre de puissance" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="HP Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="Pierre guérisseuse" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="Pierre critique" contents_text1="" contents_text2="0" contents_text3="0"/>
+  </set_item>
+
+  	<main_ui_text>
+		<element id='0' name="랭킹 점수" contents_text="Point Raning définir clairement la somme de tous les points de la scène."/>
+		<element id='1' name="친구 설치 보상1" contents_text="Jouer le jeu avec trois amis."/>
+		<element id='2' name="친구 설치 보상2" contents_text="Jouer jeu avec huit amis."/>
+		<element id='3' name="보상 항목 표시" contents_text="Vous pouvez obtenir le nouveau personnage du héros."/>
+		<element id='4' name="보상 항목 표시2" contents_text="Vous pouvez obtenir le nouveau personnage du héros."/>
+		<element id='5' name="UI설명 텍스트" contents_text="Vous pouvez obtenir divers prix, les meilleurs amis de jeu."/>
+		<element id='6' name="UI부분 설명 텍스트" contents_text="Facebook événement invitent."/>
+		<element id='7' name="UI부분 설명 텍스트" contents_text="Liste d'amis"/>
+		<element id='8' name="보상 항목 표시3" contents_text="Hero ami cadeau."/>
+	</main_ui_text>
+	
+  	<shop_ui_text>
+		<element id='0' name="근거리" contents_text="mêlée"/>
+		<element id='1' name="원거리" contents_text="Offert"/>
+		<element id='2' name="용병상점 설명" contents_text="Acheter Hero ami / mise à jour / il peut être installé."/>
+		<element id='3' name="용병장비장착 설명" contents_text="Ami héros peut équiper une armure comme des héros."/>
+		<element id='4' name="유닛상점 설명" contents_text="Vous pouvez acheter des unités amies à se battre avec les unités ennemies."/>
+		<element id='5' name="스킬상점 설명" contents_text="Vous pouvez apprendre des compétences spéciales utilisées par le héros."/>
+		<element id='6' name="아이템 상점 설명" contents_text="Les articles de potions, buff peuvent être achetés et vendus."/>
+		<element id='7' name="인벤토리 설명" contents_text="Vous pouvez équiper l'armure et l'élément pula du héros."/>
+		<element id='8' name="아이템 레벨제한" contents_text="Lv1~"/>
+		<element id='9' name="아이템 레벨제한" contents_text="Lv15~"/>
+		<element id='10' name="아이템 레벨제한" contents_text="Lv30~"/>
+		<element id='11' name="아이템 레벨제한" contents_text="Lv45"/>
+	</shop_ui_text>
+  
+	<normal_monster_name>
+		<element id='0' name="Maman" contents_text=""/>
+		<element id='1' name="Momie géante" contents_text=""/>
+		<element id='2' name="Petite maman" contents_text=""/>
+		<element id='3' name="Momie générale" contents_text="en colère"/>
+		<element id='4' name="Une maman géante" contents_text="en colère"/>
+		<element id='5' name="Une petite maman" contents_text="en colère"/>
+		<element id='6' name="Crâne" contents_text=""/>
+		<element id='7' name="Petit crâne" contents_text=""/>
+		<element id='8' name="Crâne géant" contents_text=""/>
+		<element id='9' name="Crâne en colère" contents_text=""/>
+		<element id='10' name="Petit crâne" contents_text="en colère"/>
+		<element id='11' name="Crâne géant" contents_text="en colère"/>
+		<element id='12' name="Momie volante" contents_text=""/>
+		<element id='13' name="Voler petite maman" contents_text=""/>
+		<element id='14' name="Voler maman" contents_text="en colère"/>
+		<element id='15' name="Voler en colère" contents_text="petite maman"/>
+		<element id='16' name="Crâne volant" contents_text=""/>
+		<element id='17' name="Voler petit crâne" contents_text=""/>
+		<element id='18' name="Crâne en colère" contents_text=""/>
+		<element id='19' name="Voler en colère" contents_text="petit crâne"/>
+		<element id='20' name="Fantôme" contents_text=""/>
+		<element id='21' name="Grand fantôme" contents_text=""/>
+		<element id='22' name="Vampire" contents_text=""/>
+		<element id='23' name="Vampire en colère" contents_text=""/>
+		<element id='24' name="Bombe citrouille" contents_text=""/>
+		<element id='25' name="Petite bombe" contents_text="citrouille"/>
+		<element id='26' name="Petit vampire" contents_text=""/>
+		<element id='27' name="Petit vampire" contents_text="en colère"/>
+		<element id='28' name="Cadavre gelé" contents_text=""/>
+		<element id='29' name="Black ent" contents_text=""/>
+		<element id='30' name="Homme de guitare" contents_text=""/>
+		<element id='31' name="Patron de base" contents_text=""/>
+		<element id='32' name="Frankenstein" contents_text=""/>
+		<element id='33' name="Loup" contents_text=""/>
+		<element id='34' name="Citrouille" contents_text=""/>
+		<element id='35' name="Diable" contents_text=""/>
+	</normal_monster_name>	
+
+	<option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
