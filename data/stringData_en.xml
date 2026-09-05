@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+  <hero_text_box>
+    <element id='0' name="Yellow" contents_text="Yellow attack enemy unit using long tongue\nand hard tail." />
+    <element id='1' name="Super Yellow" contents_text="Super Yellow is most strong character. Specially shock\nwave skill enable you attack mass enemy units."/>
+	  <element id='2' name="Red" contents_text="Red's speed enable you attack enemy unit without\ndamage using head-butt skill." />
+	  <element id='3' name="Mask Red" contents_text="Speed down of enemy units using spiderweb\nto enemy unit." />
+	  <element id='4' name="Cyborg Red" contents_text="Cyborg Red Launch 'Power missile' to enemy units\nand enemy become knock-Back." />
+	  <element id='5' name="Steel Red" contents_text="Steel Red launch 'Power lazer' to enemy units and \nenemy become stun."/>
+	  <element id='6' name="Viking Red" contents_text="Viking Red spin Power hammer to attack mass\nenemy units." />
+	  <element id='7' name="Ninja Red" contents_text="Ninja Red attack enemy units throwing the sharp\nand poisonous dagger." />
+	  <element id='8' name="Kungpu Red" contents_text="Kungpu Red swing nunchuck to attack mass \nenemy unit and let fly them."/>
+	  <element id='9' name="Zorro Red" contents_text="Zorro Red swing thin sword as quick as lightning \nto attack enemy units."/>	  
+  </hero_text_box>
+  
+  <unit_text_box>
+	  <element id='0' name="Beetle" contents_text="Basic attack unit of melee type." />
+	  <element id='1' name="Rainbow Guard" contents_text="Defense attack of enemy units hiding in shield and defense power is weak." />    
+	  <element id='2' name="Larva Car" contents_text="Flash light on dark debuff zone , you are not damaged. MAX: 4"/>
+    <element id='3' name="Black" contents_text="The most Powerful attack melee unit using the punch." />
+	  <element id='4' name="Bomb bug" contents_text="Go near to enemy and exploding damage to around enemy units." />
+    <element id='5' name="Rainbow" contents_text="Defense attack of enemy units hiding in snail shell defense power is not bad." />
+	  <element id='6' name="Brown" contents_text="Throw stinking dung to enemy unit." />
+    <element id='7' name="Rainbow Hunter" contents_text="Throw a shield to enemy unit." />
+    <element id='8' name="Black Knight" contents_text="Throw a strong punch to enemy unit." />
+	  <element id='9' name="Pink" contents_text="Stun enemy unit in front pink for fixed time."/>
+	  <element id='10' name="Space Prince" contents_text="Coming enemy unit return to enemy station using the magic skill." />
+    <element id='11' name="Rainbow Warrior" contents_text="Push enemy unit forward using hard shield." />
+	  <element id='12' name="Blue" contents_text="Decrease 'HP' of enemy units using dance of curse." />
+	  <element id='13' name="Violet" contents_text="Go near to enemy hiding under the ground and defense attack of enemy units coming out." />	  
+  </unit_text_box>
+  
+  <skill_text_box>
+	  <element id='0' name="Tongue hit" contents_text="Attack enemy unit using strong tongue." />
+	  <element id='1' name="Debuff chain" contents_text="All of enemy units speed down for debuff skill time." />
+	  <element id='2' name="Cola bomb" contents_text="Install coke bomb and exploding damage to enemy units." />
+    <element id='3' name="Blessing wind" contents_text="All of our friendly units increase moving speed for skill time." />
+	  <element id='4' name="Tail sting" contents_text="Push enemy unit far away using tail punch." />
+    <element id='5' name="Cure debuff" contents_text="Clear curse all of friendly units using magic buff for skill time." />
+	  <element id='6' name="Spit" contents_text="much spit lauch sneezing to enemy unit." />
+	  <element id='7' name="Debuff power" contents_text="decrease 'attack power' all of enemy units using dance of curse for skill time." />
+    <element id='8' name="Nasal punch" contents_text="Nasal lauch sneezing to enemy unit." />
+    <element id='9' name="Armor break" contents_text="decrease 'defense power' all of enemy units using curse of weakness for skill time." />
+    <element id='10' name="Bessing armor" contents_text="Increase 'defense power' all of friendly units using magic buff for skill time." />
+	  <element id='11' name="Tumble" contents_text="Attack multiple enemy units as tumbling." />
+	  <element id='12' name="Shock stun" contents_text="Stun all of enemy units using magic buff for skill time." />
+	  <element id='13' name="Burp" contents_text="Attack enemy units using Burp in skill range." />
+	  <element id='14' name="Cake bomb" contents_text="Install strong cake bomb and exploding damage to enemy units." />	  
+	  <element id='15' name="Blessing power" contents_text="Increase 'attack power' all of friendly units using magic buff for skill time." />
+    <element id='16' name="Spin tail" contents_text="Attack mutiple enemy units using tail spin." />
+	  <element id='17' name="Gas bomb" contents_text="Launch gas bomb to eliminate multiple enemy units in front of hero."/>
+    <element id='18' name="Magic wall" contents_text="Defense movement all of enemy units using magic ice wall." />
+	  <element id='19' name="Hp recovery" contents_text="Increase 'HP' all of friendly units using magic buff for skill time." />
+    <element id='20' name="Debuff chain" contents_text="All of enemy units speed down for debuff skill time." />
+    <element id='21' name="Head butt" contents_text="Red's speed enable you attack enemy unit without damage using head-butt skill." />
+    <element id='22' name="Blessing power" contents_text="Increase 'attack power' all of friendly units using magic buff for skill time." />
+    <element id='23' name="Shock stun" contents_text="Stun all of enemy units using magic buff for skill time." />
+    <element id='24' name="Death crush" contents_text="Red's speed enable you attack enemy unit without damage using head-butt skill." />
+    <element id='25' name="Blessing HP" contents_text="Increase 'hp and hp gage' all of friendly units using magic buff for skill time." />
+    <element id='26' name="Soul roar" contents_text="Increase 'hp' all of enemy units using magic buff for skill time." />
+    <element id='27' name="Shock wave" contents_text="Stone soar out of the ground. Shockwave skill enable you attack mass enemy units." />
+    <element id='28' name="Fire strom" contents_text="Summon fireball as magic power."/>
+    <element id='29' name="Meteor" contents_text="Fall down the flame stone as hidden energy of magic stick."/>
+    <element id='30' name="Healing light" contents_text="Heal friendly units as ancient magic power."/>
+    <element id='31' name="Chaos Dance" contents_text="Stun all enemy units as curse dance by tribe feature."/>
+    <element id='32' name="Hammer wave" contents_text="Damage to multiple enemy using lightning."/>
+    <element id='33' name="Crazy shouting" contents_text="Increase attack power of friendly units  as huge shouting during buff time."/>
+    <element id='34' name="Hammer cast" contents_text="Damage to multiple enemy using spinning powerful hammer."/>
+    <element id='35' name="Lightning wave" contents_text="Damage to multiple enemy through summon lightning in sky."/>
+    <element id='36' name="Fire shield" contents_text="Damage multiple enemy as mighty fire energy from shield."/>
+    <element id='37' name="Gods shield" contents_text="Hero is almost not damaged from enemy  because defense power is increased."/>
+    <element id='38' name="Grenade" contents_text="Throw Grenade to enemy and damage multiple enemy."/>
+    <element id='39' name="Rainbow beam" contents_text="Launch rainbow beam through shield and damage enemy."/>
+  </skill_text_box>
+
+  <fix_item_shop>
+		<element id='0' name="Leather Crown" contents_text1="" contents_text2="Leather" contents_text3="Crown"/>
+		<element id='1' name="Copper Crown" contents_text1="" contents_text2="Copper" contents_text3="Crown"/>
+		<element id='2' name="Silver Crown" contents_text1="" contents_text2="Silver" contents_text3="Crown"/>
+		<element id='3' name="Gold Crown" contents_text1="" contents_text2="Gold" contents_text3="Crown"/>
+		<element id='4' name="Sapphire Crown" contents_text1="" contents_text2="Sapphire" contents_text3="Crown"/>
+		<element id='5' name="Ruby Crown" contents_text1="" contents_text2="Ruby" contents_text3="Crown"/>
+		<element id='6' name="Leather Necklace" contents_text1="" contents_text2="Leather" contents_text3="Necklace" />
+		<element id='7' name="Copper Necklace" contents_text1="" contents_text2="Copper" contents_text3="Necklace" />
+		<element id='8' name="Silver Necklace" contents_text1="" contents_text2="Silver" contents_text3="Necklace" />
+		<element id='9' name="Gold Necklace" contents_text1="" contents_text2="Gold" contents_text3="Necklace" />
+		<element id='10' name="Sapphire Necklace" contents_text1="" contents_text2="Sapphire" contents_text3="Necklace" />
+		<element id='11' name="Ruby Necklace" contents_text1="" contents_text2="Ruby" contents_text3="Necklace" />
+		<element id='12' name="Leather Bracelet" contents_text1="" contents_text2="Leather" contents_text3="Bracelet"/>
+		<element id='13' name="Copper Bracelet" contents_text1="" contents_text2="Copper" contents_text3="Bracelet"/>
+		<element id='14' name="Silver Bracelet" contents_text1="" contents_text2="Silver" contents_text3="Bracelet"/>
+		<element id='15' name="Gold Bracelet" contents_text1="" contents_text2="Gold" contents_text3="Bracelet"/>
+		<element id='16' name="Sapphire Bracelet" contents_text1="" contents_text2="Sapphire" contents_text3="Bracelet"/>
+		<element id='17' name="Ruby Bracelet" contents_text1="" contents_text2="Ruby" contents_text3="Bracelet"/>
+		<element id='18' name="Leather Ring" contents_text1="" contents_text2="Leather" contents_text3="Ring" />
+		<element id='19' name="Copper Ring" contents_text1="" contents_text2="Copper" contents_text3="Ring" />
+		<element id='20' name="Silver Ring" contents_text1="" contents_text2="Silver" contents_text3="Ring" />
+		<element id='21' name="Gold Ring" contents_text1="" contents_text2="Gold" contents_text3="Ring" />
+		<element id='22' name="Sapphire Ring" contents_text1="" contents_text2="Sapphire" contents_text3="Ring" />
+		<element id='23' name="Ruby Ring" contents_text1="" contents_text2="Ruby" contents_text3="Ring" />
+		<element id='24' name="Leather Belt" contents_text1="" contents_text2="Leather" contents_text3="Belt" />
+		<element id='25' name="Copper Belt" contents_text1="" contents_text2="Copper" contents_text3="Belt" />
+		<element id='26' name="Silver Belt" contents_text1="" contents_text2="Silver" contents_text3="Belt" />
+		<element id='27' name="Gold Belt" contents_text1="" contents_text2="Gold" contents_text3="Belt" />
+		<element id='28' name="Sapphire Belt" contents_text1="" contents_text2="Sapphire" contents_text3="Belt" />
+		<element id='29' name="Ruby Belt" contents_text1="" contents_text2="Ruby" contents_text3="Belt" />
+  </fix_item_shop>
+  	<eat_item_shop>
+	  <element id='30' name="MP Potion" contents_text1="You can recover hero MP 30% using soda\non playing." contents_text2="" contents_text3=""/>
+	  <element id='31' name="HP potion" contents_text1="You can recover hero HP 30% using jelly\non playing." contents_text2="" contents_text3="" />
+	  <element id='32' name="Party Potion" contents_text1="You can recover hero firend HP 30% using\nParty Potion on playing." contents_text2="" contents_text3="" />
+	  <element id='33' name="Hero, Party" contents_text1="You can recover hero and hero friend HP\n20% using cheese on playing." contents_text2="" contents_text3="" />
+	  <element id='34' name="Unit Poiton" contents_text1="You can recover friendly units HP30%\nusing pizza on playing." contents_text2="" contents_text3="" />
+	  <element id='35' name="Attack Power" contents_text1="Increase 'Attack power' 30% of hero\nusing passive buff item on playing." contents_text2="" contents_text3="" />
+	  <element id='36' name="Speed up" contents_text1="Increase 'Dubble speed' of hero using\npassive buff item on playing." contents_text2="" contents_text3="" />
+	  <element id='37' name="Increase HP" contents_text1="Increase 'HP Gage' 30% of hero using\npassive buff item on playing." contents_text2="" contents_text3="" />
+	  <element id='38' name="Increase Exp" contents_text1="Increase 'Exp' 30% of hero using\npassive buff item on playing." contents_text2="" contents_text3="" />
+	  <element id='39' name="Unit gauge" contents_text1="Increase 'Vienna Gauge' 30% of hero using\npassive buff item on playing." contents_text2="" contents_text3="" />
+	  <element id='40' name="Hero Potion" contents_text1="You can change yellow hero to super yellow\nusing 'yellow icon' on playing." contents_text2="" contents_text3="" />
+  </eat_item_shop>
+  	<special_shop>
+	  <element id='41' name="Magic magnet" contents_text1="You can get automatically vienna without \nlimitation number of use." contents_text2="Magic" contents_text3="magnet" />
+	  <element id='42' name="Double vienna" contents_text1="You can get 'Dubble vienna gain' without \nlimitation number of use." contents_text2="Double" contents_text3="vienna" />	  
+	  <element id='43' name="Sapphire set" contents_text1="you can get shappire armor 5set. (Lv.1~)" contents_text2="Sapphire" contents_text3="set" />
+	  <element id='44' name="Ruby set" contents_text1="You can get ruby armor 5set. (Lv.1~)" contents_text2="Ruby" contents_text3="set" />
+    <element id='45' name="Hero ability X2" contents_text1="Hero ability x2 (HP,Attack,Defense)" contents_text2="Hero" contents_text3="ability X 2"/>
+    <element id='46' name="Friend ability X2" contents_text1="All of hero friend ability x2 \n(HP,Attack,Defense)" contents_text2="Hero Friend" contents_text3="ability X 2"/>
+  </special_shop>
+  <google_special>
+    <element id='47' name="Special Crown" contents_text1="" contents_text2="Special" contents_text3="Crown"/>
+    <element id='48' name="Special Necklace" contents_text1="" contents_text2="Special" contents_text3="Necklace"/>
+    <element id='49' name="Special Bracelet" contents_text1="" contents_text2="Special" contents_text3="Bracelet"/>
+    <element id='50' name="Special Ring" contents_text1="" contents_text2="Special" contents_text3="Ring"/>
+    <element id='51' name="Special Belt" contents_text1="" contents_text2="Special" contents_text3="Belt"/>
+  </google_special>
+   <set_item>
+		<element id='0' name="Shiny Leather Crown" contents_text1="" contents_text2="Shiny Leather" contents_text3="Crown"/>
+		<element id='1' name="Shiny Leather Necklace" contents_text1="" contents_text2="Shiny Leather" contents_text3="Necklace"/>
+		<element id='2' name="Shiny Leather Bracelet" contents_text1="" contents_text2="Shiny Leather" contents_text3="Bracelet"/>
+		<element id='3' name="Shiny Leather Ring" contents_text1="" contents_text2="Shiny Leather" contents_text3="Ring"/>
+		<element id='4' name="Shiny Leather Belt" contents_text1="" contents_text2="Shiny Leather" contents_text3="Belt"/>
+
+		<element id='5' name="Shiny Copper Crown" contents_text1="" contents_text2="Shiny Copper" contents_text3="Crown"/>
+		<element id='6' name="Shiny Copper Necklace" contents_text1="" contents_text2="Shiny Copper" contents_text3="Necklace"/>
+		<element id='7' name="Shiny Copper Bracelet" contents_text1="" contents_text2="Shiny Copper" contents_text3="Bracelet"/>
+		<element id='8' name="Shiny Copper Ring" contents_text1="" contents_text2="Shiny Copper" contents_text3="Ring"/>
+		<element id='9' name="Shiny Copper Belt" contents_text1="" contents_text2="Shiny Copper" contents_text3="Belt"/>
+
+		<element id='10' name="Shiny Silver Crown" contents_text1="" contents_text2="Shiny Silver" contents_text3="Crown"/>
+		<element id='11' name="Shiny Silver Necklace" contents_text1="" contents_text2="Shiny Silver" contents_text3="Necklace"/>
+		<element id='12' name="Shiny Silver Bracelet" contents_text1="" contents_text2="Shiny Silver" contents_text3="Bracelet"/>
+		<element id='13' name="Shiny Silver Ring" contents_text1="" contents_text2="Shiny Silver" contents_text3="Ring"/>
+		<element id='14' name="Shiny Silver Belt" contents_text1="" contents_text2="Shiny Silver" contents_text3="Belt"/>
+
+		<element id='15' name="Emerald Crown" contents_text1="" contents_text2="Emerald" contents_text3="Crown"/>
+		<element id='16' name="Emerald Necklace" contents_text1="" contents_text2="Emerald" contents_text3="Necklace"/>
+		<element id='17' name="Emerald Bracelet" contents_text1="" contents_text2="Emerald" contents_text3="Bracelet"/>
+		<element id='18' name="Emerald Ring" contents_text1="" contents_text2="Emerald" contents_text3="Ring"/>
+		<element id='19' name="Emerald Belt" contents_text1="" contents_text2="Emerald" contents_text3="Belt"/>
+
+		<element id='20' name="Diamond Crown" contents_text1="" contents_text2="Diamond" contents_text3="Crown"/>
+		<element id='21' name="Diamond Necklace" contents_text1="" contents_text2="Diamond" contents_text3="Necklace"/>
+		<element id='22' name="Diamond Bracelet" contents_text1="" contents_text2="Diamond" contents_text3="Bracelet"/>
+		<element id='23' name="Diamond Ring" contents_text1="" contents_text2="Diamond" contents_text3="Ring"/>
+		<element id='24' name="Diamond Belt" contents_text1="" contents_text2="Diamond" contents_text3="Belt"/>
+		
+		<element id='25' name="Boss Dungeon Ticket" contents_text1="Tickets to enter the Boss Dungeon." contents_text2="0" contents_text3="0"/>
+		<element id='26' name="Power Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="HP Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="Healling Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="Critical Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+  </set_item>
+  	<main_ui_text>
+	  <element id='0' name="랭킹 점수" contents_text="Raning point define sum of all stage clear point." />
+	  <element id='1' name="친구 설치 보상1" contents_text="Play game with three friends." />
+	  <element id='2' name="친구 설치 보상2" contents_text="Play game with eight friends." />
+	  <element id='3' name="보상 항목 표시" contents_text="You can get the new hero character."/>
+	  <element id='4' name="보상 항목 표시2" contents_text="You can get the new hero character."/>
+	  <element id='5' name="UI설명 텍스트" contents_text="You can get the various reward, the more friend playing the better."/>
+	  <element id='6' name="UI부분 설명 텍스트" contents_text="facebook invite event." />
+	  <element id='7' name="UI부분 설명 텍스트" contents_text="friend list"/>
+	  <element id='8' name="보상 항목 표시" contents_text="Hero Friend gift."/>
+  </main_ui_text>
+  	<shop_ui_text>
+	  <element id='0' name="근거리" contents_text="Melee" />
+	  <element id='1' name="원거리" contents_text="Range" />
+	  <element id='2' name="용병상점 설명" contents_text="You can do purchase,upgrade and equipment for hero friend." />
+	  <element id='3' name="용병장비장착 설명" contents_text="Hero friend can equip armor like hero." />
+	  <element id='4' name="유닛상점 설명" contents_text="You can buy friendly units to help fight with enemy units." />
+	  <element id='5' name="스킬상점 설명" contents_text="You can buy all of hero special skill but use four skill on playing." />
+	  <element id='6' name="아이템 상점 설명" contents_text="Buy and sale hero's food,buff item." />
+	  <element id='7' name="인벤토리 설명" contents_text="You can equip armor and buff item of hero." />
+    <element id='8' name="아이템 레벨제한" contents_text="Lv1~"/>
+    <element id='9' name="아이템 레벨제한" contents_text="Lv15~"/>
+    <element id='10' name="아이템 레벨제한" contents_text="Lv30~"/>
+    <element id='11' name="아이템 레벨제한" contents_text="Lv45~"/>
+  </shop_ui_text>
+
+  <normal_monster_name>
+		<element id='0' name="Mummy" contents_text=""/>
+		<element id='1' name="Giant mummy" contents_text=""/>
+		<element id='2' name="Small mummy" contents_text=""/>
+		<element id='3' name="Angry general mummy" contents_text=""/>
+		<element id='4' name="An Angry Giant Mummy" contents_text=""/>
+		<element id='5' name="An Angry Little Mummy" contents_text=""/>
+		<element id='6' name="Skull" contents_text=""/>
+		<element id='7' name="Small skull" contents_text=""/>
+		<element id='8' name="Giant skull" contents_text=""/>
+		<element id='9' name="Angry skull" contents_text=""/>
+		<element id='10' name="Angry small skull" contents_text=""/>
+		<element id='11' name="Angry giant skull" contents_text=""/>
+		<element id='12' name="Flying mummy" contents_text=""/>
+		<element id='13' name="Flying small mummy" contents_text=""/>
+		<element id='14' name="Flying angry mummy" contents_text=""/>
+		<element id='15' name="Flying angry small mummy" contents_text=""/>
+		<element id='16' name="Flying skull" contents_text=""/>
+		<element id='17' name="Flying small skull" contents_text=""/>
+		<element id='18' name="Flying Angry skull" contents_text=""/>
+		<element id='19' name="Flying angry small skull" contents_text=""/>
+		<element id='20' name="Ghost" contents_text=""/>
+		<element id='21' name="Big ghost" contents_text=""/>
+		<element id='22' name="Vampire" contents_text=""/>
+		<element id='23' name="Angry vampire" contents_text=""/>
+		<element id='24' name="Bomb pumpkin" contents_text=""/>
+		<element id='25' name="Small bomb pumpkin" contents_text=""/>
+		<element id='26' name="Small vampire" contents_text=""/>
+		<element id='27' name="Angry little vampire" contents_text=""/>
+		<element id='28' name="Frozen corpse" contents_text=""/>
+		<element id='29' name="Black ent" contents_text=""/>
+		<element id='30' name="Guitar Man" contents_text=""/>
+		<element id='31' name="Base boss" contents_text=""/>
+		<element id='32' name="Frankenstein" contents_text=""/>
+		<element id='33' name="Wolf" contents_text=""/>
+		<element id='34' name="Pumpkin" contents_text=""/>
+		<element id='35' name="Devil" contents_text=""/>
+	</normal_monster_name>	
+
+	<option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
