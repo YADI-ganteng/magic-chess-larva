@@ -1,0 +1,661 @@
+{
+  "VERCODE": 1,
+  "PACKAGE": [
+    {
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason01",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "1",
+      "KO": "라바만화 01~03",
+      "EN": "Comics 01~03"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason02",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "2",	  
+      "KO": "라바만화 04~06",
+      "EN": "Comics 04~06"
+    },  
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason03",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "3",	  
+      "KO": "라바만화 07~09",
+      "EN": "Comics 07~09"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason04",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "4",	  
+      "KO": "라바만화 10~12",
+      "EN": "Comics 10~12"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason05",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "5",	  
+      "KO": "라바만화 13~15",
+      "EN": "Comics 13~15"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason06",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "6",	  
+      "KO": "라바만화 16~18",
+      "EN": "Comics 16~18"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason07",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "7",	  
+      "KO": "라바만화 19~21",
+      "EN": "Comics 19~21"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason08",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "8",	  
+      "KO": "라바만화 22~24",
+      "EN": "Comics 22~24"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason09",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "9",	  
+      "KO": "라바만화 25~27",
+      "EN": "Comics 25~27"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason10",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "10",	  
+      "KO": "라바만화 28~30",
+      "EN": "Comics 28~30"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason11",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "11",
+      "KO": "라바만화 31~33",
+      "EN": "Comics 31~33"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason12",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "12",
+      "KO": "라바만화 34~36",
+      "EN": "Comics 34~36"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason13",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "13",
+      "KO": "라바만화 37~39",
+      "EN": "Comics 37~39"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason14",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "14",
+      "KO": "라바만화 40~42",
+      "EN": "Comics 40~42"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason15",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "15",
+      "KO": "라바만화 43~45",
+      "EN": "Comics 43~45"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason16",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "16",
+      "KO": "라바만화 46~48",
+      "EN": "Comics 46~48"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason17",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "17",
+      "KO": "라바만화 49~51",
+      "EN": "Comics 49~51"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason18",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "18",
+      "KO": "라바만화 52~54",
+      "EN": "Comics 52~54"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason19",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "19",
+      "KO": "라바만화 55~57",
+      "EN": "Comics 55~57"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason20",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "20",
+      "KO": "라바만화 58~60",
+      "EN": "Comics 58~60"
+    },  	
+    {
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason21",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "21",
+      "KO": "라바만화 61~63",
+      "EN": "Comics 61~63"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason22",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "22",
+      "KO": "라바만화 64~66",
+      "EN": "Comics 64~66"
+    },  
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason23",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "23",
+      "KO": "라바만화 67~69",
+      "EN": "Comics 67~69"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason24",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "24",
+      "KO": "라바만화 70~72",
+      "EN": "Comics 70~72"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason25",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "25",
+      "KO": "라바만화 73~76",
+      "EN": "Comics 73~76"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason26",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "26",
+      "KO": "라바만화 77~79",
+      "EN": "Comics 77~79"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason27",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "27",
+      "KO": "라바만화 80~82",
+      "EN": "Comics 80~82"
+	},
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason28",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "28",
+      "KO": "라바만화 83~85",
+      "EN": "Comics 83~85"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason29",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "29",
+      "KO": "라바만화 86~88",
+      "EN": "Comics 86~88"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason30",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "30",
+      "KO": "라바만화 89~92",
+      "EN": "Comics 89~92"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason31",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "31",
+      "KO": "라바만화 93~96",
+      "EN": "Comics 93~96"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason32",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "32",
+      "KO": "라바만화 97~100",
+      "EN": "Comics 97~100"
+	},
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason33",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "33",	  
+      "KO": "라바만화 101~104",
+      "EN": "Comics 101~104"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason34",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "34",	  
+      "KO": "라바만화 105~107",
+      "EN": "Comics 105~107"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason35",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "35",	
+      "KO": "라바만화 108~110",
+      "EN": "Comics 108~110"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason36",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "36",	
+      "KO": "라바만화 111~113",
+      "EN": "Comics 111~113"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason37",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "37",	
+      "KO": "라바만화 114~116",
+      "EN": "Comics 114~116"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason38",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "38",	
+      "KO": "라바만화 117~119",
+      "EN": "Comics 117~119"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason39",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "39",	
+      "KO": "라바만화 120~122",
+      "EN": "Comics 120~122"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason40",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "40",	
+      "KO": "라바만화 123~125",
+      "EN": "Comics 123~125"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason41",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "41",	
+      "KO": "라바만화 126~128",
+      "EN": "Comics 126~128"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason42",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "42",	
+      "KO": "라바만화 129~131",
+      "EN": "Comics 129~131"
+    },  
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason43",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "43",	
+      "KO": "라바만화 132~134",
+      "EN": "Comics 132~134"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason44",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "44",	
+      "KO": "라바만화 135~138",
+      "EN": "Comics 135~138"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason45",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "45",	
+      "KO": "라바만화 139~141",
+      "EN": "Comics 139~141"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason46",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "46",	
+      "KO": "라바만화 142~144",
+      "EN": "Comics 142~144"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason47",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "47",	
+      "KO": "라바만화 145~147",
+      "EN": "Comics 145~147"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason48",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "48",	
+      "KO": "라바만화 148~150",
+      "EN": "Comics 148~150"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason49",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "49",	
+      "KO": "라바만화 151~153",
+      "EN": "Comics 151~153"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason50",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "50",	
+      "KO": "라바만화 154~156",
+      "EN": "Comics 154~156"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason51",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "51",	
+      "KO": "라바만화 157~159",
+      "EN": "Comics 157~159"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason52",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "52",	
+      "KO": "라바만화 160~162",
+      "EN": "Comics 160~162"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason53",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "53",		  
+      "KO": "라바만화 163~165",
+      "EN": "Comics 163~165"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason54",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "54",	
+      "KO": "라바만화 166~168",
+      "EN": "Comics 166~168"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason55",
+      "IOS_APPID": "",
+	  "CATEGORY": "2",
+	  "NO": "55",		  
+      "KO": "라바만화 169~172",
+      "EN": "Comics 169~172"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason56",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "56",	
+      "KO": "라바만화 173~175",
+      "EN": "Comics 173~175"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason57",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "57",	
+      "KO": "라바만화 176~178",
+      "EN": "Comics 176~178"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason58",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "58",	
+      "KO": "라바만화 179~181",
+      "EN": "Comics 179~181"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason59",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "59",	
+      "KO": "라바만화 182~184",
+      "EN": "Comics 182~184"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason60",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "60",	
+      "KO": "라바만화 185~187",
+      "EN": "Comics 185~187"
+    },  	
+    {
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason61",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "61",	
+      "KO": "라바만화 188~190",
+      "EN": "Comics 188~190"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason62",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "62",	
+      "KO": "라바만화 191~193",
+      "EN": "Comics 191~193"
+    },  
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason63",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "63",	
+      "KO": "라바만화 194~196",
+      "EN": "Comics 194~196"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason64",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "64",	
+      "KO": "라바만화 197~199",
+      "EN": "Comics 197~199"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason65",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "65",	
+      "KO": "라바만화 200~203",
+      "EN": "Comics 200~203"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason66",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "66",	
+      "KO": "라바만화 204~206",
+      "EN": "Comics 204~206"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason67",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "67",	
+      "KO": "라바만화 207~209",
+      "EN": "Comics 207~209"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason68",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "68",	
+      "KO": "라바만화 210~212",
+      "EN": "Comics 210~212"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason69",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "69",	
+      "KO": "라바만화 213~215",
+      "EN": "Comics 213~215"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason70",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "70",	
+      "KO": "라바만화 216~218",
+      "EN": "Comics 216~218"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason71",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "71",	
+      "KO": "라바만화 219~221",
+      "EN": "Comics 219~221"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason72",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "72",	
+      "KO": "라바만화 222~225",
+      "EN": "Comics 222~225"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason73",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "73",	
+      "KO": "라바만화 226~228",
+      "EN": "Comics 226~228"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason74",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "74",	
+      "KO": "라바만화 229~231",
+      "EN": "Comics 229~231"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason75",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "75",	
+      "KO": "라바만화 232~234",
+      "EN": "Comics 232~234"
+    },
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason76",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "76",	
+      "KO": "라바만화 235~238",
+      "EN": "Comics 235~238"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason77",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "77",	
+      "KO": "라바만화 239~241",
+      "EN": "Comics 239~241"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason78",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "78",	
+      "KO": "라바만화 242~245",
+      "EN": "Comics 242~245"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason79",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "79",	
+      "KO": "라바만화 246~249",
+      "EN": "Comics 246~249"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason80",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "80",	
+      "KO": "라바만화 250~253",
+      "EN": "Comics 250~253"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason81",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "81",	
+      "KO": "라바만화 254~257",
+      "EN": "Comics 254~257"
+    },  	
+	{
+	  "AOS_PACKAGE": "com.LarvaAni.LarvaSeason82",
+      "IOS_APPID": "",	
+	  "CATEGORY": "2",
+	  "NO": "82",	
+      "KO": "라바만화 258~261",
+      "EN": "Comics 258~261"
+    }
+  ]
+}
