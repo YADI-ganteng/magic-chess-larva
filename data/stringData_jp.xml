@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+  <hero_text_box>
+	  <element id='0' name="イエロー" contents_text="しっぽをりようして敵をずづきでどかす。"/>
+	  <element id='1' name="スーパーイエロー" contents_text="とつぜんへんいいでんしで新しくつよまるスーパーイエロウ。\nきょうだいなショクウェイブを使って、たすうの敵をどける。"/>
+	  <element id='2' name="レッド" contents_text="頭を使って周りの敵をずづきでどかす。"/>
+	  <element id='3' name="マスクレッド" contents_text="クモのいでんしがからだの中に流れるレットヒーロー。\nべたべたなクモのすをはなして敵にちかづかないようにする。"/>
+    <element id='4' name="サイボーグレッド" contents_text="みらいから友達を救うためにタイムマシンをのってかこに\nもどるレットヒーロー。きょうだいなミサイルをうつ。"/>
+	  <element id='5' name="スチールレッド" contents_text="レットのたえざるけんきゅうで生まれたきょうだいな\nレーザーシュートレットヒーロー。きょうだいなミサイルをうつ。"/>
+	  <element id='6' name="バイキングレッド" contents_text="おびただしいハンマー投げが得意なバイキングレットは大昔\nきょうだいなアイスの泉を握ったもの。"/>
+	  <element id='7' name="忍者レッド" contents_text="木の葉村からきた忍者レットはあくまぐんだんの侵攻の便り\nを聞いて友達を救うため現れた義理の深いもの。"/>
+	  <element id='8' name="カンフー・レッド" contents_text="雙節棍を使って敵を退かしてれんぞくなこうげきをする\n雙節棍たっしゃカンフー・レットヒーロー。"/>
+	  <element id='9' name="ジョーロレッド" contents_text="マスクを被ってけばけばしくつるぎを振り回して敵をこう\nげきするヒーロー。"/>
+  </hero_text_box>
+
+  <unit_text_box>
+	  <element id='0' name="おさむし" contents_text="素早い手のこなしで敵を追いまくるユニット。"/>
+	  <element id='1' name="レインボー・ガード" contents_text="固いたてを使って第一線で敵のこうげきを抑える。"/>
+	  <element id='2' name="ラーバカ" contents_text="やみの夜にラーバ達が安全に移動するよう燭をとるユニット。"/>
+	  <element id='3' name="ブラック" contents_text="右手の拳を使ってきょうりょくに正面をこうげきするユニット。"/>
+	  <element id='4' name="ばくだんむし" contents_text="敵にすっとばしてきょうりょくなばくはつをおこす。"/>
+	  <element id='5' name="レインボー" contents_text="レインボーの厚い皮は敵のこうげきをかんぺきに抑える。"/>
+	  <element id='6' name="ブラウン" contents_text="遠くの敵に向かってかたまりを投げてこうげきするラーバ。"/>
+	  <element id='7' name="レインボー・ハンター" contents_text="敵にたてを投げるレインボーハンターはあくまぐんだんの怖がるユニットの一つ。"/>
+	  <element id='8' name="ブラック・ナイト" contents_text="たえざる修行で更につよくなってもどるったブラクラナイト。"/>
+	  <element id='9' name="ピンク" contents_text="敵を誘ってあっという間にきを取られる紅一点ユニット。"/>
+	  <element id='10' name="がいかいおうじ" contents_text="超能力を使ってちかづくあくまぐんだんを遠くの裏手に飛ばしてやる。"/>
+	  <element id='11' name="レインボーウォリア" contents_text="たてを使ってこうげきと防御を共にするレインボーヒーロー。"/>
+	  <element id='12' name="ブルー " contents_text="呪いの踊りを踊ってあくまぐんだんのHPをだんだん減少させる。"/>
+	  <element id='13' name="バイオレット" contents_text="ふつうはつちにみをひそめていたあくまぐんだんがくるとすべてのこうげきを押さえてくれるたのもしいラバ。"/>
+  </unit_text_box>
+
+  <skill_text_box>
+	  <element id="^0^" name="甘栗スパンキング" contents_text="イエローが舌を利用して、甘栗を叩きます。"/>
+		<element id="^1^" name="移動の呪い" contents_text="イエローが移動の呪いを使用、すべての敵の移動速度が一定時間遅くなります。"/>
+		<element id="^2^" name="コーラ爆弾" contents_text="イエローが爆発するコーラをインストールして、周辺に強力なダメージを与えます。"/>
+		<element id="^3^" name="風の祝福" contents_text="イエローと友人の両方の移動速度が一定時間の間に上昇します。"/>
+		<element id="^4^" name="尾の刺し傷" contents_text="イエローが尾を利用して、敵を強く押しています。"/>
+		<element id="^5^" name="浄化の祝福" contents_text="味方にかかったすべての呪いの効果を無効にして、一定時間の間維持されます。"/>
+		<element id="^6^" name="唾液を吐く" contents_text="くしゃみをし、大量の唾液を発射します。"/>
+		<element id="^7^" name="力の呪い" contents_text="イエローが呪いのダンスを踊っ一定時間の間、すべての敵の攻撃力が減少されます。"/>
+		<element id="^8^" name="鼻水発射" contents_text="イエローがくしゃみをし、鼻水を発射します。"/>
+		<element id="^9^" name="痛みの呪い" contents_text="イエローが苦痛の呪いをかけて、一定時間の間、すべての敵の防御力が減少します。"/>
+		<element id="^10^" name="盾の祝福" contents_text="イエローが盾の祝福を使用、味方すべての防御力が一定時間の間に上昇します。"/>
+		<element id="^11^" name="転がり" contents_text="イエローが体を丸くしないでグルロガミョ、多数の敵を攻撃します。"/>
+		<element id="^12^" name="ショーク" contents_text="すべての敵を一定時間気絶させる、強力なショック攻撃です。"/>
+		<element id="^13^" name="トリム" contents_text="イエローがトリムをして、前方の多数の敵にダメージを与えます。"/>
+		<element id="^14^" name="ケーキ爆弾" contents_text="敵を感知すると、爆発するケーキ爆弾を設置して、多数の敵に強力なダメージを与える。"/>
+		<element id="^15^" name="力の祝福" contents_text="使用時、一定時間の間味方の攻撃力が増加します。"/>
+		<element id="^16^" name="回転フィッシュ" contents_text="イエローが尾を回転させ前進して、多数の敵を攻撃します。"/>
+		<element id="^17^" name="おなら" contents_text="イエローがおならを発する多数の敵に大きなダメージを与えます。"/>
+		<element id="^18^" name="不思議な障壁" contents_text="不思議な障壁が召喚されて、前進する悪魔軍団の移動を防ぎます。"/>
+		<element id="^19^" name="回復の祝福" contents_text="イエローと全体味方の体力を一定量回復させてくれます。"/>
+		<element id="^20^" name="移動の呪い" contents_text="悪魔くん全体が透明な鎖にかかって一定時間の間遅くなります。"/>
+		<element id="^21^" name="パワーパッチギ" contents_text="力を合わせて、相手を頭に価格します。"/>
+		<element id="^22^" name="力の祝福" contents_text="一定時間の間、すべての味方の攻撃力が増加します。"/>
+		<element id="^23^" name="気絶" contents_text="すべての敵を一定時間気絶させる、強力なショック攻撃です。"/>
+		<element id="^24^" name="デスクラッシュ" contents_text="頭を利用して、強力なダッシュ攻撃をします。"/>
+		<element id="^25^" name="殺人微笑" contents_text="味方の攻撃力を一定時間の間に上昇させてくれる効果があります。"/>
+		<element id="^26^" name="奇声予防する" contents_text="すべての敵のHPを一定時間の間減少させます。"/>
+		<element id="^27^" name="ショックウェーブ" contents_text="地から巨大な岩が出て、多数の敵を攻撃するスキルです。"/>
+		<element id="^28^" name="ファイアボール" contents_text="魔法の力でファイアボールを敵に貫通させてダメージを与えます。"/>
+		<element id="^29^" name="メテオ" contents_text="精霊のは難しい集め空から炎にホイップ積もった隕石を落としてダメージを与えます。"/>
+		<element id="^30^" name="力の祝福" contents_text="味方の攻撃力を一定時間の間に上昇させてくれる効果があります。"/>
+		<element id="^31^" name="気絶ダンス" contents_text="種族特性で注文を覚えるようなダンスを踊っ敵気絶にします。"/>
+		<element id="^32^" name="ハンマーショック" contents_text="瞬間雷の力を借りて、地上にいる多数の敵に強力なダメージを与えます。"/>
+		<element id="^33^" name="叫ん予防する" contents_text="敵の耳を遠隔する叫び声をあげ味方の攻撃力を一定時間の間に上昇させます。"/>
+		<element id="^34^" name="ハンマー投げ" contents_text="強力なハンマーを回転させて、多数の敵を貫通してダメージを与えます。"/>
+		<element id="^35^" name="ライトニング" contents_text="稲妻を召還して、地上にいる多数の敵に強力な攻撃をします。"/>
+		<element id="^36^" name="火の盾" contents_text="敵を打撃すればするほど盾に集まったエネルギーが炎に発射されて敵を攻撃します。"/>
+		<element id="^37^" name="神の保護膜" contents_text="種族特性に防御力を最大に上げて、ほぼ無敵に近い状態になります。"/>
+		<element id="^38^" name="手榴弾投擲" contents_text="殻の中に隠された手榴弾を取り出して敵に投擲して敵にダメージを与えます。"/>
+		<element id="^39^" name="レインボービーム" contents_text="レインボー種族特性のエネルギーが盾を介してビームに発射され、敵を貫通打撃ます。"/>
+  </skill_text_box>
+
+  <fix_item_shop>
+	  <element id='0' name="かわのはちまき" contents_text1="" contents_text2="かわの" contents_text3="はちまき"/>
+	  <element id='1' name="あかのはちまき" contents_text1="" contents_text2="あかの" contents_text3="はちまき"/>
+	  <element id='2' name="ぎんのはちまき" contents_text1="" contents_text2="ぎんの" contents_text3="はちまき"/>
+	  <element id='3' name="きんのはちまき" contents_text1="" contents_text2="きんの" contents_text3="はちまき"/>
+	  <element id='4' name="サファイアのはちまき" contents_text1="" contents_text2="サファイアの" contents_text3="はちまき"/>
+	  <element id='5' name="ルビーのはちまき" contents_text1="" contents_text2="ルビーの" contents_text3="はちまき"/>
+    <element id='6' name="かわのくびかざり" contents_text1="" contents_text2="かわの" contents_text3="くびかざり"/>
+    <element id='7' name="あかのくびかざり" contents_text1="" contents_text2="あかの" contents_text3="くびかざり"/>
+    <element id='8' name="ぎんのくびかざり" contents_text1="" contents_text2="ぎんの" contents_text3="くびかざり"/>
+    <element id='9' name="きんのくびかざり" contents_text1="" contents_text2="きんの" contents_text3="くびかざり"/>
+    <element id='10' name="サファイアのくびかざり" contents_text1="" contents_text2="サファイアの" contents_text3="くびかざり"/>
+    <element id='11' name="ルビーのくびかざり" contents_text1="" contents_text2="ルビーの" contents_text3="くびかざり"/>
+    <element id='12' name="かわのうでわ" contents_text1="" contents_text2="かわの" contents_text3="うでわ"/>
+	  <element id='13' name="あかのうでわ" contents_text1="" contents_text2="あかの" contents_text3="うでわ"/>
+	  <element id='14' name="ぎんのうでわ" contents_text1="" contents_text2="ぎんの" contents_text3="うでわ"/>
+	  <element id='15' name="きんのうでわ" contents_text1="" contents_text2="きんの" contents_text3="うでわ"/>
+	  <element id='16' name="サファイアのうでわ" contents_text1="" contents_text2="サファイアの" contents_text3="うでわ"/>
+	  <element id='17' name="ルビーのうでわ" contents_text1="" contents_text2="ルビーの" contents_text3="うでわ"/>
+	  <element id='18' name="かわのゆびわ" contents_text1="" contents_text2="かわの" contents_text3="ゆびわ"/>
+	  <element id='19' name="あかのゆびわ" contents_text1="" contents_text2="あかの" contents_text3="ゆびわ"/>
+	  <element id='20' name="ぎんのゆびわ" contents_text1="" contents_text2="ぎんの" contents_text3="ゆびわ"/>
+	  <element id='21' name="きんのゆびわ" contents_text1="" contents_text2="きんの" contents_text3="ゆびわ"/>
+	  <element id='22' name="サファイアのゆびわ" contents_text1="" contents_text2="サファイアの" contents_text3="ゆびわ"/>
+	  <element id='23' name="ルビーのゆびわ" contents_text1="" contents_text2="ルビーの" contents_text3="ゆびわ"/>
+	  <element id='24' name="かわのベルト" contents_text1="" contents_text2="かわの" contents_text3="ベルト"/>
+	  <element id='25' name="あかのベルト" contents_text1="" contents_text2="あかの" contents_text3="ベルト"/>
+	  <element id='26' name="ぎんのベルト" contents_text1="" contents_text2="ぎんの" contents_text3="ベルト"/>
+	  <element id='27' name="きんのベルト" contents_text1="" contents_text2="きんの" contents_text3="ベルト"/>
+	  <element id='28' name="サファイアのベルト" contents_text1="" contents_text2="サファイアの" contents_text3="ベルト"/>
+	  <element id='29' name="ルビーのベルト" contents_text1="" contents_text2="ルビーの" contents_text3="ベルト"/>	  
+  </fix_item_shop>
+
+  <eat_item_shop>
+	  <element id='30' name="MPえきざい" contents_text1="ゲームプレーちゅうに使ったらヒーローMP 30%\nをすぐ回復する。" contents_text2="MPえきざい" contents_text3=""/>
+	  <element id='31' name="HPえきざい" contents_text1="ゲームプレーちゅうに使ったらヒーローHP 30%をすぐ\n回復する。" contents_text2="HPえきざい" contents_text3=""/>
+	  <element id='32' name="ヒーローHPえきざい" contents_text1="ゲームプレーちゅうに使ったらヒーローの友達\nのHP 30%をすぐ回復する。" contents_text2="ヒーローHP" contents_text3="えきざい"/>
+	  <element id='33' name="ぜんたいかいふくえきざい" contents_text1="ゲームプレーちゅうに使ったらヒーローとヒーローの友達\nのHP 20%をすぐ回復する。" contents_text2="ぜんたいかい" contents_text3="ふくえきざい"/>
+	  <element id='34' name="ユニットHPえきざい" contents_text1="ゲームプレーちゅうに使ったらユニットすべての HP 30%\nをすぐ回復する。" contents_text2="ユニットHP" contents_text3="えきざい"/>
+	  <element id='35' name="パワーのぞうか" contents_text1="着用する時、ゲームを始めるごと一つずつ減っており、そのぼ\nうけんでヒーローのこうげき力が 30%上昇する。" contents_text2="パワーのぞうか" contents_text3=""/>
+	  <element id='36' name="スピードのぞうか" contents_text1="着用する時、ゲームを始めるごと一つずつ減っており、そのぼ\nうけんでヒーローの移動スピードが ５0%上昇する。" contents_text2="スピードの" contents_text3="ぞうか"/>
+	  <element id='37' name="ちからのぞうか" contents_text1="着用する時、ゲームを始めるごと一つずつ減っており、そのぼ\nうけんでヒーローの最大のHPが 30%上昇する。 " contents_text2="ちからのぞうか" contents_text3=""/>
+	  <element id='38' name="EXPのぞうか" contents_text1="着用する時、ゲームを始めるごと一つずつ減っており、そのぼ\nうけんでヒーローの獲得EXPが 30%上昇する。" contents_text2="のぞうか" contents_text3=""/>
+	  <element id='39' name="ビエナのゲージ" contents_text1="着用する時、ゲームを始めるごと一つずつ減っており、そのぼ\nうけんでビエンナゲージの最大値が 30%上昇する。" contents_text2="ゲージ" contents_text3=""/>
+	  <element id='40' name="へんしんのえきざい" contents_text1="求めの後で使う時、へんしんの可能ポイントがふえる。" contents_text2="へんしんの" contents_text3="えきざい"/>
+  </eat_item_shop>
+
+  <special_shop>
+	  <element id='41' name="ビエナのじどうかくとく" contents_text1="きょうりょくな超能力でてんから落ちるビエンナを引く。" contents_text2="ビエナのじどう" contents_text3="かくとく"/>
+	  <element id='42' name="ビエナかくとくりょう2ばい" contents_text1="てんから落ちるビエンナが２倍になる。" contents_text2="ビエナかくとく" contents_text3="りょう2ばい"/>	  
+	  <element id='43' name="サファイアセット" contents_text1="サファイヤセット＝求めの後で使う時、サファイヤのそうび\n５種類を得る。" contents_text2="サファイアセ" contents_text3="ット"/>
+	  <element id='44' name="ルビーセット" contents_text1="ルビセット＝求めの後で使う時、ルビのそうび５種類を得る。" contents_text2="ルビーセ" contents_text3="ット"/>
+    <element id='45' name=" ヒーローの能力が２倍" contents_text1="ヒーローの基本能力(たいりょく/こうげきりょく/\nぼうぎょりょく)が２倍に永久に適用されます。" contents_text2="ヒーロー" contents_text3="能力２倍"/>
+    <element id='46' name="ヒーローの友達能力が２倍" contents_text1="ヒーローの友達基本能力(たいりょく/こうげきりょく/\nぼうぎょりょく)が２倍に永久に適用されます。" contents_text2="ヒーローの友達" contents_text3="能力２倍"/>
+  </special_shop>
+  <google_special>
+    <element id='47' name="スペシャル はちまき" contents_text1="" contents_text2="スペシャル" contents_text3="はちまき"/>
+    <element id='48' name="スペシャル くびかざり" contents_text1="" contents_text2="スペシャル" contents_text3="くびかざり"/>
+    <element id='49' name="スペシャル うでわ" contents_text1="" contents_text2="スペシャル" contents_text3="うでわ"/>
+    <element id='50' name="スペシャル ゆびわ" contents_text1="" contents_text2="スペシャル" contents_text3="ゆびわ"/>
+    <element id='51' name="スペシャル ベルト" contents_text1="" contents_text2="スペシャル" contents_text3="ベルト"/>
+  </google_special>
+   <set_item>
+		<element id='0' name="ピカピカ かわの はちまき" contents_text1="" contents_text2="빛나는 가죽" contents_text3="머리띠"/>
+		<element id='1' name="ピカピカ かわの くびかざり" contents_text1="" contents_text2="빛나는 가죽" contents_text3="목걸이"/>
+		<element id='2' name="ピカピカ かわの うでわ" contents_text1="" contents_text2="빛나는 가죽" contents_text3="팔찌"/>
+		<element id='3' name="ピカピカ かわの ゆびわ" contents_text1="" contents_text2="빛나는 가죽" contents_text3="반지"/>
+		<element id='4' name="ピカピカ かわの ベルト" contents_text1="" contents_text2="빛나는 가죽" contents_text3="벨트"/>
+
+		<element id='5' name="ピカピカ あかの はちまき" contents_text1="" contents_text2="빛나는 구리" contents_text3="머리띠"/>
+		<element id='6' name="ピカピカ あかの くびかざり" contents_text1="" contents_text2="빛나는 구리" contents_text3="목걸이"/>
+		<element id='7' name="ピカピカ あかの うでわ" contents_text1="" contents_text2="빛나는 구리" contents_text3="팔찌"/>
+		<element id='8' name="ピカピカ あかの ゆびわ" contents_text1="" contents_text2="빛나는 구리" contents_text3="반지"/>
+		<element id='9' name="ピカピカ あかの ベルト" contents_text1="" contents_text2="빛나는 구리" contents_text3="벨트"/>
+
+		<element id='10' name="ピカピカ ぎんの はちまき" contents_text1="" contents_text2="빛나는 은" contents_text3="머리띠"/>
+		<element id='11' name="ピカピカ ぎんの くびかざり" contents_text1="" contents_text2="빛나는 은" contents_text3="목걸이"/>
+		<element id='12' name="ピカピカ ぎんの うでわ" contents_text1="" contents_text2="빛나는 은" contents_text3="팔찌"/>
+		<element id='13' name="ピカピカ ぎんの ゆびわ" contents_text1="" contents_text2="빛나는 은" contents_text3="반지"/>
+		<element id='14' name="ピカピカ ぎんの ベルト" contents_text1="" contents_text2="빛나는 은" contents_text3="벨트"/>
+
+		<element id='15' name="エメラルド はちまき" contents_text1="" contents_text2="에메랄드" contents_text3="머리띠"/>
+		<element id='16' name="エメラルド くびかざり" contents_text1="" contents_text2="에메랄드" contents_text3="목걸이"/>
+		<element id='17' name="エメラルド うでわ" contents_text1="" contents_text2="에메랄드" contents_text3="팔찌"/>
+		<element id='18' name="エメラルド ゆびわ" contents_text1="" contents_text2="에메랄드" contents_text3="반지"/>
+		<element id='19' name="エメラルド ベルト" contents_text1="" contents_text2="에메랄드" contents_text3="벨트"/>
+
+		<element id='20' name="ダイヤモンド はちまき" contents_text1="" contents_text2="다이아몬드" contents_text3="머리띠"/>
+		<element id='21' name="ダイヤモンド くびかざり" contents_text1="" contents_text2="다이아몬드" contents_text3="목걸이"/>
+		<element id='22' name="ダイヤモンド うでわ" contents_text1="" contents_text2="다이아몬드" contents_text3="팔찌"/>
+		<element id='23' name="ダイヤモンド ゆびわ" contents_text1="" contents_text2="다이아몬드" contents_text3="반지"/>
+		<element id='24' name="ダイヤモンド ベルト" contents_text1="" contents_text2="다이아몬드" contents_text3="벨트"/>
+
+		<element id='25' name="ボスダンジョンチケット" contents_text1="ボスダンジョンに入るチケット。" contents_text2="0" contents_text3="0"/>
+		<element id='26' name="パワーストーン" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="HPストーン" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="ヒーリングストーン" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="クリティカルストーン" contents_text1="" contents_text2="0" contents_text3="0"/>
+  </set_item>
+  <main_ui_text>
+    <element id='0' name="A" contents_text="Raning point define sum of all stage clear point." />
+    <element id='1' name="A" contents_text="Play game with three friends." />
+    <element id='2' name="A" contents_text="Play game with eight friends." />
+    <element id='3' name="A" contents_text="you can get the new hero character." />
+    <element id='4' name="A" contents_text="you can get the new hero character." />
+    <element id='5' name="A" contents_text="speed up our ability to identify new players while quickly." />
+    <element id='6' name="A" contents_text="facebook invite event." />
+    <element id='7' name="A" contents_text="friend list." />
+    <element id='8' name="A" contents_text="friend list." />
+  </main_ui_text>
+  <shop_ui_text>
+    <element id='0' name="근거리" contents_text="近距離" />
+    <element id='1' name="원거리" contents_text="遠距離" />
+    <element id='2' name="B" contents_text="ヒーローの友達しょうかん アップグレード、せんたくすることができます。" />
+    <element id='3' name="B" contents_text="ヒーローの友達にそうびのそうちゃくすることができます。" />
+    <element id='4' name="B" contents_text="せんとうをいラーバだちをしょうかんすることができます。" />
+    <element id='5' name="B" contents_text="ヒーローのつかうとくべつなスキルがえられます" />
+    <element id='6' name="B" contents_text="えきざい、バフアイテムのこうにゅう、はんばいができます。" />
+    <element id='7' name="B" contents_text="そうび、えきざい、バフのそうちゃくとアイテムのきょうかできます。" />
+    <element id='8' name="아이템 레벨제한" contents_text="Lv1~" />
+    <element id='9' name="아이템 레벨제한" contents_text="Lv15~" />
+    <element id='10' name="아이템 레벨제한" contents_text="Lv30~" />
+    <element id='11' name="아이템 레벨제한" contents_text="Lv45~" />
+  </shop_ui_text>
+
+  <normal_monster_name>
+	<element id='0' name="ミイラ" contents_text=""/>
+	<element id='1' name="巨大ミイラ" contents_text=""/>
+	<element id='2' name="小さなミイラ" contents_text=""/>
+	<element id='3' name="怒っている一般的なミイラ" contents_text=""/>
+	<element id='4' name="怒っている巨大なミイラ" contents_text=""/>
+	<element id='5' name="怒っている小さなミイラ" contents_text=""/>
+	<element id='6' name="頭蓋骨" contents_text=""/>
+	<element id='7' name="小さな頭蓋骨" contents_text=""/>
+	<element id='8' name="巨大な頭蓋骨" contents_text=""/>
+	<element id='9' name="怒っている頭蓋骨" contents_text=""/>
+	<element id='10' name="怒っている小さな頭蓋骨" contents_text=""/>
+	<element id='11' name="怒っている巨大な頭蓋骨" contents_text=""/>
+	<element id='12' name="フライングミイラ" contents_text=""/>
+	<element id='13' name="飛んで小さなミイラ" contents_text=""/>
+	<element id='14' name="フライング" contents_text="怒っているミイラ"/>
+	<element id='15' name="フライング" contents_text="怒っている小さなミイラ"/>
+	<element id='16' name="フライングスカル" contents_text=""/>
+	<element id='17' name="小さな頭蓋骨を飛んで" contents_text=""/>
+	<element id='18' name="フライング" contents_text="怒っている頭蓋骨"/>
+	<element id='19' name="フライング" contents_text="怒っている小さな頭蓋骨"/>
+	<element id='20' name="幽霊" contents_text=""/>
+	<element id='21' name="大きな幽霊" contents_text=""/>
+	<element id='22' name="吸血鬼" contents_text=""/>
+	<element id='23' name="怒っている吸血鬼" contents_text=""/>
+	<element id='24' name="爆弾かぼちゃ" contents_text=""/>
+	<element id='25' name="小型爆弾かぼちゃ" contents_text=""/>
+	<element id='26' name="小さな吸血鬼" contents_text=""/>
+	<element id='27' name="怒っている小さな吸血鬼" contents_text=""/>
+	<element id='28' name="冷凍死体" contents_text=""/>
+	<element id='29' name="ブラックエント" contents_text=""/>
+	<element id='30' name="ギターマン" contents_text=""/>
+	<element id='31' name="ベースボス" contents_text=""/>
+	<element id='32' name="フランケンシュタイン" contents_text=""/>
+	<element id='33' name="狼" contents_text=""/>
+	<element id='34' name="かぼちゃ" contents_text=""/>
+	<element id='35' name="悪魔" contents_text=""/>
+  </normal_monster_name>	
+
+  <option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
+
