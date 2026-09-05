@@ -30,9 +30,7 @@ public class Player {
         this.loseStreak = 0;
     }
     
-    public void addGold(int amount) {
-        this.gold += amount;
-    }
+    public void addGold(int amount) { this.gold += amount; }
     
     public void spendGold(int amount) {
         this.gold -= amount;
@@ -62,20 +60,14 @@ public class Player {
     public void incrementWinStreak() {
         this.winStreak++;
         this.loseStreak = 0;
-        if (this.winStreak >= 3) {
-            this.gold += 1;
-        }
-        if (this.winStreak >= 5) {
-            this.gold += 1;
-        }
+        if (this.winStreak >= 3) this.gold += 1;
+        if (this.winStreak >= 5) this.gold += 1;
     }
     
     public void resetWinStreak() {
         this.winStreak = 0;
         this.loseStreak++;
-        if (this.loseStreak >= 3) {
-            this.gold += 1;
-        }
+        if (this.loseStreak >= 3) this.gold += 1;
     }
     
     public void incrementRound() {
@@ -83,7 +75,7 @@ public class Player {
         this.addExp(2);
     }
     
-    // Getters and setters
+    // Getters
     public String getName() { return name; }
     public int getHp() { return hp; }
     public int getGold() { return gold; }
