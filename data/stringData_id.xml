@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<hero_text_box>
+		<element id='0' name="Kuning" contents_text="Kuning Unit serangan musuh menggunakan lidah \npanjang dan ekor keras." />
+		<element id='1' name="Super Kuning" contents_text="Super Kuning yang paling kuat. \nketerampilan Shockwave memungkinkan Anda \nmenyerang unit musuh massa."/>
+		<element id='2' name="Merah" contents_text="kecepatan merah memungkinkan Anda \nmenyerang unit musuh tanpa kerusakan \nmenggunakan skill kepala-pantat." />
+		<element id='3' name="Masker merah" contents_text="Kecepatan turun dari unit musuh menggunakan \njaring laba-laba untuk unit musuh." />
+		<element id='4' name="Cyborg merah" contents_text="Cyborg merah Luncurkan 'Power rudal' untuk unit \nmusuh dan musuh menjadi knockback." />
+		<element id='5' name="Baja merah" contents_text="Baja merah peluncuran 'Power laser untuk unit \nmusuh dan musuh menjadi stun."/>
+		<element id='6' name="Viking merah" contents_text="Viking merah berputar Daya palu untuk \nmenyerang unit musuh massa." />
+		<element id='7' name="Ninja merah" contents_text="unit serangan musuh Ninja merah melemparkan \nbelati tajam dan beracun." />
+		<element id='8' name="Kung Fu merah" contents_text="Kung Fu merah ayunan nunchuck untuk menyerang \nunit musuh massa dan biarkan terbang mereka."/>
+		<element id='9' name="Zorro merah" contents_text="Zorro merah ayunan pedang tipis secepat kilat \nuntuk menyerang unit musuh."/>
+	</hero_text_box>
+  
+	<unit_text_box>
+		<element id='0' name="Kumbang" contents_text="Cepat untuk menyerang musuh dengan pukulan." />
+		<element id='1' name="Pelangi Penjaga" contents_text="Menggunakan perisai solid, untuk mempertahankan terhadap serangan musuh." />    
+		<element id='2' name="Larva Mobil" contents_text="Unit yang akan mengungkapkan api sehingga dapat dengan aman dipindahkan ke malam yang gelap. MAX:4"/>
+		<element id='3' name="Hitam" contents_text="Ini adalah unit untuk menyerang pukulan kuat ke arah depan musuh." />
+		<element id='4' name="Bom bug" contents_text="Pergi berlari ke musuh dan membuat ledakan kuat." />
+		<element id='5' name="Pelangi" contents_text="Kulit tebal pelangi untuk sepenuhnya mempertahankan terhadap serangan musuh." />
+		<element id='6' name="Coklat" contents_text="Menuju musuh jauh, untuk menyerang dengan melemparkan benjolan." />
+		<element id='7' name="Pelangi Pemburu" contents_text="Ini adalah salah satu unit jarak jauh untuk menyerang dengan melemparkan perisai musuh." />
+		<element id='8' name="Ksatria hitam" contents_text="Black Knight datang kembali menjadi lebih kuat melalui pelatihan tak berujung." />
+		<element id='9' name="Pink" contents_text="Dan godaan musuh, Unit setrum."/>
+		<element id='10' name="Makhluk asing Pangeran" contents_text="Menggunakan kekuatan super, mengirim tentara setan masa ke sisi jauh jauh." />
+		<element id='11' name="Pelangi Pejuang" contents_text="Unit Hero untuk menyerang musuh dengan perisai." />
+		<element id='12' name="Biru" contents_text="Menari tarian kutukan dan secara bertahap mengurangi setan korps 'HP." />
+		<element id='13' name="Ungu" contents_text="Unit yang akan mencegah serangan itu muncul Ketika musuh muncul." />	  
+  </unit_text_box>
+  
+  <skill_text_box>
+		<element id='0' name="Meniup kepala lawan" contents_text="Untuk menyerang kepala musuh lidah."/>
+		<element id='1' name="Kutukan gerakan" contents_text="Kecepatan pergerakan semua musuh akan lambat selama periode waktu tertentu"/>
+		<element id='2' name="bom Coke" contents_text="Instal Coke meledak, memberikan kerusakan yang kuat di daerah sekitarnya."/>
+		<element id='3' name="Berkah angin" contents_text="Kecepatan bergerak dari kedua kuning dan teman-teman naik ke periode waktu tertentu."/>
+		<element id='4' name="Ekor luka tusukan" contents_text="Menggunakan ekor, tekan kuat musuh."/>
+		<element id='5' name="pemurnian berkah" contents_text="Untuk meniadakan efek dari semua kutukan yang mengambil bersekutu selama periode waktu tertentu."/>
+		<element id='6' name="Saliva Spit" contents_text="Bersin, untuk meluncurkan sejumlah besar air liur."/>
+		<element id='7' name="kekuatan kutukan" contents_text="Sebuah periode waktu tertentu menari tarian kutukan, kekuatan serangan dari semua musuh berkurang."/>
+		<element id='8' name="peluncuran pilek" contents_text="Bersin, untuk meluncurkan hidung meler."/>
+		<element id='9' name="nyeri kutukan" contents_text="Selama kutukan sakit, suatu periode waktu tertentu, kekuatan pertahanan dari semua musuh berkurang."/>
+		<element id='10' name="perisai berkah" contents_text="Gunakan berkat perisai, sekutu semua kekuatan pertahanan dinaikkan periode waktu tertentu."/>
+		<element id='11' name="bergulir" contents_text="Jangan bulat tubuh Gururogamyo, untuk menyerang sejumlah besar musuh."/>
+		<element id='12' name="syok" contents_text="Semua musuh setrum periode waktu tertentu, untuk serangan kejutan yang kuat."/>
+		<element id='13' name="memangkas" contents_text="Dan trim, memberikan kerusakan sejumlah besar depan musuh."/>
+		<element id='14' name="bom kue" contents_text="Menyiapkan bom kue, memberikan kerusakan yang kuat untuk sejumlah besar musuh."/>
+		<element id='15' name="Berkat kekuatan" contents_text="Digunakan, kekuatan serangan antara sekutu dari jangka waktu tertentu meningkat."/>
+		<element id='16' name="Ikan rotasi" contents_text="Bergerak maju dengan memutar ekor, untuk menyerang sejumlah besar musuh."/>
+		<element id='17' name="kentut" contents_text="Memiliki kerusakan yang signifikan pada sejumlah besar musuh yang memancarkan kentut."/>
+		<element id='18' name="Penghalang misterius" contents_text="Pernah Berkunjung dipanggil penghalang magis, mencegah pergerakan korps iblis untuk bergerak maju."/>
+		<element id='19' name="Blessing pemulihan" contents_text="Sebuah jumlah tertentu dari pemulihan kekuatan kuning dan semua sekutu."/>
+		<element id='20' name="Kutukan gerakan" contents_text="Seluruh musuh lambat selama periode waktu tertentu."/>
+		<element id='21' name="kekuatan Pacchigi" contents_text="Lawan dengan serangan kepala."/>
+		<element id='22' name="Berkah kekuatan" contents_text="Sebuah periode waktu tertentu, kekuatan serangan semua sekutu meningkat."/>
+		<element id='23' name="jatuh pingsan" contents_text="Semua musuh setrum periode waktu tertentu, serangan kejut yang kuat."/>
+		<element id='24' name="meja Rush" contents_text="Menggunakan kepala, serangan dasbor yang kuat."/>
+		<element id='25' name="pembunuhan senyum" contents_text="Efek yang akan muncul selama kekuatan serangan konstan waktu sekutu."/>
+		<element id='26' name="Pencegahan suara aneh" contents_text="HP semua musuh berkurang dengan periode waktu tertentu."/>
+		<element id='27' name="shockwave" contents_text="Keterampilan dari sebuah batu besar dari bumi, untuk menyerang sejumlah besar musuh."/>
+		<element id='28' name="bola api" contents_text="Dengan menembus bola api untuk kerusakan musuh."/>
+		<element id='29' name="meteor" contents_text="Menjatuhkan cambuk menumpuk meteorit dari langit terbakar memberikan kerusakan."/>
+		<element id='30' name="Berkah kekuatan" contents_text="Efek yang akan muncul selama kekuatan serangan konstan waktu sekutu."/>
+		<element id='31' name="Chaos Dance" contents_text="Musuh menari, seperti mengingat urutan setrum."/>
+		<element id='32' name="gelombang palu" contents_text="Dengan bantuan dari petir, kerusakan yang kuat untuk sejumlah besar musuh di tanah."/>
+		<element id='33' name="berteriak gila" contents_text="Untuk naik ke periode waktu tertentu kekuatan serangan sekutu keras."/>
+		<element id='34' name="Hammer cor" contents_text="Memutar palu kuat, memberikan kerusakan melalui sejumlah besar musuh."/>
+		<element id='35' name="panggil Petir" contents_text="Untuk memanggil petir, untuk serangan kuat untuk sejumlah besar musuh di tanah."/>
+		<element id='36' name="api Shield" contents_text="Energi berkumpul di perisai untuk menyerang musuh yang ditembakkan ke api."/>
+		<element id='37' name="ilahi Perisai" contents_text="Kekuatan pertahanan dinaikkan ke maksimum akan keadaan hampir tak terkalahkan."/>
+		<element id='38' name="Granat" contents_text="Dengan melemparkan sebuah granat tangan ke musuh merusak musuh."/>
+		<element id='39' name="Pelangi balok" contents_text="Melalui perisai itu ditembakkan ke balok, untuk menyerang musuh."/>
+	</skill_text_box>
+	<fix_item_shop>
+		<element id='0' name="kulit Headband" contents_text1="" contents_text2="kulit" contents_text3="Headband"/>
+		<element id='1' name="tembaga Headband" contents_text1="" contents_text2="tembaga" contents_text3="Headband"/>
+		<element id='2' name="silver Headband" contents_text1="" contents_text2="silver" contents_text3="Headband"/>
+		<element id='3' name="emas Headband" contents_text1="" contents_text2="emas" contents_text3="Headband"/>
+		<element id='4' name="Sapphire Headband" contents_text1="" contents_text2="Sapphire" contents_text3="Headband"/>
+		<element id='5' name="Ruby Headband" contents_text1="" contents_text2="Ruby" contents_text3="Headband"/>
+		<element id='6' name="kulit Necklace" contents_text1="" contents_text2="kulit" contents_text3="Necklace"/>
+		<element id='7' name="tembaga Necklace" contents_text1="" contents_text2="tembaga" contents_text3="Necklace"/>
+		<element id='8' name="kalung perak" contents_text1="" contents_text2="silver" contents_text3="Necklace"/>
+		<element id='9' name="emas Necklace" contents_text1="" contents_text2="emas" contents_text3="Necklace"/>
+		<element id='10' name="Sapphire Necklace" contents_text1="" contents_text2="Sapphire" contents_text3="Necklace"/>
+		<element id='11' name="Ruby Necklace" contents_text1="" contents_text2="Ruby" contents_text3="Necklace"/>
+		<element id='12' name="kulit Gelang" contents_text1="" contents_text2="kulit" contents_text3="Gelang"/>
+		<element id='13' name="tembaga Gelang" contents_text1="" contents_text2="tembaga" contents_text3="Gelang"/>
+		<element id='14' name="perak Gelang" contents_text1="" contents_text2="silver" contents_text3="Gelang"/>
+		<element id='15' name="emas Gelang" contents_text1="" contents_text2="emas" contents_text3="Gelang"/>
+		<element id='16' name="Sapphire Gelang" contents_text1="" contents_text2="Sapphire" contents_text3="Gelang"/>
+		<element id='17' name="Ruby Gelang" contents_text1="" contents_text2="Ruby" contents_text3="Gelang"/>
+		<element id='18' name="kulit cincin" contents_text1="" contents_text2="kulit" contents_text3="Rings"/>
+		<element id='19' name="tembaga cincin " contents_text1="" contents_text2="tembaga" contents_text3="Rings"/>
+		<element id='20' name="perak cincin" contents_text1="" contents_text2="silver" contents_text3="Rings"/>
+		<element id='21' name="emas cincin" contents_text1="" contents_text2="emas" contents_text3="Rings"/>
+		<element id='22' name="Sapphire cincin" contents_text1="" contents_text2="Sapphire" contents_text3="Rings"/>
+		<element id='23' name="Ruby cincin" contents_text1="" contents_text2="Ruby" contents_text3="Rings"/>
+		<element id='24' name="sabuk Belt" contents_text1="" contents_text2="kulit" contents_text3="Belt"/>
+		<element id='25' name="tembaga Belt" contents_text1="" contents_text2="tembaga" contents_text3="Belt"/>
+		<element id='26' name="silver Belt" contents_text1="" contents_text2="silver" contents_text3="Belt"/>
+		<element id='27' name="emas Belt" contents_text1="" contents_text2="emas" contents_text3="Belt"/>
+		<element id='28' name="Sapphire Belt" contents_text1="" contents_text2="Sapphire" contents_text3="Belt"/>
+		<element id='29' name="Ruby Belt" contents_text1="" contents_text2="Ruby" contents_text3="Belt"/>
+	</fix_item_shop>
+  	<eat_item_shop>
+		<element id='30' name="MP Potion" contents_text1="Pemulihan pahlawan MP 30%." contents_text2="MP Potion" contents_text3=""/>
+		<element id='31' name="HP Potion" contents_text1="Pemulihan pahlawan HP 30%." contents_text2="HP Potion" contents_text3=""/>
+		<element id='32' name="Pahlawan HP Potion" contents_text1="Pemulihan pahlawan teman HP 30%." contents_text2="Pahlawan" contents_text3="HP Potion"/>
+		<element id='33' name="Total HP Potion" contents_text1="Pemulihan pahlawan, pahlawan teman HP 20%." contents_text2="Total" contents_text3="HP Potion"/>
+		<element id='34' name="Unit HP Potion" contents_text1="Pemulihan Unit HP30%." contents_text2="Unit" contents_text3="HP Potion"/>
+		<element id='35' name="Kekuatan serangan" contents_text1="Meningkatkan 'Serangan kekuatan' 30% dari \npahlawan menggunakan barang." contents_text2="Kekuatan" contents_text3="serangan"/>
+		<element id='36' name="Mempercepat" contents_text1="Tingkatkan 'kecepatan Dubble' dari pahlawan \nmenggunakan item buff pasif saat bermain." contents_text2="Mempercepat" contents_text3=""/>
+		<element id='37' name="Meningkatkan HP" contents_text1="Kenaikan 'HP Gage' 30% dari pahlawan \nmenggunakan barang." contents_text2="Meningkatkan" contents_text3="HP"/>
+		<element id='38' name="Mseningkatkan Exp" contents_text1="Meningkatkan 'Exp' 30% dari pahlawan \nmenggunakan barang." contents_text2="Meningkatkan" contents_text3="Exp"/>
+		<element id='39' name="Pengukur satuan" contents_text1="Tingkatkan 'Vienna Gauge' 30% dari hero \nmenggunakan item buff pasif saat bermain." contents_text2="Pengukur" contents_text3="satuan"/>
+		<element id='40' name="Potion transformasi" contents_text1="Gunakan setelah pembelian, jumlah kali yang \ndapat diubah menjadi peningkatan" contents_text2="Potion" contents_text3="transformasi"/>
+	</eat_item_shop>
+  	<special_shop>
+		<element id='41' name="magnet sihir" contents_text1="Wina otomatis diperoleh." contents_text2="Magic" contents_text3="magnet" />
+		<element id='42' name="ganda vienna" contents_text1="Dua kali jumlah yang diperoleh Wina." contents_text2="Double" contents_text3="vienna" />
+		<element id='43' name="Set safir" contents_text1="Anda bisa mendapatkan 5app shappire armor. (Lv.1 ~)" contents_text2="Set" contents_text3="safir"/>
+		<element id='44' name="Ruby diatur" contents_text1="Anda bisa mendapatkan 5set ruby armor. (Lv.1 ~)" contents_text2="Ruby" contents_text3="diatur"/>
+		<element id='45' name="Kemampuan jagoan X2" contents_text1="Kemampuan jagoan x2 (HP, Attack, Defense)" contents_text2="Kemampuan" contents_text3="jagoan X2"/>
+		<element id='46' name="Kemampuan teman X2" contents_text1="Semua kemampuan teman \npahlawan x2 (HP, Attack, Defense)" contents_text2="Kemampuan" contents_text3="teman X2"/>
+	</special_shop>
+	<google_special>
+		<element id='47' name="구글 스페셜 머리띠" contents_text1="" contents_text2="구글 스페셜" contents_text3="머리띠"/>
+		<element id='48' name="구글 스페셜 목걸이" contents_text1="" contents_text2="구글 스페셜" contents_text3="목걸이"/>
+		<element id='49' name="구글 스페셜 팔찌" contents_text1="" contents_text2="구글 스페셜" contents_text3="팔찌"/>
+		<element id='50' name="구글 스페셜 반지" contents_text1="" contents_text2="구글 스페셜" contents_text3="반지"/>
+		<element id='51' name="구글 스페셜 벨트" contents_text1="" contents_text2="구글 스페셜" contents_text3="벨트"/>
+	</google_special>
+
+	 <set_item>
+		<element id='0' name="Berkilau kulit Headband" contents_text1="" contents_text2="빛나는 가죽" contents_text3="머리띠"/>
+		<element id='1' name="Berkilau kulit Necklace" contents_text1="" contents_text2="빛나는 가죽" contents_text3="목걸이"/>
+		<element id='2' name="Berkilau kulit Gelang" contents_text1="" contents_text2="빛나는 가죽" contents_text3="팔찌"/>
+		<element id='3' name="Berkilau kulit cincin" contents_text1="" contents_text2="빛나는 가죽" contents_text3="반지"/>
+		<element id='4' name="Berkilau kulit Belt" contents_text1="" contents_text2="빛나는 가죽" contents_text3="벨트"/>
+
+		<element id='5' name="Berkilau tembaga Headband" contents_text1="" contents_text2="빛나는 구리" contents_text3="머리띠"/>
+		<element id='6' name="Berkilau tembaga Necklace" contents_text1="" contents_text2="빛나는 구리" contents_text3="목걸이"/>
+		<element id='7' name="Berkilau tembaga Gelang" contents_text1="" contents_text2="빛나는 구리" contents_text3="팔찌"/>
+		<element id='8' name="Berkilau tembaga cincin" contents_text1="" contents_text2="빛나는 구리" contents_text3="반지"/>
+		<element id='9' name="Berkilau tembaga Belt" contents_text1="" contents_text2="빛나는 구리" contents_text3="벨트"/>
+
+		<element id='10' name="Berkilau silver Headband" contents_text1="" contents_text2="빛나는 은" contents_text3="머리띠"/>
+		<element id='11' name="Berkilau silver Necklace" contents_text1="" contents_text2="빛나는 은" contents_text3="목걸이"/>
+		<element id='12' name="Berkilau silver Gelang" contents_text1="" contents_text2="빛나는 은" contents_text3="팔찌"/>
+		<element id='13' name="Berkilau silver cincin" contents_text1="" contents_text2="빛나는 은" contents_text3="반지"/>
+		<element id='14' name="Berkilau silver Belt" contents_text1="" contents_text2="빛나는 은" contents_text3="벨트"/>
+
+		<element id='15' name="Zamrud Headband" contents_text1="" contents_text2="에메랄드" contents_text3="머리띠"/>
+		<element id='16' name="Zamrud Necklace" contents_text1="" contents_text2="에메랄드" contents_text3="목걸이"/>
+		<element id='17' name="Zamrud Gelang" contents_text1="" contents_text2="에메랄드" contents_text3="팔찌"/>
+		<element id='18' name="Zamrud cincin" contents_text1="" contents_text2="에메랄드" contents_text3="반지"/>
+		<element id='19' name="Zamrud Belt" contents_text1="" contents_text2="에메랄드" contents_text3="벨트"/>
+
+		<element id='20' name="Berlian Headband" contents_text1="" contents_text2="다이아몬드" contents_text3="머리띠"/>
+		<element id='21' name="Berlian Necklace" contents_text1="" contents_text2="다이아몬드" contents_text3="목걸이"/>
+		<element id='22' name="Berlian Gelang" contents_text1="" contents_text2="다이아몬드" contents_text3="팔찌"/>
+		<element id='23' name="Berlian cincin" contents_text1="" contents_text2="다이아몬드" contents_text3="반지"/>
+		<element id='24' name="Berlian Belt" contents_text1="" contents_text2="다이아몬드" contents_text3="벨트"/>
+		
+		<element id='25' name="Tiket Dungeon Boss" contents_text1="Tiket untuk memasuki Boss Dungeon." contents_text2="0" contents_text3="0"/>
+		<element id='26' name="Batu Daya" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="HP Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="Healling Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="Batu Kritis" contents_text1="" contents_text2="0" contents_text3="0"/>
+    </set_item>
+  	
+	<main_ui_text>
+		<element id='0' name="랭킹 점수" contents_text="Raning point define sum of all stage clear point." />
+		<element id='1' name="친구 설치 보상1" contents_text="Play game with three friends." />
+		<element id='2' name="친구 설치 보상2" contents_text="Play game with eight friends." />
+		<element id='3' name="보상 항목 표시" contents_text="You can get the new hero character."/>
+		<element id='4' name="보상 항목 표시2" contents_text="You can get the new hero character."/>
+		<element id='5' name="UI설명 텍스트" contents_text="You can get the various reward, the more friend playing the better."/>
+		<element id='6' name="UI부분 설명 텍스트" contents_text="facebook invite event." />
+		<element id='7' name="UI부분 설명 텍스트" contents_text="friend list"/>
+		<element id='8' name="보상 항목 표시3" contents_text="Hero Friend gift."/>
+	</main_ui_text>
+  	<shop_ui_text>
+		<element id='0' name="근거리" contents_text="Perkela" />
+		<element id='1' name="원거리" contents_text="Jarak" />
+		<element id='2' name="용병상점 설명" contents_text="Pahlawan teman/upgrade/can be dilengkapi" />
+		<element id='3' name="용병장비장착 설명" contents_text="Teman pahlawan juga dapat dilengkapi dengan peralatan." />
+		<element id='4' name="유닛상점 설명" contents_text="Dapat membeli unit ramah untuk membantu memerangi." />
+		<element id='5' name="스킬상점 설명" contents_text="Dapat memperoleh keterampilan khusus penggunaan pahlawan." />
+		<element id='6' name="아이템 상점 설명" contents_text="Item potion/Buff Anda dapat membeli dan menjual." />
+		<element id='7' name="인벤토리 설명" contents_text="Hero dapat dilengkapi Peralatan/buff/makanan seperti" />
+		<element id='8' name="아이템 레벨제한" contents_text="Lv1~"/>
+		<element id='9' name="아이템 레벨제한" contents_text="Lv15~"/>
+		<element id='10' name="아이템 레벨제한" contents_text="Lv30~"/>
+		<element id='11' name="아이템 레벨제한" contents_text="Lv45~"/>
+	</shop_ui_text>  
+	
+	<normal_monster_name>
+		<element id='0' name="Mumi" contents_text=""/>
+		<element id='1' name="Mumi raksasa" contents_text=""/>
+		<element id='2' name="Mumi kecil" contents_text=""/>
+		<element id='3' name="Mumi umum yang marah" contents_text=""/>
+		<element id='4' name="Mumi Raksasa Marah" contents_text=""/>
+		<element id='5' name="Mumi Kecil Marah" contents_text=""/>
+		<element id='6' name="Tengkorak" contents_text=""/>
+		<element id='7' name="Tengkorak kecil" contents_text=""/>
+		<element id='8' name="Tengkorak raksasa" contents_text=""/>
+		<element id='9' name="Tengkorak yang marah" contents_text=""/>
+		<element id='10' name="Tengkorak kecil" contents_text="yang marah"/>
+		<element id='11' name="Tengkorak raksasa" contents_text="yang marah"/>
+		<element id='12' name="Mumi terbang" contents_text=""/>
+		<element id='13' name="Terbang mumi kecil" contents_text=""/>
+		<element id='14' name="Terbang mumi" contents_text="yang marah"/>
+		<element id='15' name="Terbang mumi kecil" contents_text="yang marah"/>
+		<element id='16' name="Tengkorak terbang" contents_text=""/>
+		<element id='17' name="Terbang tengkorak" contents_text="kecil"/>
+		<element id='18' name="Tengkorak Marah" contents_text="Terbang"/>
+		<element id='19' name="Tengkorak kecil" contents_text="terbang marah"/>
+		<element id='20' name="Hantu" contents_text=""/>
+		<element id='21' name="Hantu besar" contents_text=""/>
+		<element id='22' name="Vampir" contents_text=""/>
+		<element id='23' name="Vampir marah" contents_text=""/>
+		<element id='24' name="Labu bom" contents_text=""/>
+		<element id='25' name="Labu bom kecil" contents_text=""/>
+		<element id='26' name="Vampir kecil" contents_text=""/>
+		<element id='27' name="Vampir kecil" contents_text="yang marah"/>
+		<element id='28' name="Mayat beku" contents_text=""/>
+		<element id='29' name="Ent hitam" contents_text=""/>
+		<element id='30' name="Guitar Man" contents_text=""/>
+		<element id='31' name="Bos pangkalan" contents_text=""/>
+		<element id='32' name="Frankenstein" contents_text=""/>
+		<element id='33' name="Serigala" contents_text=""/>
+		<element id='34' name="Labu" contents_text=""/>
+		<element id='35' name="setan" contents_text=""/>
+	</normal_monster_name>	
+
+	<option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
