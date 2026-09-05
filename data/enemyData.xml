@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<kET_Mummy id='0' level='1' hp='265' move_speed='2.0' attack_cooltime='4000' defence='1' critical='4' sight_range='0' attack_range='65' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='7' stun_x='-18' stun_y='-110' eff_x='0' eff_y='0' hp_x='-12' hp_y='113' position_type='1' line='2'/>
+	<kET_MummyBig id='1' level='1' hp='300' move_speed='1.6' attack_cooltime='4000' defence='1' critical='2' sight_range='0' attack_range='100' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='3' stun_x='-34' stun_y='-131' eff_x='0' eff_y='0' hp_x='-28' hp_y='148' position_type='1' line='3'/>
+	<kET_MummyMini id='2' level='1' hp='300' move_speed='2.4' attack_cooltime='4000' defence='1' critical='1' sight_range='0' attack_range='55' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='1' stun_x='-21' stun_y='-79' eff_x='0' eff_y='0' hp_x='-18' hp_y='89' position_type='1' line='0'/>
+	<kET_AngryMummy id='3' level='1' hp='186' move_speed='2.0' attack_cooltime='4000' defence='1' critical='9' sight_range='0' attack_range='65' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='23' gold='0' point='24' stun_x='-18' stun_y='-110' eff_x='0' eff_y='0' hp_x='-12' hp_y='113' position_type='1' line='2'/>
+	<kET_AngryMummyBig id='4' level='1' hp='240' move_speed='1.6' attack_cooltime='4000' defence='1' critical='14' sight_range='0' attack_range='85' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='27' stun_x='-34' stun_y='-131' eff_x='0' eff_y='0' hp_x='-28' hp_y='148' position_type='1' line='3'/>
+	<kET_AngryMummyMini id='5' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='6' sight_range='0' attack_range='55' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='11' stun_x='-21' stun_y='-79' eff_x='0' eff_y='0' hp_x='-18' hp_y='89' position_type='1' line='0'/>
+	<kET_Skeleton id='6' level='1' hp='265' move_speed='2.0' attack_cooltime='4000' defence='1' critical='0' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='17' stun_x='-24' stun_y='-110' eff_x='0' eff_y='0' hp_x='-13' hp_y='129' position_type='1' line='2'/>
+	<kET_SkeletonMini id='7' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='6' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='11' stun_x='0' stun_y='-123' eff_x='0' eff_y='0' hp_x='-17' hp_y='108' position_type='1' line='0'/>
+	<kET_SkeletonBig id='8' level='1' hp='240' move_speed='2.0' attack_cooltime='4000' defence='1' critical='7' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='13' stun_x='-7' stun_y='-181' eff_x='0' eff_y='0' hp_x='0' hp_y='187' position_type='1' line='3'/>
+	<kET_AngrySkeleton id='9' level='1' hp='265' move_speed='2.0' attack_cooltime='4000' defence='1' critical='13' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='26' stun_x='-24' stun_y='-110' eff_x='0' eff_y='0' hp_x='-13' hp_y='129' position_type='1' line='2'/>
+	<kET_AngrySkeletonMini id='10' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='13' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='25' stun_x='0' stun_y='-123' eff_x='0' eff_y='0' hp_x='-17' hp_y='108' position_type='1' line='0'/>
+	<kET_AngrySkeletonBig id='11' level='1' hp='240' move_speed='2.0' attack_cooltime='4000' defence='1' critical='16' sight_range='0' attack_range='240' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='31' stun_x='-7' stun_y='-181' eff_x='0' eff_y='0' hp_x='0' hp_y='187' position_type='1' line='3'/>
+	<kET_FlyMummy id='12' level='1' hp='265' move_speed='2.4' attack_cooltime='4000' defence='1' critical='17' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='33' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='0' hp_y='78' position_type='2' line='2'/>
+	<kET_FlyMummyMini id='13' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='14' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='27' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='-14' hp_y='73' position_type='2' line='0'/>
+	<kET_AngryFlyMummy id='14' level='1' hp='265' move_speed='2.4' attack_cooltime='4000' defence='1' critical='21' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='42' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='0' hp_y='120' position_type='2' line='1'/>
+	<kET_AngryFlyMummyMini id='15' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='21' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='41' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='-14' hp_y='73' position_type='2' line='0'/>
+	<kET_FlySkeleton id='16' level='1' hp='265' move_speed='2.4' attack_cooltime='4000' defence='1' critical='20' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='39' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='-11' hp_y='109' position_type='2' line='2'/>
+	<kET_FlySkeletonMini id='17' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='18' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='35' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='-14' hp_y='103' position_type='2' line='0'/>
+	<kET_AngryFlySkeleton id='18' level='1' hp='265' move_speed='2.4' attack_cooltime='4000' defence='1' critical='25' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='50' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='0' hp_y='120' position_type='2' line='2'/>
+	<kET_AngryFlySkeletonMini id='19' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='20' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='39' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='0' hp_y='120' position_type='2' line='0'/>
+	<kET_GhostMini id='20' level='1' hp='105' move_speed='2.4' attack_cooltime='4000' defence='1' critical='15' sight_range='0' attack_range='180' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='29' stun_x='0' stun_y='-100' eff_x='0' eff_y='0' hp_x='0' hp_y='100' position_type='1' line='0'/>
+	<kET_Ghost id='21' level='1' hp='160' move_speed='2.0' attack_cooltime='4000' defence='1' critical='19' sight_range='0' attack_range='120' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='37' stun_x='-10' stun_y='-126' eff_x='0' eff_y='0' hp_x='-14' hp_y='125' position_type='1' line='2'/>
+	<kET_Vampire id='22' level='1' hp='265' move_speed='4.8' attack_cooltime='4000' defence='1' critical='12' sight_range='0' attack_range='80' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='23' stun_x='-21' stun_y='-109' eff_x='0' eff_y='0' hp_x='0' hp_y='125' position_type='1' line='2'/>
+	<kET_AngryVampire id='23' level='1' hp='265' move_speed='4.8' attack_cooltime='4000' defence='1' critical='14' sight_range='0' attack_range='65' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='28' stun_x='-21' stun_y='-109' eff_x='0' eff_y='0' hp_x='0' hp_y='125' position_type='1' line='2'/>
+	<kET_Pumpkin id='24' level='1' hp='260' move_speed='2.0' attack_cooltime='0' defence='1' critical='15' sight_range='0' attack_range='45' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='30' stun_x='0' stun_y='-140' eff_x='0' eff_y='0' hp_x='0' hp_y='140' position_type='1' line='2'/>
+	<kET_PumpkinMini id='25' level='1' hp='230' move_speed='2.4' attack_cooltime='0' defence='1' critical='10' sight_range='0' attack_range='45' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='20' stun_x='-4' stun_y='-103' eff_x='0' eff_y='0' hp_x='0' hp_y='105' position_type='1' line='0'/>
+	<kET_VampireMini id='26' level='1' hp='230' move_speed='4.8' attack_cooltime='4000' defence='1' critical='10' sight_range='0' attack_range='55' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='19' stun_x='-11' stun_y='-107' eff_x='0' eff_y='0' hp_x='-11' hp_y='107' position_type='1' line='0'/>
+	<kET_AngryVampireMini id='27' level='1' hp='230' move_speed='4.8' attack_cooltime='4000' defence='1' critical='12' sight_range='0' attack_range='55' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='23' stun_x='-11' stun_y='-107' eff_x='0' eff_y='0' hp_x='-11' hp_y='107' position_type='1' line='0'/>
+	<kET_Gangsi id='28' level='1' hp='230' move_speed='2.4' attack_cooltime='4000' defence='1' critical='3' sight_range='0' attack_range='106' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='5' stun_x='0' stun_y='-130' eff_x='0' eff_y='0' hp_x='0' hp_y='131' position_type='1' line='2'/>
+	<kET_BlackEnt id='29' level='1' hp='265' move_speed='2.4' attack_cooltime='4000' defence='1' critical='16' sight_range='0' attack_range='250' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='31' stun_x='25' stun_y='-168' eff_x='0' eff_y='0' hp_x='0' hp_y='119' position_type='1' line='2'/>
+	<kET_MusicSkeleton id='30' level='1' hp='260' move_speed='2.4' attack_cooltime='10000' defence='1' critical='0' sight_range='0' attack_range='60' skill_rate='-1' item_reward='0' reward_rate='1' text_reward_rate='3' exp='30' gold='0' point='15' stun_x='0' stun_y='-122' eff_x='0' eff_y='0' hp_x='-12' hp_y='136' position_type='1' line='2'/>
+	<!-- boss -->
+	<kET_BossGate id='31' level='1' hp='4000' move_speed='0.0' attack_cooltime='2000' defence='6' critical='5' sight_range='0' attack_range='500' skill_rate='0' item_reward='0' reward_rate='1' text_reward_rate='3' exp='540' gold='0' point='0' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_x='-12' hp_y='0' position_type='0' line='2'/>
+	<kET_BossFraken id='32' level='1' hp='4000' move_speed='0.8' attack_cooltime='2000' defence='10' critical='10' sight_range='250' attack_range='130' skill_rate='30' item_reward='0' reward_rate='1' text_reward_rate='3' exp='880' gold='0' point='0' stun_x='-43' stun_y='-178' eff_x='0' eff_y='0' hp_x='0' hp_y='173' position_type='1' line='2'/>
+	<kET_BossWolf id='33' level='1' hp='4000' move_speed='1.2' attack_cooltime='2000' defence='12' critical='15' sight_range='300' attack_range='110' skill_rate='30' item_reward='0' reward_rate='1' text_reward_rate='3' exp='1320' gold='0' point='0' stun_x='7' stun_y='-180' eff_x='0' eff_y='0' hp_x='-23' hp_y='180' position_type='1' line='2'/>
+	<kET_BossPumpkin id='34' level='1' hp='4583' move_speed='0.8' attack_cooltime='2000' defence='25' critical='20' sight_range='300' attack_range='130' skill_rate='30' item_reward='0' reward_rate='1' text_reward_rate='3' exp='1925' gold='0' point='0' stun_x='-34' stun_y='-188' eff_x='0' eff_y='0' hp_x='-13' hp_y='203' position_type='1' line='2'/>
+	<kET_BossDevil id='35' level='1' hp='5090' move_speed='1.0' attack_cooltime='2000' defence='32' critical='25' sight_range='400' attack_range='120' skill_rate='30' item_reward='0' reward_rate='1' text_reward_rate='3' exp='3130' gold='0' point='0' stun_x='23' stun_y='-165' eff_x='0' eff_y='0' hp_x='-5' hp_y='175' position_type='1' line='2'/>
+</define>
+
+
+<!--
+
+	kET_Mummy
+	kET_MummyBig
+	kET_MummyMini
+	kET_AngryMummy
+	kET_AngryMummyBig
+	kET_AngryMummyMini
+	kET_Skeleton
+	kET_SkeletonMini
+	kET_SkeletonBig
+	kET_AngrySkeleton
+	kET_AngrySkeletonMini
+	kET_AngrySkeletonBig
+	kET_FlyMummy
+	kET_FlyMummyMini
+	kET_AngryFlyMummy
+	kET_AngryFlyMummyMini
+	kET_FlySkeleton
+	kET_FlySkeletonMini
+	kET_AngryFlySkeleton
+	kET_AngryFlySkeletonMini
+	kET_GhostMini
+	kET_Ghost
+	kET_Vampire
+	kET_AngryVampire
+	kET_Pumpkin
+	kET_PumpkinMini
+	kET_VampireMini
+	kET_AngryVampireMini
+	kET_Gangsi
+	kET_BlackEnt
+	kET_MusicSkeleton
+
+hp_x='0' hp_y: 이미지 높이 + 10
+position_type == 1 지상유닛, ==2 공중유닛, ==4 지하유닛
+
+-->
