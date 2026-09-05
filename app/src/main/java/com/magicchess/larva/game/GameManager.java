@@ -8,13 +8,7 @@ import java.util.List;
 
 public class GameManager {
     
-    public enum GameState {
-        TITLE,
-        SHOP,
-        BOARD,
-        BATTLE,
-        GAME_OVER
-    }
+    public enum GameState { TITLE, SHOP, BOARD, BATTLE, GAME_OVER }
     
     private Context context;
     private AssetLoader assetLoader;
@@ -32,7 +26,6 @@ public class GameManager {
         this.assetLoader = new AssetLoader(context);
         this.soundManager = new SoundManager(context);
         
-        // Initialize game components
         this.player = new Player("Komandan", 100);
         this.board = new Board();
         this.shop = new Shop();
@@ -42,7 +35,6 @@ public class GameManager {
         this.currentRound = 1;
         this.currentState = GameState.TITLE;
         
-        // Load initial assets
         assetLoader.loadAllAssets();
     }
     
@@ -53,8 +45,6 @@ public class GameManager {
         board.clear();
         board.setMaxHeroes(player.getLevel());
         shop.refresh(player.getLevel());
-        
-        soundManager.playSound("sound/ui/button.ogg");
     }
     
     public void buyHero(Hero hero) {
@@ -73,7 +63,6 @@ public class GameManager {
         if (hero != null) {
             player.addGold(hero.getCost() / 2);
             board.removeHero(boardPosition);
-            soundManager.playSound("sound/attack_unit.ogg");
         }
     }
     
@@ -85,7 +74,6 @@ public class GameManager {
                 board.removeHero(duplicates.get(0).getPosition());
                 board.removeHero(duplicates.get(1).getPosition());
                 hero.upgradeStar();
-                soundManager.playSound("sound/levelup.ogg");
             }
         }
     }
@@ -109,30 +97,25 @@ public class GameManager {
             player.spendGold(levelCost);
             player.levelUp();
             board.setMaxHeroes(player.getLevel());
-            soundManager.playSound("sound/levelup.ogg");
         }
     }
     
     public void startBattle() {
         currentState = GameState.BATTLE;
         combatSystem.startBattle(this);
-        soundManager.playSound("sound/bgm/war_bgm.ogg");
     }
     
     public void processBattleResult(boolean victory) {
         if (victory) {
             player.addGold(2);
             player.incrementWinStreak();
-            soundManager.playSound("sound/bgm/result.ogg");
         } else {
             int damage = calculateDamage();
             player.takeDamage(damage);
             player.resetWinStreak();
-            soundManager.playSound("sound/fall.ogg");
             
             if (player.getHp() <= 0) {
                 currentState = GameState.GAME_OVER;
-                soundManager.playSound("sound/bgm/result.ogg");
             }
         }
         
@@ -153,7 +136,6 @@ public class GameManager {
         if (player.getGold() >= 2) {
             player.spendGold(2);
             shop.refresh(player.getLevel());
-            soundManager.playSound("sound/ui/button.ogg");
         }
     }
     
@@ -167,19 +149,6 @@ public class GameManager {
     public int getCurrentRound() { return currentRound; }
     public SoundManager getSoundManager() { return soundManager; }
     
-    public void setCurrentState(GameState state) { 
-        this.currentState = state; 
-    }
-    
-    public void resume() {
-        // Resume game logic if needed
-    }
-    
-    public void pause() {
-        // Pause game logic
-    }
-    
-    public void destroy() {
-        soundManager.release();
-    }
+    public void setCurrentState(GameState state) { this.currentState = state; }
+    public void destroy() { soundManager.release(); }
 }
