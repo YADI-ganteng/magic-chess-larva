@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<kReward_id_0>
+	<element item_id='0' item_lv='2' item_probability='26'/>
+	<element item_id='6' item_lv='4' item_probability='6'/>
+	<element item_id='7' item_lv='4' item_probability='6'/>
+	<element item_id='8' item_lv='4' item_probability='6'/>
+	<element item_id='9' item_lv='4' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_0>
+	<kReward_id_1>
+	<element item_id='0' item_lv='4' item_probability='26'/>
+	<element item_id='6' item_lv='4' item_probability='6'/>
+	<element item_id='7' item_lv='4' item_probability='6'/>
+	<element item_id='8' item_lv='4' item_probability='6'/>
+	<element item_id='9' item_lv='4' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_1>
+	<kReward_id_2>
+	<element item_id='0' item_lv='6' item_probability='26'/>
+	<element item_id='10' item_lv='12' item_probability='6'/>
+	<element item_id='11' item_lv='12' item_probability='6'/>
+	<element item_id='12' item_lv='12' item_probability='6'/>
+	<element item_id='13' item_lv='12' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_2>
+	<kReward_id_3>
+	<element item_id='0' item_lv='8' item_probability='26'/>
+	<element item_id='10' item_lv='12' item_probability='6'/>
+	<element item_id='11' item_lv='12' item_probability='6'/>
+	<element item_id='12' item_lv='12' item_probability='6'/>
+	<element item_id='13' item_lv='12' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_3>
+	<kReward_id_4>
+	<element item_id='1' item_lv='10' item_probability='26'/>
+	<element item_id='14' item_lv='20' item_probability='6'/>
+	<element item_id='15' item_lv='20' item_probability='6'/>
+	<element item_id='16' item_lv='20' item_probability='6'/>
+	<element item_id='17' item_lv='20' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_4>
+	<kReward_id_5>
+	<element item_id='1' item_lv='12' item_probability='26'/>
+	<element item_id='14' item_lv='20' item_probability='6'/>
+	<element item_id='15' item_lv='20' item_probability='6'/>
+	<element item_id='16' item_lv='20' item_probability='6'/>
+	<element item_id='17' item_lv='20' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_5>
+	<kReward_id_6>
+	<element item_id='1' item_lv='14' item_probability='26'/>
+	<element item_id='18' item_lv='28' item_probability='6'/>
+	<element item_id='19' item_lv='28' item_probability='6'/>
+	<element item_id='20' item_lv='28' item_probability='6'/>
+	<element item_id='21' item_lv='28' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_6>
+	<kReward_id_7>
+	<element item_id='1' item_lv='16' item_probability='26'/>
+	<element item_id='18' item_lv='28' item_probability='6'/>
+	<element item_id='19' item_lv='28' item_probability='6'/>
+	<element item_id='20' item_lv='28' item_probability='6'/>
+	<element item_id='21' item_lv='28' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_7>
+	<kReward_id_8>
+	<element item_id='2' item_lv='18' item_probability='26'/>
+	<element item_id='22' item_lv='36' item_probability='6'/>
+	<element item_id='23' item_lv='36' item_probability='6'/>
+	<element item_id='24' item_lv='36' item_probability='6'/>
+	<element item_id='25' item_lv='36' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_8>
+	<kReward_id_9>
+	<element item_id='2' item_lv='20' item_probability='26'/>
+	<element item_id='22' item_lv='36' item_probability='6'/>
+	<element item_id='23' item_lv='36' item_probability='6'/>
+	<element item_id='24' item_lv='36' item_probability='6'/>
+	<element item_id='25' item_lv='36' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_9>
+	<kReward_id_10>
+	<element item_id='2' item_lv='22' item_probability='26'/>
+	<element item_id='22' item_lv='36' item_probability='6'/>
+	<element item_id='23' item_lv='36' item_probability='6'/>
+	<element item_id='24' item_lv='36' item_probability='6'/>
+	<element item_id='25' item_lv='36' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_10>
+	<kReward_id_11>
+	<element item_id='2' item_lv='24' item_probability='26'/>
+	<element item_id='26' item_lv='44' item_probability='6'/>
+	<element item_id='27' item_lv='44' item_probability='6'/>
+	<element item_id='28' item_lv='44' item_probability='6'/>
+	<element item_id='29' item_lv='44' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_11>
+	<kReward_id_12>
+	<element item_id='3' item_lv='26' item_probability='26'/>
+	<element item_id='26' item_lv='44' item_probability='6'/>
+	<element item_id='27' item_lv='44' item_probability='6'/>
+	<element item_id='28' item_lv='44' item_probability='6'/>
+	<element item_id='29' item_lv='44' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_12>
+	<kReward_id_13>
+	<element item_id='3' item_lv='26' item_probability='26'/>
+	<element item_id='30' item_lv='52' item_probability='6'/>
+	<element item_id='31' item_lv='52' item_probability='6'/>
+	<element item_id='32' item_lv='52' item_probability='6'/>
+	<element item_id='33' item_lv='52' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_13>
+	<kReward_id_14>
+	<element item_id='3' item_lv='28' item_probability='26'/>
+	<element item_id='30' item_lv='52' item_probability='6'/>
+	<element item_id='31' item_lv='52' item_probability='6'/>
+	<element item_id='32' item_lv='52' item_probability='6'/>
+	<element item_id='33' item_lv='52' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_14>
+	<kReward_id_15>
+	<element item_id='3' item_lv='30' item_probability='26'/>
+	<element item_id='30' item_lv='52' item_probability='6'/>
+	<element item_id='31' item_lv='52' item_probability='6'/>
+	<element item_id='32' item_lv='52' item_probability='6'/>
+	<element item_id='33' item_lv='52' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_15>
+	<kReward_id_16>
+	<element item_id='3' item_lv='30' item_probability='26'/>
+	<element item_id='34' item_lv='60' item_probability='6'/>
+	<element item_id='35' item_lv='60' item_probability='6'/>
+	<element item_id='36' item_lv='60' item_probability='6'/>
+	<element item_id='37' item_lv='60' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_16>
+	<kReward_id_17>
+	<element item_id='3' item_lv='32' item_probability='26'/>
+	<element item_id='34' item_lv='60' item_probability='6'/>
+	<element item_id='35' item_lv='60' item_probability='6'/>
+	<element item_id='36' item_lv='60' item_probability='6'/>
+	<element item_id='37' item_lv='60' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_17>
+	<kReward_id_18>
+	<element item_id='4' item_lv='34' item_probability='26'/>
+	<element item_id='38' item_lv='68' item_probability='6'/>
+	<element item_id='39' item_lv='68' item_probability='6'/>
+	<element item_id='40' item_lv='68' item_probability='6'/>
+	<element item_id='41' item_lv='68' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_18>
+	<kReward_id_19>
+	<element item_id='4' item_lv='36' item_probability='26'/>
+	<element item_id='38' item_lv='68' item_probability='6'/>
+	<element item_id='39' item_lv='68' item_probability='6'/>
+	<element item_id='40' item_lv='68' item_probability='6'/>
+	<element item_id='41' item_lv='68' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_19>
+	<kReward_id_20>
+	<element item_id='4' item_lv='38' item_probability='26'/>
+	<element item_id='42' item_lv='76' item_probability='6'/>
+	<element item_id='43' item_lv='76' item_probability='6'/>
+	<element item_id='44' item_lv='76' item_probability='6'/>
+	<element item_id='45' item_lv='76' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_20>
+	<kReward_id_21>
+	<element item_id='4' item_lv='40' item_probability='26'/>
+	<element item_id='42' item_lv='76' item_probability='6'/>
+	<element item_id='43' item_lv='76' item_probability='6'/>
+	<element item_id='44' item_lv='76' item_probability='6'/>
+	<element item_id='45' item_lv='76' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_21>
+	<kReward_id_22>
+	<element item_id='5' item_lv='42' item_probability='26'/>
+	<element item_id='46' item_lv='84' item_probability='6'/>
+	<element item_id='47' item_lv='84' item_probability='6'/>
+	<element item_id='48' item_lv='84' item_probability='6'/>
+	<element item_id='49' item_lv='84' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_22>
+	<kReward_id_23>
+	<element item_id='5' item_lv='44' item_probability='26'/>
+	<element item_id='46' item_lv='84' item_probability='6'/>
+	<element item_id='47' item_lv='84' item_probability='6'/>
+	<element item_id='48' item_lv='84' item_probability='6'/>
+	<element item_id='49' item_lv='84' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_23>
+	<kReward_id_24>
+	<element item_id='5' item_lv='46' item_probability='26'/>
+	<element item_id='46' item_lv='84' item_probability='6'/>
+	<element item_id='47' item_lv='84' item_probability='6'/>
+	<element item_id='48' item_lv='84' item_probability='6'/>
+	<element item_id='49' item_lv='84' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_24>
+	<kReward_id_25>
+	<element item_id='5' item_lv='46' item_probability='26'/>
+	<element item_id='50' item_lv='92' item_probability='6'/>
+	<element item_id='51' item_lv='92' item_probability='6'/>
+	<element item_id='52' item_lv='92' item_probability='6'/>
+	<element item_id='53' item_lv='92' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_25>
+	<kReward_id_26>
+	<element item_id='5' item_lv='48' item_probability='26'/>
+	<element item_id='50' item_lv='92' item_probability='6'/>
+	<element item_id='51' item_lv='92' item_probability='6'/>
+	<element item_id='52' item_lv='92' item_probability='6'/>
+	<element item_id='53' item_lv='92' item_probability='6'/>
+	<element item_id='59' item_lv='1' item_probability='10'/>
+	<element item_id='60' item_lv='1' item_probability='10'/>
+	<element item_id='61' item_lv='1' item_probability='10'/>
+	<element item_id='62' item_lv='1' item_probability='10'/>
+	<element item_id='63' item_lv='1' item_probability='10'/>
+	</kReward_id_26>
+	<kReward_id_27>
+	<element item_id='14' item_lv='20' item_probability='26'/>
+	<element item_id='15' item_lv='20' item_probability='6'/>
+	<element item_id='16' item_lv='20' item_probability='6'/>
+	<element item_id='17' item_lv='20' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	</kReward_id_27>
+	<kReward_id_28>
+	<element item_id='22' item_lv='36' item_probability='26'/>
+	<element item_id='23' item_lv='36' item_probability='6'/>
+	<element item_id='24' item_lv='36' item_probability='6'/>
+	<element item_id='25' item_lv='36' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	</kReward_id_28>
+	<kReward_id_29>
+	<element item_id='34' item_lv='60' item_probability='26'/>
+	<element item_id='35' item_lv='60' item_probability='6'/>
+	<element item_id='36' item_lv='60' item_probability='6'/>
+	<element item_id='37' item_lv='60' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	</kReward_id_29>
+	<kReward_id_30>
+	<element item_id='42' item_lv='76' item_probability='26'/>
+	<element item_id='43' item_lv='76' item_probability='6'/>
+	<element item_id='44' item_lv='76' item_probability='6'/>
+	<element item_id='45' item_lv='76' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='6'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	<element item_id='-1' item_lv='0' item_probability='10'/>
+	</kReward_id_30>
+</define>
+
+<!--
+
+item_id: itemData.xml¿¡ dGµǾ졀ִ id
+
+-->
+
+
