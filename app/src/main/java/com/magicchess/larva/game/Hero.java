@@ -27,7 +27,6 @@ public class Hero {
         this.starLevel = 1;
         this.synergies = new ArrayList<>();
         
-        // Base stats
         this.hp = 100 + cost * 20;
         this.attack = 10 + cost * 5;
         this.defense = 5 + cost * 2;
@@ -44,26 +43,6 @@ public class Hero {
             this.attack *= 2;
             this.defense *= 2;
             this.magicPower *= 2;
-        }
-    }
-    
-    public void applySynergyBonus(String type, int value) {
-        switch (type) {
-            case "ATTACK_SPEED":
-                this.attackSpeed += value;
-                break;
-            case "ATTACK":
-                this.attack += value;
-                break;
-            case "DEFENSE":
-                this.defense += value;
-                break;
-            case "HP":
-                this.hp += value;
-                break;
-            case "MAGIC":
-                this.magicPower += value;
-                break;
         }
     }
     
@@ -90,12 +69,6 @@ public class Hero {
     public List<String> getSynergies() { return synergies; }
     
     public void setStarLevel(int starLevel) { this.starLevel = starLevel; }
-    public void setHp(int hp) { this.hp = hp; }
-    public void setAttack(int attack) { this.attack = attack; }
-    public void setDefense(int defense) { this.defense = defense; }
-    public void setAttackSpeed(int attackSpeed) { this.attackSpeed = attackSpeed; }
-    public void setRange(int range) { this.range = range; }
-    public void setMagicPower(int magicPower) { this.magicPower = magicPower; }
     public void setPosition(int position) { this.position = position; }
     public void setSoundPath(String soundPath) { this.soundPath = soundPath; }
 }
