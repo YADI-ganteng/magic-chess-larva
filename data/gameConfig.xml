@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<define>
+	<option fps='0'/>
+	<player player_level='1'/>
+	<party party_type='4' party_level='1'/>
+	<catbus start_point='800'/>
+	<unit unit_slot1='0' unit_slot2='3' unit_slot3='2' unit_slot4='13' unit_slot5='9' unit_slot6='7'/>
+	<skill skill_slot1='2' skill_slot2='16' skill_slot3='5' skill_slot4='15'/>
+	<data get_sp_small='6' get_sp_middle='10' get_sp_big='18'/>
+	<map_obj spa_cool='8000' sand_hole_cool='10000' sand_hole_duration='3000'/>
+	<!-- unit_upgrade -->
+	<babybeetle lv1='30' lv2='36' lv3='43' lv4='52' lv5='62' lv6='75' lv7='90' lv8='107' lv9='129' lv10='155' lv11='186' lv12='223' lv13='267' lv14='321' lv15='385' lv16='462' lv17='555' lv18='666' lv19='799' lv20='0'/>
+	<rbguard lv1='40' lv2='48' lv3='58' lv4='69' lv5='83' lv6='100' lv7='119' lv8='143' lv9='172' lv10='206' lv11='248' lv12='297' lv13='357' lv14='428' lv15='514' lv16='616' lv17='740' lv18='887' lv19='1065' lv20='0'/>
+	<black lv1='100' lv2='120' lv3='144' lv4='173' lv5='207' lv6='249' lv7='299' lv8='358' lv9='430' lv10='516' lv11='619' lv12='743' lv13='892' lv14='1070' lv15='1284' lv16='1541' lv17='1849' lv18='2219' lv19='2662' lv20='0'/>
+	<toycar lv1='200' lv2='240' lv3='288' lv4='346' lv5='415' lv6='498' lv7='597' lv8='717' lv9='860' lv10='1032' lv11='1238' lv12='1486' lv13='1783' lv14='2140' lv15='2568' lv16='3081' lv17='3698' lv18='4437' lv19='5325' lv20='0'/>
+	<bombbug lv1='140' lv2='168' lv3='202' lv4='242' lv5='290' lv6='348' lv7='418' lv8='502' lv9='602' lv10='722' lv11='867' lv12='1040' lv13='1248' lv14='1498' lv15='1797' lv16='2157' lv17='2588' lv18='3106' lv19='3727' lv20='0'/>
+	<rainbow lv1='200' lv2='240' lv3='288' lv4='346' lv5='415' lv6='498' lv7='597' lv8='717' lv9='860' lv10='1032' lv11='1238' lv12='1486' lv13='1783' lv14='2140' lv15='2568' lv16='3081' lv17='3698' lv18='4437' lv19='5325' lv20='0'/>
+	<brown lv1='280' lv2='336' lv3='403' lv4='484' lv5='581' lv6='697' lv7='836' lv8='1003' lv9='1204' lv10='1445' lv11='1734' lv12='2080' lv13='2497' lv14='2996' lv15='3595' lv16='4314' lv17='5177' lv18='6212' lv19='7455' lv20='0'/>
+	<rbhunter lv1='350' lv2='420' lv3='504' lv4='605' lv5='726' lv6='871' lv7='1045' lv8='1254' lv9='1505' lv10='1806' lv11='2167' lv12='2601' lv13='3121' lv14='3745' lv15='4494' lv16='5392' lv17='6471' lv18='7765' lv19='9318' lv20='0'/>
+	<blkknight lv1='1000' lv2='1200' lv3='1440' lv4='1728' lv5='2074' lv6='2488' lv7='2986' lv8='3583' lv9='4300' lv10='5160' lv11='6192' lv12='7430' lv13='8916' lv14='10699' lv15='12839' lv16='15407' lv17='18488' lv18='22186' lv19='26623' lv20='0'/>
+	<pink lv1='700' lv2='840' lv3='1008' lv4='1210' lv5='1452' lv6='1742' lv7='2090' lv8='2508' lv9='3010' lv10='3612' lv11='4334' lv12='5201' lv13='6241' lv14='7490' lv15='8987' lv16='10785' lv17='12942' lv18='15530' lv19='18636' lv20='0'/>
+	<prince lv1='750' lv2='900' lv3='1080' lv4='1296' lv5='1555' lv6='1866' lv7='2239' lv8='2687' lv9='3225' lv10='3870' lv11='4644' lv12='5573' lv13='6687' lv14='8024' lv15='9629' lv16='11555' lv17='13866' lv18='16640' lv19='19967' lv20='0'/>
+	<rbwarrior lv1='1700' lv2='2040' lv3='2448' lv4='2938' lv5='3525' lv6='4230' lv7='5076' lv8='6091' lv9='7310' lv10='8772' lv11='10526' lv12='12631' lv13='15157' lv14='18189' lv15='21827' lv16='26192' lv17='31430' lv18='37716' lv19='45260' lv20='0'/>
+	<blue lv1='1200' lv2='1440' lv3='1728' lv4='2074' lv5='2488' lv6='2986' lv7='3583' lv8='4300' lv9='5160' lv10='6192' lv11='7430' lv12='8916' lv13='10699' lv14='12839' lv15='15407' lv16='18488' lv17='22186' lv18='26623' lv19='31948' lv20='0'/>
+	<violet lv1='2000' lv2='2400' lv3='2880' lv4='3456' lv5='4147' lv6='4977' lv7='5972' lv8='7166' lv9='8600' lv10='10320' lv11='12383' lv12='14860' lv13='17832' lv14='21399' lv15='25678' lv16='30814' lv17='36977' lv18='44372' lv19='53247' lv20='0'/>
+	<!-- skill_upgrade -->
+	<skill_1 lv1='100' lv2='150' lv3='200' lv4='250' lv5='300' lv6='350' lv7='400' lv8='450' lv9='500' lv10='550' lv11='600' lv12='650' lv13='700' lv14='750' lv15='800' lv16='850' lv17='900' lv18='950' lv19='1000' lv20='0'/>
+	<skill_2 lv1='100' lv2='190' lv3='280' lv4='370' lv5='460' lv6='550' lv7='640' lv8='730' lv9='820' lv10='910' lv11='1000' lv12='1090' lv13='1180' lv14='1270' lv15='1360' lv16='1450' lv17='1540' lv18='1630' lv19='1720' lv20='0'/>
+	<skill_3 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<skill_4 lv1='500' lv2='600' lv3='720' lv4='864' lv5='1037' lv6='1244' lv7='1493' lv8='1792' lv9='2150' lv10='2580' lv11='3096' lv12='3715' lv13='4458' lv14='5350' lv15='6420' lv16='7704' lv17='9244' lv18='11093' lv19='13312' lv20='0'/>
+	<skill_5 lv1='120' lv2='144' lv3='173' lv4='207' lv5='249' lv6='299' lv7='358' lv8='430' lv9='516' lv10='619' lv11='743' lv12='892' lv13='1070' lv14='1284' lv15='1541' lv16='1849' lv17='2219' lv18='2662' lv19='3195' lv20='0'/>
+	<skill_6 lv1='170' lv2='204' lv3='245' lv4='294' lv5='353' lv6='423' lv7='508' lv8='609' lv9='731' lv10='877' lv11='1053' lv12='1263' lv13='1516' lv14='1819' lv15='2183' lv16='2619' lv17='3143' lv18='3772' lv19='4526' lv20='0'/>
+	<skill_7 lv1='350' lv2='420' lv3='504' lv4='605' lv5='726' lv6='871' lv7='1045' lv8='1254' lv9='1505' lv10='1806' lv11='2167' lv12='2601' lv13='3121' lv14='3745' lv15='4494' lv16='5392' lv17='6471' lv18='7765' lv19='9318' lv20='0'/>
+	<skill_8 lv1='500' lv2='600' lv3='720' lv4='864' lv5='1037' lv6='1244' lv7='1493' lv8='1792' lv9='2150' lv10='2580' lv11='3096' lv12='3715' lv13='4458' lv14='5350' lv15='6420' lv16='7704' lv17='9244' lv18='11093' lv19='13312' lv20='0'/>
+	<skill_9 lv1='100' lv2='170' lv3='240' lv4='310' lv5='380' lv6='450' lv7='520' lv8='590' lv9='660' lv10='730' lv11='800' lv12='870' lv13='940' lv14='1010' lv15='1080' lv16='1150' lv17='1220' lv18='1290' lv19='1360' lv20='0'/>
+	<skill_10 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<skill_11 lv1='550' lv2='660' lv3='792' lv4='950' lv5='1140' lv6='1369' lv7='1642' lv8='1971' lv9='2365' lv10='2838' lv11='3405' lv12='4087' lv13='4904' lv14='5885' lv15='7062' lv16='8474' lv17='10169' lv18='12202' lv19='14643' lv20='0'/>
+	<skill_12 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<skill_13 lv1='100' lv2='160' lv3='220' lv4='280' lv5='340' lv6='400' lv7='460' lv8='520' lv9='580' lv10='640' lv11='700' lv12='760' lv13='820' lv14='880' lv15='940' lv16='1000' lv17='1060' lv18='1120' lv19='1180' lv20='0'/>
+	<skill_14 lv1='150' lv2='180' lv3='216' lv4='259' lv5='311' lv6='373' lv7='448' lv8='537' lv9='645' lv10='774' lv11='929' lv12='1115' lv13='1337' lv14='1605' lv15='1926' lv16='2311' lv17='2773' lv18='3328' lv19='3993' lv20='0'/>
+	<skill_15 lv1='200' lv2='240' lv3='288' lv4='346' lv5='415' lv6='498' lv7='597' lv8='717' lv9='860' lv10='1032' lv11='1238' lv12='1486' lv13='1783' lv14='2140' lv15='2568' lv16='3081' lv17='3698' lv18='4437' lv19='5325' lv20='0'/>
+	<skill_16 lv1='250' lv2='300' lv3='360' lv4='432' lv5='518' lv6='622' lv7='746' lv8='896' lv9='1075' lv10='1290' lv11='1548' lv12='1858' lv13='2229' lv14='2675' lv15='3210' lv16='3852' lv17='4622' lv18='5547' lv19='6656' lv20='0'/>
+	<skill_17 lv1='450' lv2='540' lv3='648' lv4='778' lv5='933' lv6='1120' lv7='1344' lv8='1612' lv9='1935' lv10='2322' lv11='2786' lv12='3344' lv13='4012' lv14='4815' lv15='5778' lv16='6933' lv17='8320' lv18='9984' lv19='11980' lv20='0'/>
+	<skill_18 lv1='100' lv2='180' lv3='260' lv4='340' lv5='420' lv6='500' lv7='580' lv8='660' lv9='740' lv10='820' lv11='900' lv12='980' lv13='1060' lv14='1140' lv15='1220' lv16='1300' lv17='1380' lv18='1460' lv19='1540' lv20='0'/>
+	<skill_19 lv1='100' lv2='190' lv3='280' lv4='370' lv5='460' lv6='550' lv7='640' lv8='730' lv9='820' lv10='910' lv11='1000' lv12='1090' lv13='1180' lv14='1270' lv15='1360' lv16='1450' lv17='1540' lv18='1630' lv19='1720' lv20='0'/>
+	<skill_20 lv1='600' lv2='720' lv3='864' lv4='1037' lv5='1244' lv6='1493' lv7='1792' lv8='2150' lv9='2580' lv10='3096' lv11='3715' lv12='4458' lv13='5350' lv14='6420' lv15='7704' lv16='9244' lv17='11093' lv18='13312' lv19='15974' lv20='0'/>
+	<!-- unit_upgrade_status -->
+	<babybeetle_hp lv1='300' lv2='303' lv3='306' lv4='311' lv5='318' lv6='325' lv7='334' lv8='345' lv9='357' lv10='370' lv11='385' lv12='401' lv13='418' lv14='437' lv15='458' lv16='479' lv17='502' lv18='527' lv19='553' lv20='580'/>
+	<babybeetle_atk lv1='30' lv2='31' lv3='33' lv4='35' lv5='38' lv6='41' lv7='45' lv8='49' lv9='54' lv10='60' lv11='66' lv12='73' lv13='81' lv14='89' lv15='98' lv16='107' lv17='117' lv18='127' lv19='138' lv20='150'/>
+	<babybeetle_def lv1='1' lv2='5' lv3='9' lv4='13' lv5='17' lv6='21' lv7='25' lv8='29' lv9='33' lv10='37' lv11='41' lv12='45' lv13='49' lv14='53' lv15='57' lv16='61' lv17='65' lv18='69' lv19='73' lv20='77'/>
+	<rbguard_hp lv1='700' lv2='770' lv3='840' lv4='910' lv5='980' lv6='1050' lv7='1120' lv8='1190' lv9='1260' lv10='1330' lv11='1400' lv12='1470' lv13='1540' lv14='1610' lv15='1680' lv16='1750' lv17='1820' lv18='1890' lv19='1960' lv20='2030'/>
+	<rbguard_atk lv1='0' lv2='0' lv3='0' lv4='0' lv5='0' lv6='0' lv7='0' lv8='0' lv9='0' lv10='0' lv11='0' lv12='0' lv13='0' lv14='0' lv15='0' lv16='0' lv17='0' lv18='0' lv19='0' lv20='0'/>
+	<rbguard_def lv1='9' lv2='10' lv3='11' lv4='13' lv5='24' lv6='27' lv7='30' lv8='34' lv9='38' lv10='52' lv11='57' lv12='63' lv13='69' lv14='76' lv15='92' lv16='100' lv17='108' lv18='117' lv19='126' lv20='145'/>
+	<black_hp lv1='1200' lv2='1250' lv3='1300' lv4='1350' lv5='1400' lv6='1450' lv7='1500' lv8='1550' lv9='1600' lv10='1650' lv11='1700' lv12='1750' lv13='1800' lv14='1850' lv15='1900' lv16='1950' lv17='2000' lv18='2050' lv19='2100' lv20='2150'/>
+	<black_atk lv1='100' lv2='110' lv3='120' lv4='130' lv5='140' lv6='150' lv7='160' lv8='170' lv9='180' lv10='190' lv11='200' lv12='210' lv13='220' lv14='230' lv15='240' lv16='250' lv17='260' lv18='270' lv19='280' lv20='290'/>
+	<black_def lv1='5' lv2='9' lv3='13' lv4='17' lv5='21' lv6='25' lv7='29' lv8='33' lv9='37' lv10='41' lv11='45' lv12='49' lv13='53' lv14='57' lv15='61' lv16='65' lv17='69' lv18='73' lv19='77' lv20='81'/>
+	<toycar_hp lv1='2000' lv2='2150' lv3='2300' lv4='2450' lv5='2600' lv6='2750' lv7='2900' lv8='3050' lv9='3200' lv10='3350' lv11='3500' lv12='3650' lv13='3800' lv14='3950' lv15='4100' lv16='4250' lv17='4400' lv18='4550' lv19='4700' lv20='4850'/>
+	<toycar_atk lv1='0' lv2='0' lv3='0' lv4='0' lv5='0' lv6='0' lv7='0' lv8='0' lv9='0' lv10='0' lv11='0' lv12='0' lv13='0' lv14='0' lv15='0' lv16='0' lv17='0' lv18='0' lv19='0' lv20='0'/>
+	<toycar_def lv1='14' lv2='18' lv3='22' lv4='26' lv5='30' lv6='34' lv7='38' lv8='42' lv9='46' lv10='50' lv11='54' lv12='58' lv13='62' lv14='66' lv15='70' lv16='74' lv17='78' lv18='82' lv19='86' lv20='90'/>
+	<bombbug_hp lv1='1300' lv2='1350' lv3='1400' lv4='1450' lv5='1500' lv6='1550' lv7='1600' lv8='1650' lv9='1700' lv10='1750' lv11='1800' lv12='1850' lv13='1900' lv14='1950' lv15='2000' lv16='2050' lv17='2100' lv18='2150' lv19='2200' lv20='2250'/>
+	<bombbug_atk lv1='200' lv2='210' lv3='220' lv4='230' lv5='240' lv6='250' lv7='260' lv8='270' lv9='280' lv10='290' lv11='300' lv12='310' lv13='320' lv14='330' lv15='340' lv16='350' lv17='360' lv18='370' lv19='380' lv20='390'/>
+	<bombbug_def lv1='9' lv2='13' lv3='17' lv4='21' lv5='25' lv6='29' lv7='33' lv8='37' lv9='41' lv10='45' lv11='49' lv12='53' lv13='57' lv14='61' lv15='65' lv16='69' lv17='73' lv18='77' lv19='81' lv20='85'/>
+	<rainbow_hp lv1='2000' lv2='2100' lv3='2200' lv4='2300' lv5='2400' lv6='2500' lv7='2600' lv8='2700' lv9='2800' lv10='2900' lv11='3000' lv12='3100' lv13='3200' lv14='3300' lv15='3400' lv16='3500' lv17='3600' lv18='3700' lv19='3800' lv20='3900'/>
+	<rainbow_atk lv1='0' lv2='0' lv3='0' lv4='0' lv5='0' lv6='0' lv7='0' lv8='0' lv9='0' lv10='0' lv11='0' lv12='0' lv13='0' lv14='0' lv15='0' lv16='0' lv17='0' lv18='0' lv19='0' lv20='0'/>
+	<rainbow_def lv1='50' lv2='51' lv3='52' lv4='54' lv5='65' lv6='68' lv7='71' lv8='75' lv9='79' lv10='93' lv11='98' lv12='104' lv13='110' lv14='117' lv15='133' lv16='141' lv17='149' lv18='158' lv19='167' lv20='186'/>
+	<brown_hp lv1='1500' lv2='1550' lv3='1600' lv4='1650' lv5='1700' lv6='1750' lv7='1800' lv8='1850' lv9='1900' lv10='1950' lv11='2000' lv12='2050' lv13='2100' lv14='2150' lv15='2200' lv16='2250' lv17='2300' lv18='2350' lv19='2400' lv20='2450'/>
+	<brown_atk lv1='210' lv2='220' lv3='230' lv4='240' lv5='250' lv6='260' lv7='270' lv8='280' lv9='290' lv10='300' lv11='310' lv12='320' lv13='330' lv14='340' lv15='350' lv16='360' lv17='370' lv18='380' lv19='390' lv20='400'/>
+	<brown_def lv1='33' lv2='37' lv3='41' lv4='45' lv5='49' lv6='53' lv7='57' lv8='61' lv9='65' lv10='69' lv11='73' lv12='77' lv13='81' lv14='85' lv15='89' lv16='93' lv17='97' lv18='101' lv19='105' lv20='109'/>
+	<rbhunter_hp lv1='2400' lv2='2460' lv3='2520' lv4='2580' lv5='2640' lv6='2700' lv7='2760' lv8='2820' lv9='2880' lv10='2940' lv11='3000' lv12='3060' lv13='3120' lv14='3180' lv15='3240' lv16='3300' lv17='3360' lv18='3420' lv19='3480' lv20='3540'/>
+	<rbhunter_atk lv1='270' lv2='282' lv3='294' lv4='306' lv5='318' lv6='330' lv7='342' lv8='354' lv9='366' lv10='378' lv11='390' lv12='402' lv13='414' lv14='426' lv15='438' lv16='450' lv17='462' lv18='474' lv19='486' lv20='498'/>
+	<rbhunter_def lv1='40' lv2='45' lv3='50' lv4='55' lv5='60' lv6='65' lv7='70' lv8='75' lv9='80' lv10='85' lv11='90' lv12='95' lv13='100' lv14='105' lv15='110' lv16='115' lv17='120' lv18='125' lv19='130' lv20='135'/>
+	<blkknight_hp lv1='4000' lv2='4160' lv3='4320' lv4='4480' lv5='4640' lv6='4800' lv7='4960' lv8='5120' lv9='5280' lv10='5440' lv11='5600' lv12='5760' lv13='5920' lv14='6080' lv15='6240' lv16='6400' lv17='6560' lv18='6720' lv19='6880' lv20='7040'/>
+	<blkknight_atk lv1='330' lv2='342' lv3='354' lv4='366' lv5='378' lv6='390' lv7='402' lv8='414' lv9='426' lv10='438' lv11='450' lv12='462' lv13='474' lv14='486' lv15='498' lv16='510' lv17='522' lv18='534' lv19='546' lv20='558'/>
+	<blkknight_def lv1='100' lv2='101' lv3='102' lv4='104' lv5='115' lv6='118' lv7='121' lv8='125' lv9='129' lv10='143' lv11='148' lv12='154' lv13='160' lv14='167' lv15='183' lv16='191' lv17='199' lv18='208' lv19='217' lv20='236'/>
+	<pink_hp lv1='2000' lv2='2050' lv3='2100' lv4='2150' lv5='2200' lv6='2250' lv7='2300' lv8='2350' lv9='2400' lv10='2450' lv11='2500' lv12='2550' lv13='2600' lv14='2650' lv15='2700' lv16='2750' lv17='2800' lv18='2850' lv19='2900' lv20='2950'/>
+	<pink_atk lv1='3000' lv2='3100' lv3='3200' lv4='3300' lv5='3400' lv6='3500' lv7='3600' lv8='3700' lv9='3800' lv10='3900' lv11='4000' lv12='4100' lv13='4200' lv14='4300' lv15='4400' lv16='4500' lv17='4600' lv18='4700' lv19='4800' lv20='4900'/>
+	<pink_def lv1='30' lv2='34' lv3='38' lv4='42' lv5='46' lv6='50' lv7='54' lv8='58' lv9='62' lv10='66' lv11='70' lv12='74' lv13='78' lv14='82' lv15='86' lv16='90' lv17='94' lv18='98' lv19='102' lv20='106'/>
+	<prince_hp lv1='2500' lv2='2550' lv3='2600' lv4='2650' lv5='2700' lv6='2750' lv7='2800' lv8='2850' lv9='2900' lv10='2950' lv11='3000' lv12='3050' lv13='3100' lv14='3150' lv15='3200' lv16='3250' lv17='3300' lv18='3350' lv19='3400' lv20='3450'/>
+	<prince_atk lv1='300' lv2='310' lv3='320' lv4='330' lv5='340' lv6='350' lv7='360' lv8='370' lv9='380' lv10='390' lv11='400' lv12='410' lv13='420' lv14='430' lv15='440' lv16='450' lv17='460' lv18='470' lv19='480' lv20='490'/>
+	<prince_def lv1='63' lv2='67' lv3='71' lv4='75' lv5='79' lv6='83' lv7='87' lv8='91' lv9='95' lv10='99' lv11='103' lv12='107' lv13='111' lv14='115' lv15='119' lv16='123' lv17='127' lv18='131' lv19='135' lv20='139'/>
+	<rbwarrior_hp lv1='4000' lv2='4160' lv3='4320' lv4='4480' lv5='4640' lv6='4800' lv7='4960' lv8='5120' lv9='5280' lv10='5440' lv11='5600' lv12='5760' lv13='5920' lv14='6080' lv15='6240' lv16='6400' lv17='6560' lv18='6720' lv19='6880' lv20='7040'/>
+	<rbwarrior_atk lv1='700' lv2='712' lv3='724' lv4='736' lv5='748' lv6='760' lv7='772' lv8='784' lv9='796' lv10='808' lv11='820' lv12='832' lv13='844' lv14='856' lv15='868' lv16='880' lv17='892' lv18='904' lv19='916' lv20='928'/>
+	<rbwarrior_def lv1='100' lv2='101' lv3='102' lv4='104' lv5='115' lv6='118' lv7='121' lv8='125' lv9='129' lv10='143' lv11='148' lv12='154' lv13='160' lv14='167' lv15='183' lv16='191' lv17='199' lv18='208' lv19='217' lv20='236'/>
+	<blue_hp lv1='3000' lv2='3050' lv3='3100' lv4='3150' lv5='3200' lv6='3250' lv7='3300' lv8='3350' lv9='3400' lv10='3450' lv11='3500' lv12='3550' lv13='3600' lv14='3650' lv15='3700' lv16='3750' lv17='3800' lv18='3850' lv19='3900' lv20='3950'/>
+	<blue_atk lv1='50' lv2='55' lv3='60' lv4='65' lv5='70' lv6='75' lv7='80' lv8='85' lv9='90' lv10='95' lv11='100' lv12='105' lv13='110' lv14='115' lv15='120' lv16='125' lv17='130' lv18='135' lv19='140' lv20='145'/>
+	<blue_def lv1='31' lv2='35' lv3='39' lv4='43' lv5='47' lv6='51' lv7='55' lv8='59' lv9='63' lv10='67' lv11='71' lv12='75' lv13='79' lv14='83' lv15='87' lv16='91' lv17='95' lv18='99' lv19='103' lv20='107'/>
+	<violet_hp lv1='6000' lv2='6100' lv3='6200' lv4='6300' lv5='6400' lv6='6500' lv7='6600' lv8='6700' lv9='6800' lv10='6900' lv11='7000' lv12='7100' lv13='7200' lv14='7300' lv15='7400' lv16='7500' lv17='7600' lv18='7700' lv19='7800' lv20='7900'/>
+	<violet_atk lv1='0' lv2='0' lv3='0' lv4='0' lv5='0' lv6='0' lv7='0' lv8='0' lv9='0' lv10='0' lv11='0' lv12='0' lv13='0' lv14='0' lv15='0' lv16='0' lv17='0' lv18='0' lv19='0' lv20='0'/>
+	<violet_def lv1='228' lv2='229' lv3='230' lv4='232' lv5='243' lv6='246' lv7='249' lv8='253' lv9='257' lv10='271' lv11='276' lv12='282' lv13='288' lv14='295' lv15='311' lv16='319' lv17='327' lv18='336' lv19='345' lv20='364'/>
+	<!-- jjangu_exp_table -->
+	<jjan_exp_table lv1='280' lv2='574' lv3='1260' lv4='2240' lv5='3500' lv6='5040' lv7='6860' lv8='7924' lv9='8428' lv10='10626' lv11='10332' lv12='10612' lv13='11214' lv14='11368' lv15='11802' lv16='20398' lv17='17360' lv18='19628' lv19='17304' lv20='23492' lv21='25760' lv22='22918' lv23='28392' lv24='30100' lv25='61278' lv26='41944' lv27='42084' lv28='43344' lv29='44100' lv30='44744' lv31='65450' lv32='73360' lv33='83972' lv34='95312' lv35='115052' lv36='127484' lv37='146916' lv38='173810' lv39='198310' lv40='211400' lv41='224322' lv42='235592' lv43='250740' lv44='265944' lv45='285852' lv46='295008' lv47='308756' lv48='322588' lv49='332500' lv50='349580' lv51='360528' lv52='367990' lv53='387058' lv54='406868' lv55='414806' lv56='420000' lv57='420000' lv58='420000' lv59='420000' lv60='427000' lv61='434000' lv62='441000' lv63='448000' lv64='455000' lv65='462000' lv66='469000' lv67='476000' lv68='483000' lv69='490000' lv70='497000' lv71='504000' lv72='511000' lv73='518000' lv74='525000' lv75='532000' lv76='539000' lv77='546000' lv78='553000' lv79='560000' lv80='574000' lv81='581000' lv82='588000' lv83='595000' lv84='602000' lv85='616000' lv86='623000' lv87='630000' lv88='637000' lv89='644000' lv90='700000' lv91='735000' lv92='770000' lv93='840000' lv94='910000' lv95='980000' lv96='1050000' lv97='1190000' lv98='1330000' lv99='1399986'/>
+	<!-- yellow skill lvup value -->
+	<yellow_skill_lv_value skill_1='20' skill_2='100' skill_3='20' skill_4='20' skill_5='75' skill_6='90' skill_7='30' skill_8='34' skill_9='15' skill_10='20' skill_11='200' skill_12='500' skill_13='800' skill_14='18' skill_15='5' skill_16='60' skill_17='10' skill_18='1000' skill_19='500' skill_20='165'/>
+	<!-- item enchant value -->
+	<item_enchant_value enchant_0='0' enchant_1='0.8' enchant_2='2' enchant_3='3.5' enchant_value_hp_max='0.1' enchant_value_mp_max='0.1' enchant_value_mp_regen='0.5' enchant_value_add_atk='0.3' enchant_value_add_def='0.15'/>
+	<!-- red mode skill lvup value -->
+	<red_skill_lv_value skill_1='100' skill_2='10' skill_3='800' skill_4='500'/>
+	<!-- superYellow mode skill lvup value -->
+	<superYellow_skill_lv_value skill_1='50' skill_2='100' skill_3='5' skill_4='30'/>
+	<!-- red mode skill_upgrade_gold -->
+	<red_skill_1 lv1='350' lv2='420' lv3='504' lv4='605' lv5='726' lv6='871' lv7='1045' lv8='1254' lv9='1505' lv10='1806' lv11='2167' lv12='2601' lv13='3121' lv14='3745' lv15='4494' lv16='5392' lv17='6471' lv18='7765' lv19='9318' lv20='0'/>
+	<red_skill_2 lv1='450' lv2='540' lv3='648' lv4='778' lv5='933' lv6='1120' lv7='1344' lv8='1612' lv9='1935' lv10='2322' lv11='2786' lv12='3344' lv13='4012' lv14='4815' lv15='5778' lv16='6933' lv17='8320' lv18='9984' lv19='11980' lv20='0'/>
+	<red_skill_3 lv1='100' lv2='160' lv3='220' lv4='280' lv5='340' lv6='400' lv7='460' lv8='520' lv9='580' lv10='640' lv11='700' lv12='760' lv13='820' lv14='880' lv15='940' lv16='1000' lv17='1060' lv18='1120' lv19='1180' lv20='0'/>
+	<red_skill_4 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<!-- superYellow mode skill_upgrade_gold -->
+	<superYellow_skill_1 lv1='600' lv2='720' lv3='864' lv4='1037' lv5='1244' lv6='1493' lv7='1792' lv8='2150' lv9='2580' lv10='3096' lv11='3715' lv12='4458' lv13='5350' lv14='6420' lv15='7704' lv16='9244' lv17='11093' lv18='13312' lv19='15974' lv20='0'/>
+	<superYellow_skill_2 lv1='600' lv2='720' lv3='864' lv4='1037' lv5='1244' lv6='1493' lv7='1792' lv8='2150' lv9='2580' lv10='3096' lv11='3715' lv12='4458' lv13='5350' lv14='6420' lv15='7704' lv16='9244' lv17='11093' lv18='13312' lv19='15974' lv20='0'/>
+	<superYellow_skill_3 lv1='600' lv2='720' lv3='864' lv4='1037' lv5='1244' lv6='1493' lv7='1792' lv8='2150' lv9='2580' lv10='3096' lv11='3715' lv12='4458' lv13='5350' lv14='6420' lv15='7704' lv16='9244' lv17='11093' lv18='13312' lv19='15974' lv20='0'/>
+	<superYellow_skill_4 lv1='350' lv2='420' lv3='504' lv4='605' lv5='726' lv6='871' lv7='1045' lv8='1254' lv9='1505' lv10='1806' lv11='2167' lv12='2601' lv13='3121' lv14='3745' lv15='4494' lv16='5392' lv17='6471' lv18='7765' lv19='9318' lv20='0'/>
+	<!-- difficulty config -->
+	<easy max_gate_hp='60' wave1_hp_value='0' wave2_hp_value='80' wave3_hp_value='50' wave4_hp_value='30' wave5_hp_value='0' wave6_time_value='0' enemy_hp='60' enemy_atk='60' enemy_m_speed='0.6' enemy_a_speed='0' boss_HP='60' boss_atk='60' reward_key_no='1' reward_boss_key_no='3' reward_gold_value='20' a_rank_gold='110' b_rank_gold='100' c_rank_gold='90' default_mission_gold='60' kill_exp_value='60' score_value='60'/>
+	<normal max_gate_hp='100' wave1_hp_value='0' wave2_hp_value='80' wave3_hp_value='50' wave4_hp_value='30' wave5_hp_value='0' wave6_time_value='0' enemy_hp='100' enemy_atk='100' enemy_m_speed='0.8' enemy_a_speed='0' boss_HP='100' boss_atk='100' reward_key_no='2' reward_boss_key_no='6' reward_gold_value='30' a_rank_gold='110' b_rank_gold='100' c_rank_gold='90' default_mission_gold='100' kill_exp_value='80' score_value='100'/>
+	<hard max_gate_hp='120' wave1_hp_value='0' wave2_hp_value='80' wave3_hp_value='50' wave4_hp_value='30' wave5_hp_value='0' wave6_time_value='0' enemy_hp='120' enemy_atk='120' enemy_m_speed='1' enemy_a_speed='0' boss_HP='120' boss_atk='120' reward_key_no='3' reward_boss_key_no='9' reward_gold_value='40' a_rank_gold='110' b_rank_gold='100' c_rank_gold='90' default_mission_gold='120' kill_exp_value='100' score_value='120'/>
+	<master max_gate_hp='140' wave1_hp_value='100' wave2_hp_value='80' wave3_hp_value='50' wave4_hp_value='30' wave5_hp_value='0' wave6_time_value='0' enemy_hp='140' enemy_atk='140' enemy_m_speed='1' enemy_a_speed='0' boss_HP='140' boss_atk='140' reward_key_no='4' reward_boss_key_no='12' reward_gold_value='50' a_rank_gold='110' b_rank_gold='100' c_rank_gold='90' default_mission_gold='140' kill_exp_value='120' score_value='140'/>
+	<hell max_gate_hp='300' wave1_hp_value='100' wave2_hp_value='80' wave3_hp_value='50' wave4_hp_value='30' wave5_hp_value='0' wave6_time_value='0' enemy_hp='300' enemy_atk='300' enemy_m_speed='1.5' enemy_a_speed='0' boss_HP='300' boss_atk='300' reward_key_no='4' reward_boss_key_no='12' reward_gold_value='50' a_rank_gold='110' b_rank_gold='100' c_rank_gold='90' default_mission_gold='300' kill_exp_value='120' score_value='300'/>
+	<!-- hero friend price config -->
+	<party_Yellow_price buy_type='1' buy_price='90' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='10'/>
+	<party_YellowHulk_price buy_type='1' buy_price='210' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='20'/>
+	<party_Red_price buy_type='1' buy_price='90' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedSpider_price buy_type='1' buy_price='150' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedTermi_price buy_type='1' buy_price='150' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedIron_price buy_type='1' buy_price='180' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedViking_price buy_type='1' buy_price='180' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedNinja_price buy_type='1' buy_price='180' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedKungfu_price buy_type='1' buy_price='180' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<party_RedZoro_price buy_type='1' buy_price='180' up_need_type1='0' up_cost1='4000' up_need_type2='0' up_cost2='6000' up_need_type3='1' up_cost3='15'/>
+	<!-- character mode open need price -->
+	<red_mode_open open_type='1' open_price='10'/>
+	<hulk_mode_open open_type='1' open_price='150'/>
+	<!-- world map open need price -->
+	<world2_open_price open_type_1='4' open_price_1='12' open_type_2='1' open_price_2='30'/>
+	<world3_open_price open_type_1='4' open_price_1='15' open_type_2='1' open_price_2='30'/>
+	<world4_open_price open_type_1='4' open_price_1='30' open_type_2='1' open_price_2='30'/>
+	<world5_open_price open_type_1='4' open_price_1='50' open_type_2='1' open_price_2='30'/>
+	<world6_open_price open_type_1='4' open_price_1='70' open_type_2='1' open_price_2='30'/>
+	<world7_open_price open_type_1='4' open_price_1='100' open_type_2='1' open_price_2='30'/>
+	<world8_open_price open_type_1='4' open_price_1='120' open_type_2='1' open_price_2='30'/>
+	<world9_open_price open_type_1='4' open_price_1='150' open_type_2='1' open_price_2='30'/>
+	<!-- party upgrade rate -->
+	<party_upgrade_rate atk_upgrade_lv1='10' atk_upgrade_lv2='20' atk_upgrade_lv3='50' def_upgrade_lv1='150' def_upgrade_lv2='200' def_upgrade_lv3='250' hp_upgrade_lv1='10' hp_upgrade_lv2='20' hp_upgrade_lv3='50'/>
+	<hulk_mode_trans status_up_rate='170'/>
+	<!-- mode_all_buy_friend_unit_skill -->
+	<yellow_mode friend_all='900' unit_all='720' skill_all='1800' item_all='450' friend_all_before='1290' unit_all_before='1080' skill_all_before='2400' item_all_before='750' skill_all_shop='2400' skill_all_shop_sell='192000'/>
+	<red_mode friend_all='900' unit_all='720' skill_all='300' item_all='450' friend_all_before='1320' unit_all_before='1080' skill_all_before='450' item_all_before='750' skill_all_shop='450' skill_all_shop_sell='36000'/>
+	<hulk_mode friend_all='900' unit_all='720' skill_all='600' item_all='450' friend_all_before='1380' unit_all_before='1080' skill_all_before='900' item_all_before='750' skill_all_shop='900' skill_all_shop_sell='72000'/>
+	<brown_mode friend_all='1000' unit_all='720' skill_all='600' item_all='450' friend_all_before='1590' unit_all_before='1080' skill_all_before='900' item_all_before='750' skill_all_shop='900' skill_all_shop_sell='72000'/>
+	<black_mode friend_all='1000' unit_all='720' skill_all='600' item_all='450' friend_all_before='1590' unit_all_before='1080' skill_all_before='900' item_all_before='750' skill_all_shop='900' skill_all_shop_sell='72000'/>
+	<warrior_mode friend_all='1000' unit_all='720' skill_all='600' item_all='450' friend_all_before='1590' unit_all_before='1080' skill_all_before='900' item_all_before='750' skill_all_shop='900' skill_all_shop_sell='72000'/>
+	<!-- fortune cooki rate -->
+	<gold_reward_rate gold_1='100' gold1_rate='70' gold_2='300' gold2_rate='10' gold_3='600' gold3_rate='7' gold_4='900' gold4_rate='5' gold_5='1200' gold5_rate='3' gold_6='1500' gold6_rate='2' gold_7='1800' gold7_rate='1' gold_8='2100' gold8_rate='1' gold_9='2400' gold9_rate='1'/>
+	<!-- black_knight mode skill lvup value -->
+	<black_knight_skill_lv_value skill_1='60' skill_2='10' skill_3='100' skill_4='150'/>
+	<!-- wizard_brown mode skill lvup value -->
+	<wizard_brown_skill_lv_value skill_1='100' skill_2='100' skill_3='100' skill_4='500'/>
+	<!-- rainbow_warrior mode skill lvup value -->
+	<rainbow_warrior_skill_lv_value skill_1='100' skill_2='500' skill_3='150' skill_4='100'/>
+	<!-- brown mode skill_upgrade_gold -->
+	<brown_skill_1 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<brown_skill_2 lv1='700' lv2='840' lv3='1008' lv4='1210' lv5='1452' lv6='1742' lv7='2090' lv8='2508' lv9='3010' lv10='3612' lv11='4334' lv12='5201' lv13='6241' lv14='7490' lv15='8987' lv16='10785' lv17='12942' lv18='15530' lv19='18636' lv20='0'/>
+	<brown_skill_3 lv1='650' lv2='780' lv3='936' lv4='1123' lv5='1348' lv6='1617' lv7='1941' lv8='2329' lv9='2795' lv10='3354' lv11='4025' lv12='4830' lv13='5795' lv14='6955' lv15='8345' lv16='10015' lv17='12017' lv18='14421' lv19='17305' lv20='0'/>
+	<brown_skill_4 lv1='700' lv2='840' lv3='1008' lv4='1210' lv5='1452' lv6='1742' lv7='2090' lv8='2508' lv9='3010' lv10='3612' lv11='4334' lv12='5201' lv13='6241' lv14='7490' lv15='8987' lv16='10785' lv17='12942' lv18='15530' lv19='18636' lv20='0'/>
+	<!-- black mode skill_upgrade_gold -->
+	<black_skill_1 lv1='600' lv2='720' lv3='864' lv4='1037' lv5='1244' lv6='1493' lv7='1792' lv8='2150' lv9='2580' lv10='3096' lv11='3715' lv12='4458' lv13='5350' lv14='6420' lv15='7704' lv16='9244' lv17='11093' lv18='13312' lv19='15974' lv20='0'/>
+	<black_skill_2 lv1='500' lv2='600' lv3='720' lv4='864' lv5='1037' lv6='1244' lv7='1493' lv8='1792' lv9='2150' lv10='2580' lv11='3096' lv12='3715' lv13='4458' lv14='5350' lv15='6420' lv16='7704' lv17='9244' lv18='11093' lv19='13312' lv20='0'/>
+	<black_skill_3 lv1='400' lv2='480' lv3='576' lv4='691' lv5='829' lv6='995' lv7='1194' lv8='1433' lv9='1720' lv10='2064' lv11='2477' lv12='2972' lv13='3566' lv14='4280' lv15='5136' lv16='6163' lv17='7395' lv18='8874' lv19='10649' lv20='0'/>
+	<black_skill_4 lv1='700' lv2='840' lv3='1008' lv4='1210' lv5='1452' lv6='1742' lv7='2090' lv8='2508' lv9='3010' lv10='3612' lv11='4334' lv12='5201' lv13='6241' lv14='7490' lv15='8987' lv16='10785' lv17='12942' lv18='15530' lv19='18636' lv20='0'/>
+	<!-- warrior mode skill_upgrade_gold -->
+	<warrior_skill_1 lv1='350' lv2='420' lv3='504' lv4='605' lv5='726' lv6='871' lv7='1045' lv8='1254' lv9='1505' lv10='1806' lv11='2167' lv12='2601' lv13='3121' lv14='3745' lv15='4494' lv16='5392' lv17='6471' lv18='7765' lv19='9318' lv20='0'/>
+	<warrior_skill_2 lv1='750' lv2='900' lv3='1080' lv4='1296' lv5='1555' lv6='1866' lv7='2239' lv8='2687' lv9='3225' lv10='3870' lv11='4644' lv12='5573' lv13='6687' lv14='8024' lv15='9629' lv16='11555' lv17='13866' lv18='16640' lv19='19967' lv20='0'/>
+	<warrior_skill_3 lv1='450' lv2='540' lv3='648' lv4='778' lv5='933' lv6='1120' lv7='1344' lv8='1612' lv9='1935' lv10='2322' lv11='2786' lv12='3344' lv13='4012' lv14='4815' lv15='5778' lv16='6933' lv17='8320' lv18='9984' lv19='11980' lv20='0'/>
+	<warrior_skill_4 lv1='800' lv2='960' lv3='1152' lv4='1382' lv5='1659' lv6='1991' lv7='2389' lv8='2867' lv9='3440' lv10='4128' lv11='4953' lv12='5944' lv13='7133' lv14='8559' lv15='10271' lv16='12326' lv17='14791' lv18='17749' lv19='21299' lv20='0'/>
+</define>
+
+  
+<!--
+hero friend price config의 buy_type 값
+0: 골드구매
+1: 마법사탕 구매
+2: 현금 구매
+3: 페이스북 구매
+4: 황금 열쇠 구매
+
+character open need price의 open_type 값
+0: 골드구매
+1: 마법사탕 구매
+2: 현금 구매
+3: 페이스북 구매
+4: 황금 열쇠 구매
+
+world map open need price의 open_type_1 의 값.
+0: 골드구매
+1: 마법사탕 구매
+2: 현금 구매
+3: 페이스북 구매
+4: 황금 열쇠 구매
+-->  
+<!--
+//party type
+kPT_Cheolsu = 1
+kPT_Hun = 2
+kPT_Maengu = 3
+kPT_Yuri = 4
+
+//unit type
+kUT_babybeetle = 0
+kUT_rainbow//1
+kUT_BlackBear//2
+kUT_bombbug//3
+kUT_CatBus//4
+kUT_brown//5
+kUT_JJang_a//6
+kUT_prince//7
+kUT_Mimi	// 8 air unit
+kUT_BuryburyMon//9
+kUT_blue//10
+kUT_violet//11
+kUT_HipDinos//12
+kUT_Father//13
+
+//yellow skill
+	kSkillType_1=0,//꿀밤 때리기
+	kSkillType_2,//파워 꼬리밀기(넉백)
+	kSkillType_3,//데굴데굴
+	kSkillType_4,//회전 꼬리치기
+	kSkillType_5,//재채기 침
+	kSkillType_6,//재채기 콧물
+	kSkillType_7,//트림
+	kSkillType_8,//방귀
+	kSkillType_9,//콜라 폭탄
+	kSkillType_10,//케익 폭탄
+	kSkillType_11,//신기한 장볍(장애물 설치)
+	// debuff
+	kSkillType_12,//쇼크(스턴)
+	kSkillType_13,//투명사슬(이속 감소)
+	kSkillType_14,//허약의 저주(방어 감소)
+	kSkillType_15,//힘의저주(공격 감소)
+	// buff
+	kSkillType_16,//신비한 가호(방어 증가)
+	kSkillType_17,//분노의 힘(공격 증가)
+	kSkillType_18,//전력질주(이속 증가)
+	kSkillType_19,//만능 치유(디버프 해제)
+	kSkillType_20,//체력 충전
+
+// 스킬공격 증가량
+	const int lv_value[kSkill_Max] = {
+		20,//꿀밤 때리기
+		100,//파워 꼬리밀기(넉백)
+		20,//데굴데굴
+		40,//회전 꼬리치기
+		75,//재채기 침
+		90,//재채기 콧물
+		30,//트림
+		34,//방귀
+		15,//콜라 폭탄
+		20,//케익 폭탄
+		200,//신기한 장볍(장애물 설치)
+		500,//쇼크(스턴)  (0.5 sec == 500 milisec)
+		800,//투명사슬(이속 감소)  (0.8 sec == 800 milisec)
+		18,//허약의 저주(방어 감소)
+		5,//힘의저주(공격 감소)
+		60,//신비한 가호(방어 증가)
+		10,//분노의 힘(공격 증가)
+		1000,//전력질주(이속 증가) (1 sec == 1000 milisec)
+		0,//만능 치유(디버프 해제)
+		30//체력 충전
+	};
+
+spa_cool = 온천공격 쿨타임
+sand_hole_cool = 사구 쿨타임
+sand_hole_duration = 사구 지속 시간
+
+-->
