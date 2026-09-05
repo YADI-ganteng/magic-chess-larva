@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<message_popup>
+		<element id='0' name="마법사탕 부족" popup_text1="Tidak cukup permen sihir." popup_text2="" popup_text3=""/>
+		<element id='1' name="마법사탕 부족(구매창으로 이동)" popup_text1="Tidak cukup permen sihir." popup_text2="" popup_text3=""/>
+		<element id='2' name="골드 부족" popup_text1="Tidak cukup emas." popup_text2="" popup_text3=""/>
+		<element id='3' name="히어로 터치시" popup_text1="Coming Soon!!" popup_text2="Coming Soon!! Ready for update." popup_text3=""/>
+		<element id='4' name="히어로 오픈 직후" popup_text1="teman pahlawan baru dibuka." popup_text2="" popup_text3=""/>
+		<element id='5' name="월드맵을 건너띄어 오픈 시도할 경우" popup_text1="Silakan dibersihkan pertama" popup_text2="di dunia sebelumnya." popup_text3=""/>
+		<element id='6' name="월드맵 오픈 확인 메시지" popup_text1="PPeta dunia telah terbuka." popup_text2="Kami memiliki 10 permen sihir kompensasi." popup_text3=""/>
+		<element id='7' name="히어로 친구 소환 확인" popup_text1="Pahlawan teman telah dipanggil." popup_text2="" popup_text3=""/>
+		<element id='8' name="장착 슬롯 부족" popup_text1="kurangnya slot." popup_text2="Tolong memperpanjang slot!" popup_text3=""/>
+		<element id='9' name="인벤토리 UI가 아닌곳에서 아이템 선택" popup_text1="Item yang dipilih dapat" popup_text2="digunakan dalam persediaan." popup_text3=""/>
+		<element id='10' name="레벨 부족 장착 불가" popup_text1="tingkat tidak cukup." popup_text2="" popup_text3=""/>
+		<element id='11' name="히어로 친구 전체 소환 사용후" popup_text1="You got 'all of hero friends'" popup_text2="you can play with hero friend." popup_text3=""/>
+		<element id='12' name="유닛 전체 소환 사용후" popup_text1="You opened 'all of friendly units' " popup_text2="you can play with friendly units." popup_text3=""/>
+		<element id='13' name="스킬 전체 소환 사용후" popup_text1="You got 'all of hero skill'" popup_text2="you can use four special skill." popup_text3=""/>
+		<element id='14' name="올인원 아이템 사용후" popup_text1="삭제된 항목, 필요없음." popup_text2="" popup_text3=""/>
+		<element id='15' name="비엔나 획득량 2배 아이템 사용시" popup_text1="vienna diperoleh x2 kali." popup_text2="" popup_text3=""/>
+		<element id='16' name="자동획득 아이템 사용시" popup_text1="Akuisisi otomatis vienna." popup_text2="" popup_text3=""/>
+		<element id='17' name="변신물약 사용시" popup_text1="Jumlah penggunaan meningkat" popup_text2="menggunakan perubahan ramuan." popup_text3=""/>
+		<element id='18' name="인벤토리 슬롯 부족할 경우" popup_text1="kurangnya slot." popup_text2="" popup_text3=""/>
+		<element id='19' name="강화 완료 후" popup_text1="EMemperkuat keberhasilan." popup_text2="" popup_text3=""/>
+		<element id='20' name="강화 불가 팝업" popup_text1="Ini tidak akan mampu memperkuat lagi." popup_text2="" popup_text3=""/>
+		<element id='21' name="용병 선택 않하고 장비 장착 시도시" popup_text1="Membekali item ini setelah" popup_text2="pilih teman pahlawan." popup_text3=""/>
+		<element id='22' name="중복 구매 불가 메시지" popup_text1="dapat membeli tidak lebih item." popup_text2="" popup_text3=""/>
+		<element id='23' name="스킬 업그레이드 불가" popup_text1="Tidak mungkin untuk meng-upgrade." popup_text2="(upgrade max)" popup_text3=""/>
+		<element id='24' name="유닛 업그레이드 불가" popup_text1="Tidak mungkin untuk meng-upgrade." popup_text2="(upgrade max)" popup_text3=""/>
+		<element id='25' name="스킬 장착 슬롯 오픈시" popup_text1="Slot peralatan keterampilan dibuka." popup_text2="" popup_text3=""/>
+		<element id='26' name="유닛 장착 슬롯 오픈시" popup_text1="Slot peralatan Unit dibuka." popup_text2="" popup_text3=""/>
+		<element id='27' name="이전 슬롯 오픈 체크" popup_text1="Ini harus membuka slot sebelum" popup_text2="Anda dapat membuka slot yang dipilih." popup_text3=""/>
+		<element id='28' name="월드 오픈" popup_text1="Apakah membuka" popup_text2="dunia baru?" popup_text3=""/>
+		<element id='29' name="월드 오픈2" popup_text1="Kunci emas tidak akan cukup." popup_text2="" popup_text3="Buka menggunakan permen sihir?"/>
+		<element id='30' name="유닛 오픈 직후" popup_text1="Unit dibuka." popup_text2="" popup_text3=""/>
+		<element id='31' name="스킬 오픈 직후" popup_text1="Keterampilan dipelajari." popup_text2="" popup_text3=""/>
+		<element id='32' name="게임종료 시도시" popup_text1="Apakah Anda menutup permainan?" popup_text2="" popup_text3=""/>		
+		<element id='33' name="Google Play 로그인" popup_text1="menghubungkan Google bermain," popup_text2="dapat melakukan papan" popup_text3="pemimpin dan prestasi."/>
+		<element id='34' name="매직캔디 구매창" popup_text1="dapat membeli permen sihir." popup_text2="" popup_text3=""/>
+		<element id='35' name="골드 구매창" popup_text1="Menggantikan emas untuk permen sihir." popup_text2="" popup_text3=""/>
+		<element id='36' name="정상 구매" popup_text1="Item itu berhasil dibeli." popup_text2="" popup_text3=""/>
+		<element id='37' name="구매 실패" popup_text1="kegagalan pembelian." popup_text2="" popup_text3=""/>
+		<element id='38' name="히어로 능력 2배" popup_text1="Pahlawan kemampuan x2" popup_text2="" popup_text3=""/>
+		<element id='39' name="히어로친구능력 2배" popup_text1="Pahlawan teman kemampuan x2" popup_text2="" popup_text3=""/>
+		<element id='40' name="히어로 친구 오픈" popup_text1="teman pahlawan Baru dibuka." popup_text2="" popup_text3=""/>
+		<element id='41' name="셋트장비 오픈" popup_text1="Baju baja set telah dibuka." popup_text2="" popup_text3=""/>
+		<element id='42' name="해적획득1" popup_text1="Akuisisi permen sihir." popup_text2="" popup_text3=""/>
+		<element id='43' name="해적획득2" popup_text1="Akuisisi ramuan." popup_text2="" popup_text3=""/>
+		<element id='44' name="해적획득3" popup_text1="Emas akuisisi." popup_text2="" popup_text3=""/>
+		<element id='45' name="장비 모두 구매 완료" popup_text1="akuisisi Item." popup_text2="" popup_text3=""/>
+		<element id='46' name="리뷰" popup_text1="If you write a comment," popup_text2="you will get 10 permen Sihir." popup_text3=""/>
+		<element id='47' name="구매대기" popup_text1="Pengolahan pembelian." popup_text2="Harap tunggu sebentar." popup_text3=""/>
+		<element id='48' name="캐쉬아이템설명1" popup_text1="permen Sihir 500EA" popup_text2="" popup_text3=""/>
+		<element id='49' name="캐쉬아이템설명2" popup_text1="permen Sihir 900EA" popup_text2="" popup_text3=""/>
+		<element id='50' name="캐쉬아이템설명3" popup_text1="permen Sihir 3000EA" popup_text2="" popup_text3=""/>
+		<element id='51' name="캐쉬아이템설명4" popup_text1="permen Sihir 10000EA" popup_text2="" popup_text3=""/>
+		<element id='52' name="캐쉬아이템설명5" popup_text1="permen Sihir 4500EA, Buff Item 100EA, Sapphire Set" popup_text2="" popup_text3=""/>
+		<element id='53' name="캐쉬아이템설명6" popup_text1="permen Sihir 12000EA, Buff Item 200EA, Ruby Set" popup_text2="" popup_text3=""/>
+		<element id='54' name="캐쉬아이템설명3" popup_text1="마법사탕 2625개, 잭선장 쿠키 120개" popup_text2="" popup_text3=""/>
+		<element id='55' name="캐쉬아이템설명4" popup_text1="마법사탕 4500개, 잭선장 쿠키 200개" popup_text2="" popup_text3=""/>
+		<element id='56' name="캐쉬아이템설명4" popup_text1="마법사탕 12000개, 잭선장 쿠키 350개,사파이어셋,루비셋" popup_text2="" popup_text3=""/>
+		<element id='57' name="리뷰2" popup_text1="게임에 대한 리뷰를 작성해 주시면" popup_text2="다음 업데이트에 도움이 됩니다." popup_text3=""/>
+		<element id='58' name="모어게임" popup_text1="게임을 설치하시면" popup_text2="마법사탕 10개를 드립니다." popup_text3=""/>
+		<element id='59' name="모어게임" popup_text1="마법사탕 10개를 받았습니다." popup_text2="" popup_text3=""/>
+		<element id='60' name="모어게임" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='61' name="해적획득4" popup_text1="Kami telah memperoleh item peralatan." popup_text2="" popup_text3=""/>
+		<element id='62' name="펫구매" popup_text1="Apakah Anda ingin membeli" popup_text2="hewan peliharaan?" popup_text3=""/>
+	</message_popup>
+
+	<choice_popup>
+		<element id='0' name="[pahlawan Terbuka]" popup_text1="Apakah Anda ingin menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='1' name="[pahlawan Terbuka]" popup_text1="Apakah Anda ingin menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='2' name="[pahlawan Terbuka]" popup_text1="Apakah Anda ingin menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='3' name="월드맵 오픈시 최종결정" popup_text1="Apakah membuka dunia baru?" popup_text2="" popup_text3=""/>
+		<element id='4' name="아이템 판매시 출력 (중첩형 아이템)" popup_text1="Apakah ingin menjual barang?" popup_text2="" popup_text3=""/>
+		<element id='5' name="Unit slot" popup_text1="Membuka slot pemasangan Unit?" popup_text2="" popup_text3=""/>
+		<element id='6' name="Skill slot" popup_text1="Membuka slot pemasangan Slot?" popup_text2="" popup_text3=""/>
+		<element id='7' name="pelangi Pejuang" popup_text1="Apakah ingin menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='8' name="Ksatria hitam" popup_text1="Akan membuka menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='9' name="Wizard Brown" popup_text1="Apakah ingin menggunakan" popup_text2="permen Sihir?" popup_text3=""/>
+		<element id='10' name=" - Exit - " popup_text1="Peringatan!!" popup_text2="Tahap bermain tidak disimpan." popup_text3="Apakah pergi peta dunia?"/>
+		<element id='11' name=" - Replay - " popup_text1="Peringatan!!" popup_text2="Tahap bermain tidak disimpan." popup_text3="Apakah pergi peta dunia?"/>
+		<element id='12' name=" - Continue - " popup_text1="Continue is needed 3 permen Sihir" popup_text2="Do you want play continuously?" popup_text3=""/>
+		<element id='13' name="친구 모두 구매" popup_text1="Apakah kamu mau" popup_text2="semua pahlawan teman?" popup_text3=""/>
+		<element id='14' name="유닛 모두 구매" popup_text1="Apakah kamu mau" popup_text2="semua Unit" popup_text3=""/>
+		<element id='15' name="스킬 모두 구매" popup_text1="Apakah kamu mau" popup_text2="semua skill?" popup_text3=""/>
+		<element id='16' name="장비 모두 구매" popup_text1="apakah membeli Semua" popup_text2="Sapphire dan Ruby armor set" popup_text3=""/>
+		<element id='17' name="1. Cara memindahkan" popup_text1="  " popup_text2="Jika menyentuh ikon jari," popup_text3="dapat memindahkan dengan cara itu."/>
+		<element id='18' name="1. Cara memindahkan" popup_text1="  " popup_text2="Silakan, pergi ke ikon panah." popup_text3="  "/>
+		<element id='19' name="2. Auto Serangan" popup_text1="Jika hero pergi dekat ke unit musuh," popup_text2="otomatis menyerang." popup_text3="Sekarang! Serangan unit musuh."/>
+		<element id='20' name="3. Pahlawan teman serangan auto" popup_text1="  " popup_text2="Pahlawan teman serangan" popup_text3="otomatis berikut pahlawan."/>
+		<element id='21' name="4. Pahlawan Teman Revival" popup_text1="Jika pahlawan teman meninggal dalam pertempuran," popup_text2="permen sihir 5 penggunaan" popup_text3="dapat menghidupkan kembali pahlawan teman."/>
+	
+		<element id='22' name="4. Pahlawan Teman Revival" popup_text1="Jika tidak ada permen sihir, tombol revival tidak muncul." popup_text2="pahlawan teman, untuk emas dan permen sihir" popup_text3="bisa mendapatkan."/>
+		<element id='23' name="5. pahlawan Transformasi" popup_text1="IJika Anda transformasi," popup_text2="bisa power up dan menggunakan keterampilan khusus." popup_text3="Silahkan Tekan tombol Transformasi."/>
+		<element id='24' name="5. pahlawan Transformasi" popup_text1="Hal ini diperlukan untuk mengubah." popup_text2=" buy transformation potion in shop and use " popup_text3="gathering all of ‘LARVA’ alphabet."/>
+		<element id='25' name="6. LARVA alfabet." popup_text1="  " popup_text2="ow! Dapatkan alfabet LARVA." popup_text3="  "/>
+		<element id='26' name="7. Bagaimana untuk menghasilkan Unit" popup_text1="  " popup_text2="Makan sosis Wina, Itu diproduksi Unit pertahanan." popup_text3="  "/>
+		<element id='27' name="8. Bagaimana untuk menghasilkan Unit pertahanan" popup_text1="UPertahanan jenis unit," popup_text2="dapat bertahan melawan serangan musuh." popup_text3="Silakan mencoba untuk mengalahkan musuh di belakang unit pertahanan"/>
+		<element id='28' name="9. pahlawan Keterampilan" popup_text1="  " popup_text2="untuk membeli pahlawan keterampilan di toko" popup_text3="dapat menggunakan keterampilan pahlawan"/>
+		<element id='29' name=" - Reward tutorial - " popup_text1="  " popup_text2="1. normal Ramuan 25" popup_text3="2. Ramuan pahlawan Transformasi 2"/>
+		<element id='30' name="아이템 구매" popup_text1="Apakah Anda ingin membeli barang ini?" popup_text2="" popup_text3=""/>
+	</choice_popup>
+
+	<other_popup>
+		<element id='0' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='1' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='2' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='3' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='4' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='5' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='6' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='7' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='8' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='9' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='10' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='11' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='12' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='13' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='14' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='15' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='16' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='17' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='18' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='19' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='20' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='21' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='22' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='23' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='24' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='25' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='26' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='27' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='28' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='29' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='30' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='31' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='32' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='33' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='34' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='35' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='36' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='37' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='38' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='39' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='40' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='41' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='42' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='43' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='44' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='45' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='46' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='47' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='48' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='49' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='50' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='51' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='52' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='53' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='54' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='55' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='56' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='57' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='58' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='59' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='60' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='61' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='62' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='63' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='64' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='65' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='66' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='67' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='68' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='69' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='70' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='71' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='72' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='73' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='74' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='75' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='76' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='77' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='78' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='79' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='80' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='81' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='82' name="Apakah melindungi pink!" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='83' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='84' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='85' name="Defend base camp with hero friend." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='86' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='87' name="Menghancurkan basis musuh." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='88' name="produksi unit, Menghancurkan basis musuh" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='89' name="Defeat enemy boss." popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='90' name="1-10 보스 1차 말풍선" popup_text1="Boss ... pramuka tidak kembali ke dalam neraka gerbang ...…" popup_text2="pen gerbang neraka, dan mengirim semua tempur" popup_text3="tentara ke wilayah yang diduduki."/>
+		<element id='91' name="1-10 보스 2차 말풍선" popup_text1="Sekarang .. Hilangkan semua rintangan menghalangi untuk" popup_text2="penaklukan New York City" popup_text3=""/>
+		<element id='92' name="2-10 보스 1차 말풍선" popup_text1="Tentara! memperketat keamanan daerah debuff dalam" popup_text2="kegelapan dan mempersiapkan diri untuk serangan." popup_text3=""/>
+		<element id='93' name="2-10 보스 2차 말풍선" popup_text1="Another order… intensively attack larva-car" popup_text2="unit and defeat enemy's." popup_text3=""/>
+		<element id='94' name="3-10 보스 1차 말풍선" popup_text1="Kapten frangken ha ha ha ~" popup_text2="Jika tentara ramah pahlawan yang melakukan serangan balik," popup_text3="akan membuat tentara larva menyesal."/>
+		<element id='95' name="3-10 보스 2차 말풍선" popup_text1="Sekarang ... tunjukkan melawan kekuatan militer larva." popup_text2="" popup_text3=""/>
+		<element id='96' name="4-10 보스 1차 말풍선" popup_text1="Saya telah meremehkan kekuatan militer larva." popup_text2="" popup_text3=""/>
+		<element id='97' name="4-10 보스 2차 말풍선" popup_text1="Kali ini ... Aku akan melawan dengan benar untuk" popup_text2="penaklukan New York City." popup_text3=""/>
+		<element id='98' name="5-10 보스 1차 말풍선" popup_text1="Mengapa tersembunyi saudara-saudara kita ..." popup_text2="Gila larva! ... Ha ~ ha ~ sepele pahlawan larva ..." popup_text3="Beraninya kau menantang saya tanpa rasa takut."/>
+		<element id='99' name="5-10 보스 2차 말풍선" popup_text1="tentara Anda beruntung menghilangkan Franken kapten" popup_text2="tapi keberuntungan Anda dari waktu ke waktu ini." popup_text3=""/>
+		<element id='100' name="6-10 보스 1차 말풍선" popup_text1="Menunggu saat ini" popup_text2="adik saya dibunuh oleh tentara Anda." popup_text3=""/>
+		<element id='101' name="6-10 보스 2차 말풍선" popup_text1="Aku bersumpah di depan makam saudara dan" popup_text2="bersumpah hadir balas dendam menyakitkan" popup_text3="di depan makam saudara."/>
+		<element id='102' name="7-10 보스 1차 말풍선" popup_text1="adalah menarik yang penaklukan." popup_text2="New York City, menghancurkan bangunan," popup_text3="rumah, taman dengan palu dan bom."/>
+		<element id='103' name="7-10 보스 2차 말풍선" popup_text1="apa bau menjijikkan ini ~" popup_text2="memeriksa ini apa masalahnya." popup_text3=""/>
+		<element id='104' name="8-10 보스 1차 말풍선" popup_text1="marah, dengan diriku sendiri" popup_text2="Kenapa kau tidak mati sekaligus?" popup_text3=""/>
+		<element id='105' name="8-10 보스 2차 말풍선" popup_text1="jadi, saya akan mengambil larva pahlawan" popup_text2="dan teman-teman ke neraka gerbang." popup_text3=""/>
+		<element id='106' name="9-10 보스 1차 말풍선" popup_text1="LKehilangan saudara saya! Coklat! Ini aku Locky." popup_text2="tidak tahu bagaimana cara menemukan Anda," popup_text3="dengan cara Anda di sini."/>
+		<element id='107' name="9-10 보스 2차 말풍선" popup_text1="Sekarang ~ Conquest New York City dengan saya dan akan saudara bos baru." popup_text2="Jika Anda tidak ingin itu," popup_text3="Anda dan teman Anda akan mati oleh tentara saya."/>
+		<element id='108' name="Loading game Tip" popup_text1="Tip : Jika tahap misi yang jelas, Anda mendapatkan emas tambahan." popup_text2="" popup_text3=""/>
+		<element id='109' name="Loading game Tip" popup_text1="Tip : Stage clear gold is given 10% to mission stage." popup_text2="" popup_text3=""/>
+		<element id='110' name="Loading game Tip" popup_text1="Tip : Tahap emas yang jelas diberikan 10% untuk tahap misi." popup_text2="" popup_text3=""/>
+		<element id='111' name="Loading game Tip" popup_text1="Tip : PVP mode adalah mode yang dapat pertempuran pengguna lain." popup_text2="" popup_text3=""/>
+		<element id='112' name="Loading game Tip" popup_text1="Tip : Larva-mobil diperlukan Unit ramah di 2, 4, 6, 8 dunia." popup_text2="" popup_text3=""/>
+		<element id='113' name="Loading game Tip" popup_text1="Tip : Memilih kue keberuntungan mencari 'kapten jack' di peta dunia." popup_text2="" popup_text3=""/>
+		<element id='114' name="Loading game Tip" popup_text1="Tip : Perkasa pahlawan teman, keterampilan dan" popup_text2="unit sedang menunggu di toko." popup_text3=""/>
+		<element id='115' name="Loading game Tip" popup_text1="Tip : Jika Anda menghapus setiap panggung mode permainan." popup_text2="bisa mendapatkan 'kapten jack' kupon." popup_text3=""/>
+		<element id='116' name="Loading game Tip" popup_text1="Tip : mengumpulkan semua 'LARVA' alfabet," popup_text2="akan mendapatkan ramuan transformasi." popup_text3=""/>
+		<element id='117' name="Loading game Tip" popup_text1="Tip : Larva-mobil diperlukan Unit ramah di 2, 4, 6, 8 dunia." popup_text2="" popup_text3=""/>
+		<element id='118' name="Loading game Tip" popup_text1="Tip : Keras, mode master, unit musuh adalah mengamuk dan hujan," popup_text2="petir, dan awan gelap muncul." popup_text3=""/>
+		<element id='119' name="Tutorial skip" popup_text1="peringatan!!" popup_text2="tutorial dapat dimainkan hanya sekali." popup_text3="Apakah ingin melewatkan tutorial?"/>
+	</other_popup>
+
+	<add_popup>
+		<element id='0' popup_text1="Meningkatkan Atk" popup_text2="Meningkatkan HP" popup_text3="Sembuhkan HP per 15 detik" popup_text4="Meningkat kritis" popup_text5="Hadiah Koleksi"/>
+		<element id='1' popup_text1="- Tingkat Currnet" popup_text2="- Level selanjutnya" popup_text3="Tingkat kesuksesan :" popup_text4="Apakah Anda ingin memutakhirkan \nhewan peliharaan Anda?" popup_text5="Tiket Bos Challenge"/>
+		<element id='2' popup_text1="5 kali-> 10 kali" popup_text2="3,000원" popup_text3="* Boss Dungeon atau Dunia kesulitan Normal harus dilakukan di atas." popup_text4="Anda dapat \nmeningkatkan \ndari bos Dungeon." popup_text5="(Tingkatkan Mampu)"/>
+		<element id='3' popup_text1="1. Kemampuan Dasar" popup_text2="HP +10% per 15 detik" popup_text3="(Pahlawan ＆ Teman)" popup_text4="2. Kemampuan khusus" popup_text5="Atk +"/>
+		<element id='4' popup_text1="Exp +" popup_text2="HP sebesar +10%" popup_text3="Drop Item (1 + 1)" popup_text4="(Kecuali Bos)" popup_text5=""/>
+		<element id='5' popup_text1="Silakan buka hewan peliharaan di peta dunia." popup_text2="Anda harus menonton iklan di World Map." popup_text3="Hewan peliharaan telah dibuka." popup_text4="Batu itu telah dibuka." popup_text5="Mohon sudah penuh."/>
+		<element id='6' popup_text1="Sausageis tidak cukup." popup_text2="Kotak sosis harus dibuka." popup_text3="Peningkatan selesai." popup_text4="Potongan batu tidak cukup." popup_text5="Kotak sosis dibuka."/>
+		<element id='7' popup_text1="Tidak cukup kunci" popup_text2="Tiket Boss Dungeon dibebankan sekali sehari." popup_text3="Kotak sosis dibuka." popup_text4="Gunakan sosis untuk membuka hewan peliharaan dan batu." popup_text5="Anda bisa mendapatkan sosis melalui permainan !!!"/>
+		<element id='8' popup_text1="Kotak sosis harus dibuka untuk digunakan !!!" popup_text2="Anda dapat membuka pet dan \nbatu yang menggunakan sosis!" popup_text3="TOUCH TO START" popup_text4="" popup_text5=""/>
+		<element id='9' popup_text1="Unit ramah kami" popup_text2="Peralatan skill pahlawan" popup_text3="PEMUATAN..." popup_text4="- Asli -" popup_text5="Anda dapat memainkan game skenario(Single Play)"/>
+		<element id='10' popup_text1="Paket Ekspansi (dengan PVP)" popup_text2="Anda dapat memainkan Multi-mode hero," popup_text3="dungeon, PVP (Network Play)" popup_text4="Ketuk Pahlawan Kecil: Perang 1000 Hari" popup_text5="Hapus Titans jahat untuk\nmenghentikan akhir dunia."/>
+		<element id='11' popup_text1="Pertanian Line" popup_text2="Permainan puzzle yang menghubungkan semua" popup_text3="benda yang sama dan mengisi seluruh papan." popup_text4="Monster gelembung" popup_text5="Ini adalah permainan penembak\ngelembung Gaya Halloween."/>
+		<element id='12' popup_text1="ATK" popup_text2="HP" popup_text3="sembuh per 15 detik" popup_text4="Kritis" popup_text5="Kenaikan"/>
+		<element id='13' popup_text1="" popup_text2="" popup_text3="" popup_text4="" popup_text5=""/>
+	</add_popup>
+</define>
