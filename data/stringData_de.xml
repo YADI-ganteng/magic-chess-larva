@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<hero_text_box>
+		<element id='0' name="Gelb" contents_text="Gelber Angriff Feind Einheit mit langen Zunge \nund Harten Schwanz."/>
+		<element id='1' name="Super-Gelb" contents_text="Super-Gelb am stark. Shockwave Massen \nfeindliche Einheiten angreifen."/>
+		<element id='2' name="Rote" contents_text="Rot's den einem starken Kopfstoß, \neine schnelle Angriff."/>
+		<element id='3' name="Maske Rote" contents_text="Beschleunigen Sie feindliche Einheiten mit \nSpiderweb auf der feindlichen Einheit."/>
+		<element id='4' name="Cyborg Rote" contents_text="Cyborg Rote Launch 'Macht Raketen' zu \nfeindlichen Einheiten und Feind zu Rückstoß."/>
+		<element id='5' name="Stahl Rote" contents_text="Stahl Rote Start 'Power Laser' eine feindliche \nEinheiten und Feind werden betäuben."/>
+		<element id='6' name="Viking Rote" contents_text="Viking Rote Spin Macht Hammer, um feindliche \nEinheiten anzugreifen."/>
+		<element id='7' name="Ninja Rote" contents_text="Ninja Red greift feindliche Einheiten an, die \nden scharfen und giftigen Dolch werfen."/>
+		<element id='8' name="Kung Fu Rote" contents_text="Kung Fu Rote schwingt nunchuck, um die feindlichen \nEinheit anzugreifen und sie zu fliegen."/>
+		<element id='9' name="Zorro Rote" contents_text="Zorro Rote Swing dünn Schwert so schnell wie Blitz \nauf feindliche Einheiten angreifen."/>
+	</hero_text_box>
+  
+	<unit_text_box>
+	  	<element id='0' name="Käfer" contents_text="Basisangriffseinheit des Nahkampf-Typs."/>
+		<element id='1' name="Regenbogen-Schutz" contents_text="Eine massive Abschirmung Verwendung gegen feindliche Angriffe zu verteidigen."/>
+		<element id='3' name="Larva Auto" contents_text="Blitzlicht auf dunklen Debuff Zone, sind Sie nicht beschädigt. MAX: 4"/>
+		<element id='2' name="Schwarz" contents_text="Die stärkste Attack-Nahkampf-Einheit mit dem Punch."/>
+		<element id='4' name="Bombenwanze" contents_text="Gehen Sie in der Nähe von Feind und explodierenden Schaden um die feindlichen Einheiten."/>
+		<element id='5' name="Regenbogen" contents_text="Regenbogen dicke Haut wird feindliche Attacke verhindern."/>
+		<element id='6' name="Braun" contents_text="Throw stinkenden Mist zu Feind Einheit."/>
+		<element id='7' name="Regenbogen-Jäger" contents_text="Wirf dein Schild zu einer feindlichen Einheit."/>
+		<element id='8' name="Schwarzer Ritter" contents_text="Werfen Sie einen starken Schlag auf die feindliche Einheit."/>
+		<element id='9' name="Rosa" contents_text="Dan godaan musuh, Unit setrum."/>
+		<element id='10' name="Raumprinz" contents_text="Menggunakan kekuatan super, mengirim tentara setan masa ke sisi jauh jauh."/>
+		<element id='11' name="Regenbogen-krieger" contents_text="Unit Hero untuk menyerang musuh dengan perisai."/>
+		<element id='12' name="Blau" contents_text="Menari tarian kutukan dan secara bertahap mengurangi setan korps 'HP'."/>
+		<element id='13' name="Violet" contents_text="Unit yang akan mencegah serangan itu muncul Ketika musuh muncul."/>
+	</unit_text_box>
+  
+	<skill_text_box>
+		<element id='0' name="Schlag den Kopf" contents_text="Angriff Feind Einheit mit starken Zunge."/>
+		<element id='1' name="Fluch der Bewegung" contents_text="Alle feindlichen Einheiten beschleunigen sich für die Fähigkeit des Debuffs."/>
+		<element id='2' name="Koksbombe" contents_text="Installiere Koksbombe und explodierende Schäden an feindliche Einheiten."/>
+		<element id='3' name="Segen des Windes" contents_text="Alle unsere freundlichen Einheiten erhöhen die Geschwindigkeit für Geschicklichkeit."/>
+		<element id='4' name="Schwanzstichel" contents_text="Drücken Sie feindliche Einheit weit weg mit Heftstanze."/>
+		<element id='5' name="Segen der Reinigung" contents_text="Klare Fluch alle freundlichen Einheiten mit Magie buff für Geschicklichkeit."/>
+		<element id='6' name="Spucken" contents_text="Viel spucken lauch niesen an die feindliche Einheit."/>
+		<element id='7' name="Fluch der Gewalt" contents_text="Verringern 'Angriffskraft' alle feindlichen Einheiten mit Tanz des Fluchs für Geschicklichkeit."/>
+		<element id='8' name="Laufende Nase" contents_text="NLaunch eine laufende Nase und angreifen den Feind."/>
+		<element id='9' name="Fluch des Schmerzes" contents_text="Verringerung 'Verteidigungskraft' alle feindlichen Einheiten mit Fluch des Schmerzes für Geschicklichkeit."/>
+		<element id='10' name="Segen des Schildes" contents_text="Erhöhe"/>
+		<element id='11' name="Rollen" contents_text="Gelb zusammengerollt in einem Körper, angreifen mehrere Feinde."/>
+		<element id='12' name="Schock" contents_text="Betäubt alle feindlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='13' name="rülpsen" contents_text="Angriff Feind Einheiten mit Burp in Skill-Bereich."/>
+		<element id='14' name="Kuchenbombe" contents_text="Installiere starke Kuchenbombe und explodierende Schäden an feindliche Einheiten."/>
+		<element id='15' name="Segen der Macht" contents_text="Erhöht 'Angriffskraft' alle freundlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='16' name="Spinnschwanz" contents_text="Angriff mehrere feindliche Einheiten mit Schwanz Spin."/>
+		<element id='17' name="Furz" contents_text="Starten Sie die Gasbombe, um mehrere feindliche Einheiten vor Helden zu eliminieren."/>
+		<element id='18' name="Eine seltsame Barriere" contents_text="Verteidigung Bewegung aller feindlichen Einheiten mit magischen Eiswand."/>
+		<element id='19' name="Segen der Erholung" contents_text="Erhöht 'HP' alle freundlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='20' name="Fluch der Bewegung" contents_text="Alle feindlichen Einheiten beschleunigen sich für die Fähigkeit des Debuffs."/>
+		<element id='21' name="Leistungsstau" contents_text="Red's spRed sammeln Macht und Preis Ihr Gegner mit dem Kopf."/>
+		<element id='22' name="Segen der Gewalt" contents_text="Erhöht 'Angriffskraft' alle freundlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='23' name="Ohnmacht" contents_text="Betäubt alle feindlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='24' name="Todeszerstörung" contents_text="Rot's Geschwindigkeit ermöglicht es Ihnen, feindliche Einheit ohne Schaden mit Kopf-Butt Skill anzugreifen."/>
+		<element id='25' name="Ein Mordlächeln" contents_text="Erhöht 'Angriffskraft' alle freundlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='26' name="Schrei" contents_text="Erhöhung 'hp' alle feindlichen Einheiten mit Magie buff für Geschicklichkeit."/>
+		<element id='27' name="Schockwelle" contents_text="Stein steigt aus dem Boden. Schockwellenfähigkeiten ermöglichen es, feindliche Einheiten zu attackieren."/>
+		<element id='28' name="Feuer strom" contents_text="Feuerball als magische Kraft beschwören."/>
+		<element id='29' name="Meteor" contents_text="Fallen Sie den Flammenstein als verborgene Energie des magischen Stockes herunter."/>
+		<element id='30' name="Healing light" contents_text="Erhöht 'Angriffskraft' alle freundlichen Einheiten mit Magie Buff für Geschicklichkeit."/>
+		<element id='31' name="Chaos Dance" contents_text="SStun alle feindlichen Einheiten als Fluch-Tanz von ethnischen Eigenschaften"/>
+		<element id='32' name="Hammer wave" contents_text="Schädigung des Gegners durch Blitzschlag."/>
+		<element id='33' name="Crazy shouting" contents_text="Erhöhen Sie Angriffskraft der freundlichen Einheiten als riesiges Schreien während der Stärkungszauber."/>
+		<element id='34' name="Hammer cast" contents_text="Schädigung des Gegners durch spinnenden kräftigen Hammer."/>
+		<element id='35' name="Lightning wave" contents_text="Schaden an mehrere Gegner durch Blitzschlag im Himmel beschwören."/>
+		<element id='36' name="Fire shield" contents_text="Schädigen Sie mehrere Feinde als mächtige Feuer-Energie aus Schild."/>
+		<element id='37' name="Gods shield" contents_text="Hero ist fast nicht vom Feind beschädigt, weil die Verteidigungskraft erhöht wird."/>
+		<element id='38' name="Grenade" contents_text="Wirf Granaten zu Feinden und schädige den Feind."/>
+		<element id='39' name="Rainbow beam" contents_text="Starte den Regenbogenstrahl durch Schild und schädige Feind."/>
+	</skill_text_box>
+	
+	<fix_item_shop>
+		<element id='0' name="Leder Krone" contents_text1="" contents_text2="Leder" contents_text3="Krone"/>
+		<element id='1' name="Kupfer Krone" contents_text1="" contents_text2="Kupfer" contents_text3="Krone"/>
+		<element id='2' name="Silber Krone" contents_text1="" contents_text2="Silber" contents_text3="Krone"/>
+		<element id='3' name="Goldene Krone" contents_text1="" contents_text2="Gold" contents_text3="Krone"/>
+		<element id='4' name="Saphir Krone" contents_text1="" contents_text2="Saphir" contents_text3="Krone"/>
+		<element id='5' name="Rubin Krone" contents_text1="" contents_text2="Rubin" contents_text3="Krone"/>
+		<element id='6' name="Leder Halskette" contents_text1="" contents_text2="Leder" contents_text3="Halskette"/>
+		<element id='7' name="Kupferne Halskette" contents_text1="" contents_text2="Kupfer" contents_text3="Halskette"/>
+		<element id='8' name="Silber Halskette" contents_text1="" contents_text2="Silber" contents_text3="Halskette"/>
+		<element id='9' name="Goldene Halskette" contents_text1="" contents_text2="Gold" contents_text3="Halskette"/>
+		<element id='10' name="Saphir Halskette" contents_text1="" contents_text2="Saphir" contents_text3="Halskette"/>
+		<element id='11' name="Rubin Halskette" contents_text1="" contents_text2="Rubin" contents_text3="Halskette"/>
+		<element id='12' name="Leder Armband" contents_text1="" contents_text2="Leder" contents_text3="Armband"/>
+		<element id='13' name="Kupfer Armband" contents_text1="" contents_text2="Kupfer" contents_text3="Armband"/>
+		<element id='14' name="Silber Armband" contents_text1="" contents_text2="Silber" contents_text3="Armband"/>
+		<element id='15' name="Goldenes Armband" contents_text1="" contents_text2="Gold" contents_text3="Armband"/>
+		<element id='16' name="Saphir Armband" contents_text1="" contents_text2="Saphir" contents_text3="Armband"/>
+		<element id='17' name="Rubin Armband" contents_text1="" contents_text2="Rubin" contents_text3="Armband"/>
+		<element id='18' name="Lederner Ring" contents_text1="" contents_text2="Leder" contents_text3="Ring"/>
+		<element id='19' name="Kupfer Ring" contents_text1="" contents_text2="Kupfer" contents_text3="Ring"/>
+		<element id='20' name="Silber Ring" contents_text1="" contents_text2="Silber" contents_text3="Ring"/>
+		<element id='21' name="Gold Ring" contents_text1="" contents_text2="Gold" contents_text3="Ring"/>
+		<element id='22' name="Saphir Ring" contents_text1="" contents_text2="Saphir" contents_text3="Ring"/>
+		<element id='23' name="Rubin Ring" contents_text1="" contents_text2="Rubin" contents_text3="Ring"/>
+		<element id='24' name="Leder Gürtel" contents_text1="" contents_text2="Leder" contents_text3="Gürtel"/>
+		<element id='25' name="Kupfer Gürtel" contents_text1="" contents_text2="Kupfer" contents_text3="Gürtel"/>
+		<element id='26' name="Silber Gürtel" contents_text1="" contents_text2="Silber" contents_text3="Gürtel"/>
+		<element id='27' name="Gold Gürtel" contents_text1="" contents_text2="Gold" contents_text3="Gürtel"/>
+		<element id='28' name="Saphir Gürtel" contents_text1="" contents_text2="Saphir" contents_text3="Gürtel"/>
+		<element id='29' name="Rubin Gürtel" contents_text1="" contents_text2="Rubin" contents_text3="Gürtel"/>
+	</fix_item_shop>
+	
+  	<eat_item_shop>
+		<element id='30' name="MP Trank" contents_text1="Sie können Hero MP 30% erholen mit Soda auf \ndas Spiel." contents_text2="MP Trank" contents_text3=""/>
+		<element id='31' name="HP Trank" contents_text1="Sie können Held HP 30% erholen mit Jelly \non Play." contents_text2="HP Trank" contents_text3=""/>
+		<element id='32' name="Partei HP Trank" contents_text1="Sie können Hero firend HP 30% erholen \nmit Party Potion auf Spiel." contents_text2="Party" contents_text3="HP Trank"/>
+		<element id='33' name="Held, Partei Trank" contents_text1="Sie können Hero und Held Freund \nHP 20% mit Käse zu spielen." contents_text2="Held, Partei" contents_text3="Trank"/>
+		<element id='34' name="Einheit HP Poiton" contents_text1="Sie können freundliche Einheiten \nHP30% mit Pizza auf dem Spiel wiederherstellen." contents_text2="Einheit" contents_text3="HP Trank"/>
+		<element id='35' name="Attacke Leistung" contents_text1="Erhöht 'Angriffskraft' 30% des Helden mit \npassivem Buff-Element beim Spielen." contents_text2="Attacke" contents_text3="Leistung"/>
+		<element id='36' name="Beschleunigen" contents_text1="Erhöhen Sie die 'Dubble-Geschwindigkeit' des Helden, indem Sie \nbeim Spielen einen passiven Buff-Gegenstand verwenden." contents_text2="Beschleunigen" contents_text3=""/>
+		<element id='37' name="Erhöhen Sie HP" contents_text1="Erhöht 'HP Gage' 30% des Helden mit \npassivem Buff Element zu spielen." contents_text2="Erhöhen" contents_text3="Sie HP"/>
+		<element id='38' name="Erhöhung Exp" contents_text1="Erhöhung 'Exp' 30% des Helden mit passiven \nBuff Element beim Spielen." contents_text2="Erhöhung" contents_text3="Exp"/>
+		<element id='39' name="Maßeinheit" contents_text1="Erhöht die 'Wiener Spur' um 30% des Helden, wenn beim \nSpielen ein passiver Buff-Gegenstand verwendet wird." contents_text2="Maßeinheit" contents_text3=""/>
+		<element id='40' name="Helden Trank" contents_text1="Sie können gelben Helden zu super gelb mit \n'gelben Symbol' beim Spielen zu ändern." contents_text2="Helden" contents_text3="Trank"/>
+	</eat_item_shop>
+	
+  	<special_shop>
+  		<element id='41' name="Magischer Magnet" contents_text1="Sie können automatisch wien ohne \nEinschränkung Anzahl der Nutzung." contents_text2="Magie" contents_text3="Magnet"/>
+		<element id='42' name="Doppelzimmer wien" contents_text1="Sie können 'Dubble vienna gain' ohne \nEinschränkung Nummer der Nutzung zu bekommen." contents_text2="Doppelt" contents_text3="Wien"/>
+		<element id='43' name="Saphir gesetzt" contents_text1="Sie können shappire Rüstung 5set bekommen. (Lv.1 ~)" contents_text2="Saphir" contents_text3="gesetzt"/>
+		<element id='44' name="Ruby gesetzt" contents_text1="Sie können Rubin Rüstung 5set bekommen. (Lv.1 ~)" contents_text2="Ruby" contents_text3="gesetzt"/>
+		<element id='45' name="Heldenfähigkeit X2" contents_text1="Heldenfähigkeit x2 (HP, Angriff, Verteidigung)" contents_text2="Helden" contents_text3="fähigkeit X2"/>
+		<element id='46' name="Freundfähigkeit X2" contents_text1="Alle Heldenfreund-Fähigkeiten x2\n(HP, Angriff, Verteidigung)" contents_text2="Freund" contents_text3="fähigkeit X2"/>
+	</special_shop>
+	
+	<google_special>
+		<element id='47' name="구글 스페셜 머리띠" contents_text1="" contents_text2="구글 스페셜" contents_text3="머리띠"/>
+		<element id='48' name="구글 스페셜 목걸이" contents_text1="" contents_text2="구글 스페셜" contents_text3="목걸이"/>
+		<element id='49' name="구글 스페셜 팔찌" contents_text1="" contents_text2="구글 스페셜" contents_text3="팔찌"/>
+		<element id='50' name="구글 스페셜 반지" contents_text1="" contents_text2="구글 스페셜" contents_text3="반지"/>
+		<element id='51' name="구글 스페셜 벨트" contents_text1="" contents_text2="구글 스페셜" contents_text3="벨트"/>
+	</google_special>
+
+	 <set_item>
+		<element id='0' name="Glänzend Leder Krone" contents_text1="" contents_text2="빛나는 가죽" contents_text3="머리띠"/>
+		<element id='1' name="Glänzend Leder Halskette" contents_text1="" contents_text2="빛나는 가죽" contents_text3="목걸이"/>
+		<element id='2' name="Glänzend Leder Armband" contents_text1="" contents_text2="빛나는 가죽" contents_text3="팔찌"/>
+		<element id='3' name="Glänzend Leder Ring" contents_text1="" contents_text2="빛나는 가죽" contents_text3="반지"/>
+		<element id='4' name="Glänzend Leder Gürtel" contents_text1="" contents_text2="빛나는 가죽" contents_text3="벨트"/>
+
+		<element id='5' name="Glänzend Kupfer Krone" contents_text1="" contents_text2="빛나는 구리" contents_text3="머리띠"/>
+		<element id='6' name="Glänzend Kupfer Halskette" contents_text1="" contents_text2="빛나는 구리" contents_text3="목걸이"/>
+		<element id='7' name="Glänzend Kupfer Armband" contents_text1="" contents_text2="빛나는 구리" contents_text3="팔찌"/>
+		<element id='8' name="Glänzend Kupfer Ring" contents_text1="" contents_text2="빛나는 구리" contents_text3="반지"/>
+		<element id='9' name="Glänzend Kupfer Gürtel" contents_text1="" contents_text2="빛나는 구리" contents_text3="벨트"/>
+
+		<element id='10' name="Glänzend Silber Krone" contents_text1="" contents_text2="빛나는 은" contents_text3="머리띠"/>
+		<element id='11' name="Glänzend Silber Halskette" contents_text1="" contents_text2="빛나는 은" contents_text3="목걸이"/>
+		<element id='12' name="Glänzend Silber Armband" contents_text1="" contents_text2="빛나는 은" contents_text3="팔찌"/>
+		<element id='13' name="Glänzend Silber Ring" contents_text1="" contents_text2="빛나는 은" contents_text3="반지"/>
+		<element id='14' name="Glänzend Silber Gürtel" contents_text1="" contents_text2="빛나는 은" contents_text3="벨트"/>
+
+		<element id='15' name="Smaragd Krone" contents_text1="" contents_text2="에메랄드" contents_text3="머리띠"/>
+		<element id='16' name="Smaragd Halskette" contents_text1="" contents_text2="에메랄드" contents_text3="목걸이"/>
+		<element id='17' name="Smaragd Armband" contents_text1="" contents_text2="에메랄드" contents_text3="팔찌"/>
+		<element id='18' name="Smaragd Ring" contents_text1="" contents_text2="에메랄드" contents_text3="반지"/>
+		<element id='19' name="Smaragd Gürtel" contents_text1="" contents_text2="에메랄드" contents_text3="벨트"/>
+
+		<element id='20' name="Diamant Krone" contents_text1="" contents_text2="다이아몬드" contents_text3="머리띠"/>
+		<element id='21' name="Diamant Halskette" contents_text1="" contents_text2="다이아몬드" contents_text3="목걸이"/>
+		<element id='22' name="Diamant Armband" contents_text1="" contents_text2="다이아몬드" contents_text3="팔찌"/>
+		<element id='23' name="Diamant Ring" contents_text1="" contents_text2="다이아몬드" contents_text3="반지"/>
+		<element id='24' name="Diamant Gürtel" contents_text1="" contents_text2="다이아몬드" contents_text3="벨트"/>
+		
+		<element id='25' name="Boss Dungeon Ticket" contents_text1="Eintrittskarten für den Boss Dungeon." contents_text2="0" contents_text3="0"/>
+		<element id='26' name="Power Stone" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="HP Stein" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="Heilstein" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="Kritischer Stein" contents_text1="" contents_text2="0" contents_text3="0"/>
+  </set_item>
+
+  	<main_ui_text>
+		<element id= '0'  name="랭킹 점수" contents_text="Raning-Punkt definieren Summe aller Bühnenklar-Punkte."/>
+		<element id= '1'  name="친구 설치 보상1" contents_text="Spielen Sie Spiel mit drei Freunden."/>
+		<element id= '2'  name="친구 설치 보상2" contents_text="Spiel mit acht Freunden spielen."/>
+		<element id= '3'  name="보상 항목 표시" contents_text="Sie können den neuen Heldencharakter bekommen."/>
+		<element id= '4'  name="보상 항목 표시2" contents_text="Sie können den neuen Heldencharakter bekommen."/>
+		<element id= '5'  name="UI설명 텍스트" contents_text="Sie können die verschiedenen Belohnung erhalten, je mehr Freunde spielen desto besser."/>
+		<element id= '6'  name="UI부분 설명 텍스트" contents_text="Facebook laden Ereignis ein."/>
+		<element id= '7'  name="UI부분 설명 텍스트" contents_text="Freundesliste"/>
+		<element id= '8'  name="보상 항목 표시3" contents_text="Held Freund Geschenk."/>
+	</main_ui_text>
+	
+  	<shop_ui_text>
+		<element id= '0'  name="근거리" contents_text="Nahkampf"/>
+		<element id= '1'  name="원거리" contents_text="Angebot"/>
+		<element id= '2'  name="용병상점 설명" contents_text="Hero Freund kaufen / Upgrade / Es kann installiert werden."/>
+		<element id= '3'  name="용병장비장착 설명" contents_text="Hero-Freund kann Rüstungen wie Helden ausrüsten."/>
+		<element id= '4'  name="유닛상점 설명" contents_text="Du kannst freundliche Einheiten kaufen, um mit feindlichen Einheiten zu kämpfen."/>
+		<element id= '5'  name="스킬상점 설명" contents_text="Du kannst alle Spezialfertigkeiten kaufen, die Hero benutzt, aber vier Fertigkeiten beim Spielen verwenden."/>
+		<element id= '6'  name="아이템 상점 설명" contents_text="Kaufen und Verkauf Helden Essen, buff Element."/>
+		<element id= '7'  name="인벤토리 설명" contents_text="Sie können Rüstung und buff Element des Helden ausrüsten."/>
+		<element id= '8'  name="아이템 레벨제한" contents_text="Lv1 ~"/>
+		<element id= '9'  name="아이템 레벨제한" contents_text="Lv15 ~"/>
+		<element id= '10'  name="아이템 레벨제한" contents_text="Lv30 ~"/>
+		<element id= '11'  name="아이템 레벨제한" contents_text="Lv45"/>
+	</shop_ui_text>
+  
+	<normal_monster_name>
+		<element id='0' name="Mama" contents_text=""/>
+		<element id='1' name="Riesenmama" contents_text=""/>
+		<element id='2' name="Kleine Mama" contents_text=""/>
+		<element id='3' name="Verärgerte" contents_text="Generalmama"/>
+		<element id='4' name="Eine böse Riesenmama" contents_text=""/>
+		<element id='5' name="Eine böse kleine Mama" contents_text=""/>
+		<element id='6' name="Schädel" contents_text=""/>
+		<element id='7' name="Kleiner Schädel" contents_text=""/>
+		<element id='8' name="Riesenschädel" contents_text=""/>
+		<element id='9' name="Wütender Schädel" contents_text=""/>
+		<element id='10' name="Wütender kleiner" contents_text="Schädel"/>
+		<element id='11' name="Wütender" contents_text="Riesenschädel"/>
+		<element id='12' name="Fliegende Mama" contents_text=""/>
+		<element id='13' name="Fliegende kleine" contents_text="Mumie"/>
+		<element id='14' name="Fliegende böse" contents_text="Mama"/>
+		<element id='15' name="Fliegende wütende" contents_text="kleine Mama"/>
+		<element id='16' name="Fliegender Schädel" contents_text=""/>
+		<element id='17' name="Fliegender kleiner" contents_text="Schädel"/>
+		<element id='18' name="Fliegender verärgerter" contents_text="Schädel"/>
+		<element id='19' name="Fliegender verärgerter" contents_text="kleiner Schädel"/>
+		<element id='20' name="Geist" contents_text=""/>
+		<element id='21' name="Großer Geist" contents_text=""/>
+		<element id='22' name="Vampir" contents_text=""/>
+		<element id='23' name="Wütender Vampir" contents_text=""/>
+		<element id='24' name="Bombe Kürbis" contents_text=""/>
+		<element id='25' name="Kleiner Bombenkürbis" contents_text=""/>
+		<element id='26' name="Kleiner Vampir" contents_text=""/>
+		<element id='27' name="Wütender kleiner" contents_text="Vampir"/>
+		<element id='28' name="Gefrorene Leiche" contents_text=""/>
+		<element id='29' name="Schwarz ent" contents_text=""/>
+		<element id='30' name="Gitarrist" contents_text=""/>
+		<element id='31' name="Base Boss" contents_text=""/>
+		<element id='32' name="Frankenstein" contents_text=""/>
+		<element id='33' name="Wolf" contents_text=""/>
+		<element id='34' name="Kürbis" contents_text=""/>
+		<element id='35' name="Teufel" contents_text=""/>
+	</normal_monster_name>	
+
+	<option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
