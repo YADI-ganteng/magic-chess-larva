@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<kUT_BabyBeetle hp='300' move_speed='1.5' attack_cooltime='2000' defence='1' critical='1' sight_range='0' attack_range='55' sp='10' build_cooltime='7000' price='0' cash='0' stun_x='12' stun_y='-79' eff_x='52' eff_y='45' hp_x='9' hp_y='100' position_type='1' line='0' special='0'/>
+	<kUT_RainbowGuard hp='700' move_speed='1.2' attack_cooltime='0' defence='9' critical='0' sight_range='0' attack_range='45' sp='20' build_cooltime='11000' price='300' cash='0' stun_x='20' stun_y='-125' eff_x='0' eff_y='0' hp_x='0' hp_y='172' position_type='1' line='2' special='0'/>
+	<kUT_Black hp='1150' move_speed='1.5' attack_cooltime='1000' defence='5' critical='3' sight_range='0' attack_range='140' sp='30' build_cooltime='13000' price='2000' cash='0' stun_x='31' stun_y='-175' eff_x='138' eff_y='62' hp_x='31' hp_y='175' position_type='1' line='3' special='0'/>
+	<kUT_Toycar hp='2000' move_speed='1.5' attack_cooltime='0' defence='10' critical='0' sight_range='0' attack_range='250' sp='25' build_cooltime='14000' price='1000' cash='0' stun_x='0' stun_y='-128' eff_x='0' eff_y='0' hp_x='0' hp_y='128' position_type='1' line='3' special='0'/>
+	<kUT_BombBug hp='1300' move_speed='1.0' attack_cooltime='8000' defence='9' critical='5' sight_range='0' attack_range='50' sp='30' build_cooltime='15000' price='10000' cash='0' stun_x='0' stun_y='-101' eff_x='0' eff_y='0' hp_x='0' hp_y='100' position_type='1' line='1' special='0'/>
+	<kUT_Rainbow hp='700' move_speed='1.0' attack_cooltime='0' defence='9' critical='0' sight_range='0' attack_range='45' sp='35' build_cooltime='13000' price='15000' cash='0' stun_x='0' stun_y='-110' eff_x='0' eff_y='0' hp_x='0' hp_y='108' position_type='1' line='2' special='0'/>
+	<kUT_Brown hp='2000' move_speed='1.0' attack_cooltime='2500' defence='33' critical='6' sight_range='0' attack_range='240' sp='35' build_cooltime='14000' price='20000' cash='0' stun_x='13' stun_y='-104' eff_x='0' eff_y='0' hp_x='14' hp_y='103' position_type='1' line='2' special='0'/>
+	<kUT_RainbowHunter hp='2400' move_speed='1.0' attack_cooltime='3000' defence='33' critical='6' sight_range='0' attack_range='240' sp='40' build_cooltime='14000' price='30000' cash='0' stun_x='20' stun_y='-125' eff_x='0' eff_y='0' hp_x='10' hp_y='180' position_type='1' line='3' special='0'/>
+	<kUT_BlackKnight hp='1150' move_speed='1.3' attack_cooltime='1000' defence='5' critical='3' sight_range='0' attack_range='140' sp='50' build_cooltime='23000' price='0' cash='120' stun_x='31' stun_y='-175' eff_x='138' eff_y='62' hp_x='31' hp_y='175' position_type='1' line='3' special='0'/>
+	<kUT_Pink hp='2500' move_speed='0.8' attack_cooltime='4000' defence='30' critical='8' sight_range='0' attack_range='140' sp='45' build_cooltime='45000' price='50000' cash='0' stun_x='19' stun_y='-84' eff_x='0' eff_y='0' hp_x='17' hp_y='81' position_type='1' line='0' special='0'/>
+	<kUT_Prince hp='2000' move_speed='1.0' attack_cooltime='5000' defence='63' critical='11' sight_range='0' attack_range='250' sp='45' build_cooltime='20000' price='60000' cash='0' stun_x='16' stun_y='-96' eff_x='0' eff_y='0' hp_x='0' hp_y='111' position_type='1' line='1' special='0'/>
+	<kUT_RainbowWarrior hp='2400' move_speed='1.2' attack_cooltime='1000' defence='33' critical='6' sight_range='0' attack_range='120' sp='50' build_cooltime='23000' price='0' cash='210' stun_x='20' stun_y='-125' eff_x='0' eff_y='0' hp_x='10' hp_y='179' position_type='1' line='3' special='0'/>
+	<kUT_Blue hp='4030' move_speed='1.5' attack_cooltime='10000' defence='31' critical='16' sight_range='0' attack_range='80' sp='65' build_cooltime='25000' price='100000' cash='0' stun_x='14' stun_y='-91' eff_x='0' eff_y='0' hp_x='14' hp_y='91' position_type='1' line='1' special='0'/>
+	<kUT_Violet hp='6000' move_speed='1.0' attack_cooltime='0' defence='228' critical='0' sight_range='0' attack_range='55' sp='70' build_cooltime='25000' price='0' cash='300' stun_x='-14' stun_y='-84' eff_x='0' eff_y='0' hp_x='0' hp_y='91' position_type='1' line='1' special='0'/>
+</define>
+
+<!--
+	position_type == 1 지상유닛, ==2 공중유닛, ==4 지하유닛 (항목 추가 JY_111107)
+	line == 0 짱구 앞, ==1 짱구 뒤 (항목 추가 JY_111109)
+	special 유닛별로 특별한 동작을 정의하기 위한 flag - (항목 추가 JY_111117) 
+	
+	kUT_RainbowGuard - 방패 레인보우
+	kUT_Rainbow - 달팽이
+	kUT_RainbowHunter - 원거리 레인보우
+	kUT_RainbowWarrior - 방패 공격 레인보우
+-->
+
