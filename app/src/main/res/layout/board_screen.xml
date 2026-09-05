@@ -6,13 +6,23 @@
     android:background="@color/board_background">
     
     <TextView
+        android:id="@+id/tv_level_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_primary"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Level: 1 | Heroes: 0/1" />
+    
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/board"
         android:textColor="@color/text_primary"
         android:textSize="24sp"
         android:gravity="center"
-        android:padding="16dp" />
+        android:padding="8dp" />
     
     <GridLayout
         android:id="@+id/board_grid"
