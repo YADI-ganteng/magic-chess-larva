@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<hero_text_box>
+		<element id='0' name="옐로우" contents_text="강력하게 단련된 꼬리를 이용해 적을 타격하는 히어로 친구\n긴 혀로 상대방을 타격하는 스킬을 사용한다."/>
+		<element id='1' name="슈퍼 옐로우" contents_text="유전자 변이를 통해 강력한 파워를 갖게된 히어로 친구.\n대규모의 적을 강력한 쇼크웨이브를 사용해 압도한다."/>
+		<element id='2' name="레드" contents_text="옐로우의 절친한 친구로 화가나면 강력한 박치기로 적들을 \n공격합니다. 이동속와 공격속도가 빠른 것이 장점입니다."/>
+		<element id='3' name="마스크 레드" contents_text="거미와 함께 생활하면서 거미 기술을 습득한 히어로 친구.\n거미줄을 발사해 적들의 이동속도를 느리게 만듭니다."/>
+		<element id='4' name="사이보그 레드" contents_text="친구들을 돕기위해 미래에서 타임머신을 타고 돌아온 친구.\n강력한 미사일로 적을 넉백시킵니다."/>
+		<element id='5' name="강철 레드" contents_text="라바 연구소에서 끊임없는 연구끝에 탄생한 히어로 친구.\n강력한 레이져를 발사하여 적들을 기절 시킵니다."/>
+		<element id='6' name="바이킹 레드" contents_text="바이킹 라바의 후손으로 친구들을 위해 유럽에서 건너온\n히어로 친구. 강력한 체력과 공격력을 자랑합니다."/>
+		<element id='7' name="닌자 레드" contents_text="친구들을 돕기 위해 수련을 끝내고 나타난 의리있는 친구.\n독이 걸리는 강력한 표창 스킬을 사용합니다."/>
+		<element id='8' name="쿵푸 레드" contents_text="소림사에에서 17년동안 무술을 연마해온 히어로 친구.\n눈에 안보일 정도의 스피드로 쌍절곤을 휘두릅니다."/>
+		<element id='9' name="조로 레드" contents_text="가면을 쓰고 조로의 흉내를 내는 히어로 친구로 재빠르고\n현란하게 휘두르는 칼솜씨가 특기입니다."/>
+	</hero_text_box>
+
+	<unit_text_box>
+		<element id='0' name="딱정벌레" contents_text="눈에 보이지 않을 정도의 빠른 펀치로 적들을 몰아 붙이는 유닛입니다."/>
+		<element id='1' name="레인보우 가드" contents_text="단단한 방패를 이용하여, 최전선에서 적들의 공격을 막아냅니다."/>
+		<element id='2' name="라바카" contents_text="어두운 밤에 라바 친구들이 안전하게 이동할 수 있도록 불을 밝혀주는 유닛. 최대 4대 생산 가능합니다."/>
+		<element id='3' name="블랙" contents_text="정면에 있는 적들을 향해 오른손의 주먹을 휘둘러 강력한 펀치를 날리는 유닛입니다."/>
+		<element id='4' name="폭탄벌레" contents_text="적들에게 달려가 강력한 폭발을 일으킵니다. "/>
+		<element id='5' name="레인보우" contents_text="레인보우의 두꺼운 껍질은 적들의 공격을 완벽히 막아냅니다."/>
+		<element id='6' name="브라운" contents_text="멀리 있는 적을 향해, 덩어리를 던져 공격하는 라바 친구입니다."/>
+		<element id='7' name="레인보우 헌터" contents_text="적들에게 방패를 던지는 레인보우 헌터는 악마군이 두려워하는 원거리 유닛중 하나입니다."/>
+		<element id='8' name="블랙 나이트" contents_text="끝없는 수련을 통해 더욱 강력해져서 돌아온 블랙 나이트입니다."/>
+		<element id='9' name="핑크" contents_text="적을 유혹하여, 순식간에 기절시키는 홍일점 유닛입니다."/>
+		<element id='10' name="외계왕자" contents_text="초능력을 이용하여, 다가오는 악마군단을 저멀리 뒤편으로 날려보냅니다."/>
+		<element id='11' name="레인보우 워리어" contents_text="강력한 체력을 기반으로 적에게 방패 밀어치기 공격을 구사하는 레인보우 영웅유닛입니다."/>
+		<element id='12' name="블루" contents_text="저주의 춤을 추어 악마군단의 HP를 점차 감소시킵니다."/>
+		<element id='13' name="바이올렛" contents_text="땅속에서 몰래 이동하다 적들이 나타나면 등장해 모든 공격을 막아주는 든든한 친구입니다."/>
+	</unit_text_box>
+
+	<skill_text_box>
+		<element id='0' name="꿀밤 때리기" contents_text="옐로우가 혀를 이용하여, 꿀밤을 때립니다."/>
+		<element id='1' name="이동의 저주" contents_text="옐로우가 이동의 저주를 사용시, 모든 적들의 이동속도가 일정시간동안 느려집니다."/>
+		<element id='2' name="콜라 폭탄" contents_text="옐로우가 폭발하는 콜라를 설치하여, 주변에 강력한 데미지를 입힙니다."/>
+		<element id='3' name="바람의 축복" contents_text="옐로우와 친구들 모두의 이동속도가 일정시간 동안 상승합니다."/>
+		<element id='4' name="꼬리 찌르기" contents_text="옐로우가 꼬리를 이용하여, 적들을 강하게 밀어칩니다."/>
+		<element id='5' name="정화의 축복" contents_text="아군에게 걸린 모든 저주효과를 해제하고, 일정시간동안 유지됩니다."/>
+		<element id='6' name="침 뱉기" contents_text="재채기를 하며, 대량의 침을 발사합니다."/>
+		<element id='7' name="힘의 저주" contents_text="옐로우가 저주의 춤을 추어 일정시간동안 모든 적들의 공격력이 감소됩니다."/>
+		<element id='8' name="콧물 발사" contents_text="옐로우가 재채기를 하며, 콧물을 발사 합니다."/>
+		<element id='9' name="고통의 저주" contents_text="옐로우가 고통의 저주를 걸어 일정시간동안 모든 적들의 방어력이 감소됩니다."/>
+		<element id='10' name="방패의 축복" contents_text="옐로우가 방패의 축복을 사용시, 아군 모두의 방어력이 일정시간동안 상승합니다."/>
+		<element id='11' name="구르기" contents_text="옐로우가 몸을 둥글게 말아 굴러가며, 다수의 적들을 공격합니다."/>
+		<element id='12' name="쇼 크" contents_text="모든 적들을 일정시간동안 기절 시키는, 강력한 쇼크공격입니다."/>
+		<element id='13' name="트 림" contents_text="옐로우가 트림을 하여, 전방에 있는 다수의 적들에게 피해를 입힙니다."/>
+		<element id='14' name="케익 폭탄" contents_text="적들을 감지하면 폭발하는 케익폭탄을 설치하여 다수의 적들에게 강력한 피해를 입힙니다."/>
+		<element id='15' name="힘의 축복" contents_text="사용시 일정시간동안 아군의 공격력이 증가합니다."/>
+		<element id='16' name="회전 꼬리 치기" contents_text="옐로우가 꼬리를 회전시키며 전진하여, 다수의 적들을 공격합니다."/>
+		<element id='17' name="방 귀" contents_text="옐로우가 방귀를 쏘아 다수의 적들에게 큰 피해를 입힙니다."/>
+		<element id='18' name="신기한 장벽" contents_text="신기한 장벽이 소환되어, 전진하는 악마군단의 이동을 막아줍니다."/>
+		<element id='19' name="회복의 축복" contents_text="옐로우와 전체 아군의 체력을 일정량 회복시켜줍니다."/>
+		<element id='20' name="이동의 저주" contents_text="악마군 전체가 투명한 사슬에 걸려 일정시간동안 느려집니다."/>
+		<element id='21' name="파워 박치기" contents_text="힘을 모아 상대방을 머리로 가격합니다."/>
+		<element id='22' name="힘의 축복" contents_text="일정시간동안 모든 아군의 공격력이 증가합니다."/>
+		<element id='23' name="기절" contents_text="모든 적들을 일정시간동안 기절 시키는, 강력한 쇼크공격입니다."/>
+		<element id='24' name="데스 크러쉬" contents_text="머리를 이용하여, 강력한 대쉬공격을 합니다."/>
+		<element id='25' name="살인 미소" contents_text="아군의 최대 HP와 체력을 일정시간 동안 상승 시켜주는 효과입니다."/>
+		<element id='26' name="괴성 지르기" contents_text="모든 적들의 HP를 일정시간동안 감소시킵니다."/>
+		<element id='27' name="쇼크 웨이브" contents_text="땅에서 거대한 바위들이 나와 다수의 적을 공격하는 스킬입니다."/>
+		<element id='28' name="파이어볼" contents_text="마법의 힘으로 파이어볼을 적에게 관통시켜 데미지를 입힙니다."/>
+		<element id='29' name="메테오" contents_text="정령들의 힘들모아 하늘에서 화염에 휩쌓인 운석을 떨어뜨려 데미지를 입힙니다."/>
+		<element id='30' name="빛의회복" contents_text="마법봉에 달린 고대 구슬의 힘으로 아군 체력을 회복시킵니다."/>
+		<element id='31' name="기절댄스" contents_text="종족특성으로 주문을 외우는 듯한 춤을 추어 적을 기절하게 만듭니다."/>
+		<element id='32' name="해머쇼크" contents_text="순간 번개의 힘을 빌어 지상에 있는 다수의 적들에게 강력한 데미지를 입힙니다."/>
+		<element id='33' name="고함지르기" contents_text="적들의 귀를 멀게하는 고함 소리를 질러 아군의 공격력을 일정시간동안 상승시킵니다."/>
+		<element id='34' name="해머던지기" contents_text="강력한 해머를 회전시켜 다수의 적을 관통하여 데미지를 입힙니다."/>
+		<element id='35' name="번개소환" contents_text="하늘에서 번개를 소환하여 지상에 있는 다수의 적들에게 강력한 공격을 합니다."/>
+		<element id='36' name="불의방패" contents_text="적들을 타격하면 할수록 방패에 모인 에너지가 화염으로 발사되어 적을 공격합니다."/>
+		<element id='37' name="신의보호막" contents_text="종족 특성으로 방어력을 최대로 올려 거의 무적에 가까운 상태가 됩니다."/>
+		<element id='38' name="수류탄투척" contents_text="등껍질안에 숨겨진 수류탄을 꺼내어 적에게 투척하여 적들에게 데미지를 입힙니다."/>
+		<element id='39' name="무지개빔" contents_text="레인보우 종족 특성의 에너지가 방패를 통해 빔으로 발사되어 적을 관통타격합니다."/>    
+	</skill_text_box>
+
+	<fix_item_shop>
+		<element id='0' name="가죽 머리띠" contents_text1="" contents_text2="가죽" contents_text3="머리띠"/>
+		<element id='1' name="구리 머리띠" contents_text1="" contents_text2="구리" contents_text3="머리띠"/>
+		<element id='2' name="은빛 머리띠" contents_text1="" contents_text2="은빛" contents_text3="머리띠"/>
+		<element id='3' name="황금 머리띠" contents_text1="" contents_text2="황금" contents_text3="머리띠"/>
+		<element id='4' name="사파이어 머리띠" contents_text1="" contents_text2="사파이어" contents_text3="머리띠"/>
+		<element id='5' name="루비 머리띠" contents_text1="" contents_text2="루비" contents_text3="머리띠"/>
+		<element id='6' name="가죽 목걸이" contents_text1="" contents_text2="가죽" contents_text3="목걸이"/>
+		<element id='7' name="구리 목걸이" contents_text1="" contents_text2="구리" contents_text3="목걸이"/>
+		<element id='8' name="은빛 목걸이" contents_text1="" contents_text2="은빛" contents_text3="목걸이"/>
+		<element id='9' name="황금 목걸이" contents_text1="" contents_text2="황금" contents_text3="목걸이"/>
+		<element id='10' name="사파이어 목걸이" contents_text1="" contents_text2="사파이어" contents_text3="목걸이"/>
+		<element id='11' name="루비 목걸이" contents_text1="" contents_text2="루비" contents_text3="목걸이"/>
+		<element id='12' name="가죽 팔찌" contents_text1="" contents_text2="가죽" contents_text3="팔찌"/>
+		<element id='13' name="구리 팔찌" contents_text1="" contents_text2="구리" contents_text3="팔찌"/>
+		<element id='14' name="은빛 팔찌" contents_text1="" contents_text2="은빛" contents_text3="팔찌"/>
+		<element id='15' name="황금 팔찌" contents_text1="" contents_text2="황금" contents_text3="팔찌"/>
+		<element id='16' name="사파이어 팔찌" contents_text1="" contents_text2="사파이어" contents_text3="팔찌"/>
+		<element id='17' name="루비 팔찌" contents_text1="" contents_text2="루비" contents_text3="팔찌"/>
+		<element id='18' name="가죽 반지" contents_text1="" contents_text2="가죽" contents_text3="반지"/>
+		<element id='19' name="구리 반지" contents_text1="" contents_text2="구리" contents_text3="반지"/>
+		<element id='20' name="은빛 반지" contents_text1="" contents_text2="은빛" contents_text3="반지"/>
+		<element id='21' name="황금 반지" contents_text1="" contents_text2="황금" contents_text3="반지"/>
+		<element id='22' name="사파이어 반지" contents_text1="" contents_text2="사파이어" contents_text3="반지"/>
+		<element id='23' name="루비 반지" contents_text1="" contents_text2="루비" contents_text3="반지"/>
+		<element id='24' name="가죽 벨트" contents_text1="" contents_text2="가죽" contents_text3="벨트"/>
+		<element id='25' name="구리 벨트" contents_text1="" contents_text2="구리" contents_text3="벨트"/>
+		<element id='26' name="은빛 벨트" contents_text1="" contents_text2="은빛" contents_text3="벨트"/>
+		<element id='27' name="황금 벨트" contents_text1="" contents_text2="황금" contents_text3="벨트"/>
+		<element id='28' name="사파이어 벨트" contents_text1="" contents_text2="사파이어" contents_text3="벨트"/>
+		<element id='29' name="루비 벨트" contents_text1="" contents_text2="루비" contents_text3="벨트"/>		
+	</fix_item_shop>
+
+	<eat_item_shop>
+		<element id='30' name="MP 물약" contents_text1="플레이 중 히어로 MP 30%를 즉시 회복합니다." contents_text2="" contents_text3=""/>
+		<element id='31' name="HP 물약" contents_text1="플레이 중 히어로 HP 30%를 즉시 회복합니다." contents_text2="" contents_text3=""/>
+		<element id='32' name="히어로 HP 물약" contents_text1="플레이 중 히어로 친구의 HP 30%를 즉시 회복합니다." contents_text2="" contents_text3=""/>
+		<element id='33' name="전체회복 물약" contents_text1="플레이 중 히어로와 히어로친구의 HP 20%를\n즉시 회복합니다." contents_text2="" contents_text3=""/>
+		<element id='34' name="유닛 HP 물약" contents_text1="플레이 중 전체 유닛의 HP 30%를 즉시 \n회복합니다." contents_text2="" contents_text3=""/>
+		<element id='35' name="공격력 증가" contents_text1="장착시 게임시작할때마다 1개씩 차감되며, \n해당 모험에서 히어로의 공격력이 30% 상승합니다." contents_text2="" contents_text3=""/>
+		<element id='36' name="이동속도 증가" contents_text1="장착시 게임시작할때마다 1개씩 차감되며, \n해당 모험에서 히어로의 이동속도가 50% 상승합니다." contents_text2="" contents_text3=""/>
+		<element id='37' name="체력 증가" contents_text1="장착시 게임시작할때마다 1개씩 차감되며, \n해당 모험에서 히어로의 최대 HP가 30% 상승합니다." contents_text2="" contents_text3=""/>
+		<element id='38' name="경험치 증가" contents_text1="장착시 게임시작할때마다 1개씩 차감되며, \n해당 모험에서 히어로의 획득 경험치가 30% 상승합니다." contents_text2="" contents_text3=""/>
+		<element id='39' name="비엔나 게이지" contents_text1="장착시 게임시작할때마다 1개씩 차감되며, \n해당 모험에서 비엔나 게이지 최대치가 30% 상승합니다." contents_text2="" contents_text3=""/>
+		<element id='40' name="변신 물약" contents_text1="구매후 사용시, 변신 가능 횟수가 증가합니다." contents_text2="" contents_text3=""/>
+	</eat_item_shop>
+
+	<special_shop>
+		<element id='41' name="비엔나 자동획득" contents_text1="비엔나를 자석처럼 끌어당기는 효과" contents_text2="비엔나" contents_text3="자동획득"/>
+		<element id='42' name="비엔나 획득량 2배" contents_text1="비엔나 획득량이 2배가 됩니다." contents_text2="비엔나" contents_text3="획득량 2배"/>		
+		<element id='43' name="사파이어 세트" contents_text1="구매 사용시, 사파이어 장비 5종을 획득합니다. (Lv제한 1)" contents_text2="사파이어" contents_text3="세트"/>
+		<element id='44' name="루비 세트" contents_text1="구매 사용시, 루비 장비 5종을 획득합니다. (Lv제한 1)" contents_text2="루비" contents_text3="세트"/>
+		<element id='45' name="히어로 능력치 2배" contents_text1="히어로 기본 능력치(체력,공격력,방어력)가\n2배로 영구 적용 됩니다." contents_text2="히어로" contents_text3="능력치 2배"/>
+		<element id='46' name="히어로친구 능력치 2배" contents_text1="히어로 친구들의 모든 기본 능력치\n(체력,공격력,방어력)가 2배로 영구 적용 됩니다." contents_text2="히어로 친구" contents_text3="능력치 2배"/>
+	</special_shop>
+
+  <google_special>
+    <element id='47' name="스페셜 머리띠" contents_text1="" contents_text2="스페셜" contents_text3="머리띠"/>
+    <element id='48' name="스페셜 목걸이" contents_text1="" contents_text2="스페셜" contents_text3="목걸이"/>
+    <element id='49' name="스페셜 팔찌" contents_text1="" contents_text2="스페셜" contents_text3="팔찌"/>
+    <element id='50' name="스페셜 반지" contents_text1="" contents_text2="스페셜" contents_text3="반지"/>
+    <element id='51' name="스페셜 벨트" contents_text1="" contents_text2="스페셜" contents_text3="벨트"/>
+  </google_special>
+
+  <set_item>
+		<element id='0' name="빛나는 가죽 머리띠" contents_text1="" contents_text2="빛나는 가죽" contents_text3="머리띠"/>
+		<element id='1' name="빛나는 가죽 목걸이" contents_text1="" contents_text2="빛나는 가죽" contents_text3="목걸이"/>
+		<element id='2' name="빛나는 가죽 팔찌" contents_text1="" contents_text2="빛나는 가죽" contents_text3="팔찌"/>
+		<element id='3' name="빛나는 가죽 반지" contents_text1="" contents_text2="빛나는 가죽" contents_text3="반지"/>
+		<element id='4' name="빛나는 가죽 벨트" contents_text1="" contents_text2="빛나는 가죽" contents_text3="벨트"/>
+
+		<element id='5' name="빛나는 구리 머리띠" contents_text1="" contents_text2="빛나는 구리" contents_text3="머리띠"/>
+		<element id='6' name="빛나는 구리 목걸이" contents_text1="" contents_text2="빛나는 구리" contents_text3="목걸이"/>
+		<element id='7' name="빛나는 구리 팔찌" contents_text1="" contents_text2="빛나는 구리" contents_text3="팔찌"/>
+		<element id='8' name="빛나는 구리 반지" contents_text1="" contents_text2="빛나는 구리" contents_text3="반지"/>
+		<element id='9' name="빛나는 구리 벨트" contents_text1="" contents_text2="빛나는 구리" contents_text3="벨트"/>
+
+		<element id='10' name="빛나는 은 머리띠" contents_text1="" contents_text2="빛나는 은" contents_text3="머리띠"/>
+		<element id='11' name="빛나는 은 목걸이" contents_text1="" contents_text2="빛나는 은" contents_text3="목걸이"/>
+		<element id='12' name="빛나는 은 팔찌" contents_text1="" contents_text2="빛나는 은" contents_text3="팔찌"/>
+		<element id='13' name="빛나는 은 반지" contents_text1="" contents_text2="빛나는 은" contents_text3="반지"/>
+		<element id='14' name="빛나는 은 벨트" contents_text1="" contents_text2="빛나는 은" contents_text3="벨트"/>
+
+		<element id='15' name="에메랄드 머리띠" contents_text1="" contents_text2="에메랄드" contents_text3="머리띠"/>
+		<element id='16' name="에메랄드 목걸이" contents_text1="" contents_text2="에메랄드" contents_text3="목걸이"/>
+		<element id='17' name="에메랄드 팔찌" contents_text1="" contents_text2="에메랄드" contents_text3="팔찌"/>
+		<element id='18' name="에메랄드 반지" contents_text1="" contents_text2="에메랄드" contents_text3="반지"/>
+		<element id='19' name="에메랄드 벨트" contents_text1="" contents_text2="에메랄드" contents_text3="벨트"/>
+
+		<element id='20' name="다이아몬드 머리띠" contents_text1="" contents_text2="다이아몬드" contents_text3="머리띠"/>
+		<element id='21' name="다이아몬드 목걸이" contents_text1="" contents_text2="다이아몬드" contents_text3="목걸이"/>
+		<element id='22' name="다이아몬드 팔찌" contents_text1="" contents_text2="다이아몬드" contents_text3="팔찌"/>
+		<element id='23' name="다이아몬드 반지" contents_text1="" contents_text2="다이아몬드" contents_text3="반지"/>
+		<element id='24' name="다이아몬드 벨트" contents_text1="" contents_text2="다이아몬드" contents_text3="벨트"/>
+		
+		<element id='25' name="보스 던전 입장권" contents_text1="보스전에 입장을 할 수 있는 티켓." contents_text2="0" contents_text3="0"/>
+		<element id='26' name="파워 스톤" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='27' name="체력 스톤" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='28' name="힐링 스톤" contents_text1="" contents_text2="0" contents_text3="0"/>
+		<element id='29' name="치명타 스톤" contents_text1="" contents_text2="0" contents_text3="0"/>
+  </set_item>
+    
+	<main_ui_text>
+		<element id='0' name="랭킹 점수" contents_text="랭킹점수는 최고 클리어 점수 총 합산으로 결정됩니다."/>
+		<element id='1' name="친구 설치 보상1" contents_text="함께한 친구 3명 달성시"/>
+		<element id='2' name="친구 설치 보상2" contents_text="함께한 친구 8명 달성시"/>
+		<element id='3' name="보상 항목 표시" contents_text="레드 히어로 캐릭터 오픈"/>
+		<element id='4' name="보상 항목 표시2" contents_text="슈퍼 옐로우 히어로 캐릭터 오픈"/>
+		<element id='5' name="UI설명 텍스트" contents_text="함께 게임하는 친구가 많을수록, 다양한 보상이 지급됩니다."/>
+		<element id='6' name="UI부분 설명 텍스트" contents_text="초대 이벤트"/>
+		<element id='7' name="UI부분 설명 텍스트" contents_text="친구 리스트"/>
+		<element id='8' name="보상 항목 표시3" contents_text="강철 레드 히어로 친구 지급"/>
+	</main_ui_text>
+
+	<shop_ui_text>
+		<element id='0' name="근거리" contents_text="근거리"/>
+		<element id='1' name="원거리" contents_text="원거리"/>
+		<element id='2' name="용병상점 설명" contents_text="히어로 친구를 구매/업그레이드/장착할 수 있습니다."/>
+		<element id='3' name="용병장비장착 설명" contents_text="히어로 친구도 장비를 장착할 수 있습니다."/>
+		<element id='4' name="유닛상점 설명" contents_text="전투를 도와주는 아군 유닛을 구매할 수 있습니다."/>
+		<element id='5' name="스킬상점 설명" contents_text="히어로가 사용하는 특수한 스킬들을 습득할 수 있습니다."/>
+		<element id='6' name="아이템 상점 설명" contents_text="물약/버프 아이템들을 구매 및 판매할 수 있습니다."/>
+		<element id='7' name="인벤토리 설명" contents_text="히어로가 사용하는 장비/버프/음식등을 장착할 수 있습니다."/>
+		<element id='8' name="아이템 레벨제한" contents_text="Lv.1~"/>
+		<element id='9' name="아이템 레벨제한" contents_text="Lv.15~"/>
+		<element id='10' name="아이템 레벨제한" contents_text="Lv.30~"/>
+		<element id='11' name="아이템 레벨제한" contents_text="Lv.45~"/>
+	</shop_ui_text>
+
+	<normal_monster_name>
+		<element id='0' name="일반 미이라" contents_text=""/>
+		<element id='1' name="거대 미이라" contents_text=""/>
+		<element id='2' name="작은 미이라" contents_text=""/>
+		<element id='3' name="화난 일반 미이라" contents_text=""/>
+		<element id='4' name="화난 거대 미이라" contents_text=""/>
+		<element id='5' name="화난 작은 미이라" contents_text=""/>
+		<element id='6' name="일반 해골" contents_text=""/>
+		<element id='7' name="작은 해골" contents_text=""/>
+		<element id='8' name="거대 해골" contents_text=""/>
+		<element id='9' name="화난 일반 해골" contents_text=""/>
+		<element id='10' name="화난 작은 해골" contents_text=""/>
+		<element id='11' name="화난 거대 해골" contents_text=""/>
+		<element id='12' name="플라잉 일반 미이라" contents_text=""/>
+		<element id='13' name="플라잉 작은 미이라" contents_text=""/>
+		<element id='14' name="플라잉 화난 일반 미이라" contents_text=""/>
+		<element id='15' name="플라잉 화난 작은 미이라" contents_text=""/>
+		<element id='16' name="플라잉 일반 해골" contents_text=""/>
+		<element id='17' name="플라잉 작은 해골" contents_text=""/>
+		<element id='18' name="플라잉 화난 일반 해골" contents_text=""/>
+		<element id='19' name="플라잉 화난 작은 해골" contents_text=""/>
+		<element id='20' name="고스트" contents_text=""/>
+		<element id='21' name="큰 고스트" contents_text=""/>
+		<element id='22' name="뱀파이어" contents_text=""/>
+		<element id='23' name="화난 뱀파이어" contents_text=""/>
+		<element id='24' name="폭탄 호박" contents_text=""/>
+		<element id='25' name="작은 폭탄 호박" contents_text=""/>
+		<element id='26' name="작은 뱀파이어" contents_text=""/>
+		<element id='27' name="화난 작은 뱀파이어" contents_text=""/>
+		<element id='28' name="강시" contents_text=""/>
+		<element id='29' name="블랙엔트" contents_text=""/>
+		<element id='30' name="기타맨" contents_text=""/>
+		<element id='31' name="기지보스" contents_text=""/>
+		<element id='32' name="프랑캔슈타인" contents_text=""/>
+		<element id='33' name="울프" contents_text=""/>
+		<element id='34' name="펌프킨" contents_text=""/>
+		<element id='35' name="데빌" contents_text=""/>
+	</normal_monster_name>
+
+	<option_language>
+		<element id='0' name="한국어"/>
+		<element id='1' name="English"/>
+		<element id='2' name="日本語"/>
+		<element id='3' name="BaHasa Indonesia"/>
+		<element id='4' name="Deutsch"/>
+		<element id='5' name="Français"/>
+	</option_language>	
+</define>
