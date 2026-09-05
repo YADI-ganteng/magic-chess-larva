@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_margin="4dp"
+    android:background="@color/board_cell">
+    
+    <ImageView
+        android:id="@+id/img_cell_hero"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:visibility="gone" />
+    
+    <TextView
+        android:id="@+id/tv_cell_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:textColor="@color/gold"
+        android:textSize="12sp"
+        android:padding="4dp"
+        android:visibility="gone" />
+    
+    <TextView
+        android:id="@+id/tv_cell_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:textColor="@color/text_primary"
+        android:textSize="10sp"
+        android:padding="4dp"
+        android:visibility="gone" />
+    
+</FrameLayout>
