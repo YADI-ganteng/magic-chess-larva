@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>
+	<message_popup>
+		<element id='0' name="マジックキャンディの不足" popup_text1="持ってるマジックキャンディが足りない。" popup_text2="" popup_text3=""/>
+		<element id='1' name="マジックキャンディの不足" popup_text1="持ってるマジックキャンディが足りない。" popup_text2="" popup_text3=""/>
+		<element id='2' name="ゴールドの不足" popup_text1="持ってるゴールドが足りない。" popup_text2="" popup_text3=""/>
+		<element id='3' name="ヒーローをタッチ" popup_text1="Coming Soon!!" popup_text2="アップデートのじゅんび中です。" popup_text3=""/>
+		<element id='4' name="ヒーローのオープンの下から" popup_text1="ヒーローの友達がもどされました。" popup_text2="" popup_text3=""/>
+		<element id='5' name="월드맵을 건너띄어 오픈 시도할 경우" popup_text1="前のワールドを先に" popup_text2="クリアなきゃならない。" popup_text3=""/>
+		<element id='6' name="월드맵 오픈 확인 메시지" popup_text1="ワールドマップがオープンされました。" popup_text2="オープンの補償でマジックキャンディー" popup_text3=""/>
+		<element id='7' name="히어로 친구 소환 확인" popup_text1="ヒーローの友達がもどされました。" popup_text2="" popup_text3=""/>
+		<element id='8' name="장착 슬롯 부족" popup_text1="そうちゃくスロットがたりない。" popup_text2="スロットをかくちょうさせてください。" popup_text3=""/>
+		<element id='9' name="인벤토리 UI가 아닌곳에서 아이템 선택" popup_text1="せんたくしたアイテムは" popup_text2="インベントリーでつかえます。" popup_text3=""/>
+		<element id='10' name="레벨 부족 장착 불가" popup_text1="レベルがたりない。" popup_text2="" popup_text3=""/>
+		<element id='11' name="히어로 친구 전체 소환 사용후" popup_text1="すべてのヒーローのよびだしがせいこうしました。" popup_text2="" popup_text3=""/>
+		<element id='12' name="유닛 전체 소환 사용후" popup_text1="すべてのユニットのよびだしがせいこうしました。" popup_text2="" popup_text3=""/>
+		<element id='13' name="스킬 전체 소환 사용후" popup_text1="すべてのスキルをえました。" popup_text2="" popup_text3=""/>
+		<element id='14' name="올인원 아이템 사용후" popup_text1="オールインワンのパッケージをつかいました。" popup_text2="ビエナのじどうかくとく, ビエナかくとくの２ばい。" popup_text3="かくとくのEXP２ばい"/>
+		<element id='15' name="비엔나 획득량 2배 아이템 사용시" popup_text1="ビエナのかくとくりょう２ばいのきのうが" popup_text2="かっせいかされました。" popup_text3=""/>
+		<element id='16' name="자동획득 아이템 사용시" popup_text1="ビエナのじどうかくとくのきのうが" popup_text2="かっせいかされました。" popup_text3=""/>
+		<element id='17' name="변신물약 사용시" popup_text1="へんしんえきざいをつかって" popup_text2="へんしんのかずがふえました。" popup_text3=""/>
+		<element id='18' name="인벤토리 슬롯 부족할 경우" popup_text1="インベントリースロットがたりないです。" popup_text2="" popup_text3=""/>
+		<element id='19' name="강화 완료 후" popup_text1="きょうかかんりょう。" popup_text2="" popup_text3=""/>
+		<element id='20' name="강화 불가 팝업" popup_text1="これいじょうきょうかはできません" popup_text2="" popup_text3=""/>
+		<element id='21' name="용병 선택 않하고 장비 장착 시도시" popup_text1="ヒーローの友達のせんたくのあと" popup_text2="そうちゃくできます。" popup_text3=""/>
+		<element id='22' name="중복 구매 불가 메시지" popup_text1="これいじょうこうにゅうはできません。" popup_text2="" popup_text3=""/>
+		<element id='23' name="스킬 업그레이드 불가" popup_text1="これいじょうアップグレードはできません。" popup_text2="" popup_text3=""/>
+		<element id='24' name="유닛 업그레이드 불가" popup_text1="これいじょうアップグレードはできません。" popup_text2="" popup_text3=""/>
+		<element id='25' name="스킬 장착 슬롯 오픈시" popup_text1="スキルそうちゃくスロットがオープンしましだ。" popup_text2="" popup_text3=""/>
+		<element id='26' name="유닛 장착 슬롯 오픈시" popup_text1="ユニットそうちゃくスロットがオープンしましだ。" popup_text2="" popup_text3=""/>
+		<element id='27' name="이전 슬롯 오픈 체크" popup_text1="以前スロットがオープンされているばあいだけ" popup_text2="せんたくしたスロットのオープンができます。" popup_text3=""/>
+		<element id='28' name="월드 오픈" popup_text1="あたらしいゾーンを" popup_text2="オープンしますか。" popup_text3=""/>
+		<element id='29' name="월드 오픈2" popup_text1="新しいゾーンのたんけんに必要な" popup_text2="こがねのかぎがたりない。" popup_text3="マジックキャンディでオープンしますか。"/>
+		<element id='30' name="유닛 오픈 직후" popup_text1="ユニットが。" popup_text2="" popup_text3=""/>
+		<element id='31' name="스킬 오픈 직후" popup_text1="スキルをえました。" popup_text2="" popup_text3=""/>
+		<element id='32' name="게임종료 시도시" popup_text1="ラーバー・ヒーローズを終了しますか" popup_text2="" popup_text3=""/>
+		<element id='33' name="グーグルプレー・ログイン" popup_text1="グーグルプレー・ログインをして連動すると" popup_text2="リード・ボーダー、事跡をつきしたがえます。" popup_text3="ログインしますか。"/>
+		<element id='34' name="매직캔디 구매창" popup_text1="マジックキャンディの購入ができます。" popup_text2="" popup_text3=""/>
+		<element id='35' name="골드 구매창" popup_text1="ジックキャンディとゴールドを交換します。" popup_text2="" popup_text3=""/>
+		<element id='36' name="정상 구매" popup_text1="アイテムが正常に購入できました。" popup_text2="" popup_text3=""/>
+		<element id='37' name="구매 실패" popup_text1="正しい購入じゃありません。" popup_text2="" popup_text3=""/>
+		<element id='38' name="히어로 능력 2배" popup_text1="ヒーローの能力が２倍になりました。" popup_text2="" popup_text3=""/>
+		<element id='39' name="히어로친구능력 2배" popup_text1="ヒーローの友達の能力が２倍になりました。" popup_text2="" popup_text3=""/>
+		<element id='40' name="히어로 친구 오픈" popup_text1="ヒーローの友達がオープンしました。" popup_text2="" popup_text3=""/>
+		<element id='41' name="셋트장비 오픈" popup_text1="セットのそうびがオープンしました。" popup_text2="" popup_text3=""/>
+		<element id='42' name="해적획득1" popup_text1="マジックキャンディーがえました。" popup_text2="" popup_text3=""/>
+		<element id='43' name="해적획득2" popup_text1="えきざいがえました。" popup_text2="" popup_text3=""/>
+		<element id='44' name="해적획득3" popup_text1="ゴールドがえました。" popup_text2="" popup_text3=""/>
+		<element id='45' name="장비 모두 구매 완료" popup_text1="サファイア、ルビーのセットがえました。" popup_text2="" popup_text3=""/>
+		<element id='46' name="レビュー" popup_text1="ゲームについてレビューを書いてくださる方に" popup_text2="はマジックキャンディー１０個を差し上げます。" popup_text3=""/>
+		<element id='47' name="구입대기" popup_text1="購入が進行されてます。" popup_text2="しばらくお待ちください。" popup_text3=""/>
+		<element id='48' name="캐쉬아이템설명1" popup_text1="マジックキャンデー 500個" popup_text2="" popup_text3=""/>
+		<element id='49' name="캐쉬아이템설명2" popup_text1="マジックキャンデー 900個" popup_text2="" popup_text3=""/>
+		<element id='50' name="캐쉬아이템설명3" popup_text1="マジックキャンデー 3000個" popup_text2="" popup_text3=""/>
+		<element id='51' name="캐쉬아이템설명4" popup_text1="マジックキャンデー 10000個" popup_text2="" popup_text3=""/>
+		<element id='52' name="캐쉬아이템설명5" popup_text1="マジックキャンデー 4500個, ジャック船長のクッキ 200個, 友達(カンフー,スチール,忍者,サイボーグ,マスク,ジョーロ)のオープン" popup_text2="" popup_text3=""/>
+		<element id='53' name="캐쉬아이템설명6" popup_text1="マジックキャンデー 12000個, ジャック船長のクッキ 350個, ６人の友達のオープン,サファイアset,ルビーset" popup_text2="" popup_text3=""/>
+		<element id='54' name="캐쉬아이템설명3" popup_text1="マジックキャンデー 2625個, ジャック船長のクッキ 120個" popup_text2="" popup_text3=""/>
+		<element id='55' name="캐쉬아이템설명4" popup_text1="マジックキャンデー 4500個, ジャック船長のクッキ 200個" popup_text2="" popup_text3=""/>
+		<element id='56' name="캐쉬아이템설명4" popup_text1="マジックキャンデー 12000個, ジャック船長のクッキ 350個,サファイアset,ルビーset" popup_text2="" popup_text3=""/>
+		<element id='57' name="리뷰2" popup_text1="ゲームのレビューを作成いただければ、" popup_text2="今後の更新に役立ちます。" popup_text3=""/>
+		<element id='58' name="모어게임" popup_text1="Download this game," popup_text2=" you can get 10 magic candy." popup_text3=""/>
+		<element id='59' name="모어게임" popup_text1="You got 10 magic candy." popup_text2="" popup_text3="(720つステージ)"/>
+		<element id='60' name="모어게임" popup_text1="Win the battle with your own combination!!" popup_text2="Simple defense game" popup_text3="行80ゲームをプレイ！ 2プレーヤーモード"/>
+		<element id='61' name="해적획득4" popup_text1="装備アイテムを獲得しました。" popup_text2="" popup_text3=""/>
+		<element id='62' name="펫구매" popup_text1="あなたはペットを買いたいですか？" popup_text2="" popup_text3=""/>
+	</message_popup>
+
+	<choice_popup>
+		<element id='0' name="Super Yellow" popup_text1="ヒーローを オープンしますか。" popup_text2="" popup_text3=""/>
+		<element id='1' name="Kungpu Yellow" popup_text1="ヒーローを オープンしますか。" popup_text2="" popup_text3=""/>
+		<element id='2' name="Red" popup_text1="ヒーローを オープンしますか。" popup_text2="" popup_text3=""/>
+		<element id='3' name="월드맵 오픈시 최종결정" popup_text1="ワールドをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='4' name="아이템 판매시 출력 (중첩형 아이템)" popup_text1="アイテムをはんばいしますか。" popup_text2="" popup_text3=""/>
+		<element id='5' name="ユニットそうちゃくスロットかくちょう" popup_text1="ユニットかくちょうスロットをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='6' name="スキルそうちゃくスロットかくちょう" popup_text1="スキルかくちょうスロットをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='7' name="Rainbow Warrior" popup_text1="ヒーローをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='8' name="Black Knight" popup_text1="ヒーローをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='9' name="Brown magician" popup_text1="ヒーローをオプンしますか。" popup_text2="" popup_text3=""/>
+		<element id='10' name=" - 出る - " popup_text1="注意! 現在進行中のステージは" popup_text2="セーブできません。" popup_text3="ゲームを終了しますか。"/>
+		<element id='11' name=" - やり直す - " popup_text1="注意! 現在進行中のステージは" popup_text2="セーブできません。" popup_text3="再びスタートしますか。"/>
+		<element id='12' name=" - つづく- " popup_text1="次いでするはマジックキャンディー5個が" popup_text2="必要ひつよう。次いでするをしますか。" popup_text3=""/>
+		<element id='13' name="친구 모두 구매" popup_text1="ヒーローの友達を全部" popup_text2="購入しますか。" popup_text3=""/>
+		<element id='14' name="유닛 모두 구매" popup_text1="ヒーローのユニットを全部" popup_text2="購入しますか。" popup_text3=""/>
+		<element id='15' name="스킬 모두 구매" popup_text1="ヒーローのスキルを全部" popup_text2="購入しますか。" popup_text3=""/>
+		<element id='16' name="장비 모두 구매" popup_text1="サファイア•セットとルビー•セットを" popup_text2="全部購入しますか。" popup_text3=""/>
+		<element id='17' name="1.キャラクター移動" popup_text1="ヒーローの位置から前、後ろのところを" popup_text2="タッチすれば移動できます。" popup_text3=""/>
+		<element id='18' name="1.キャラクター移動" popup_text1="がめんにタッチしてヒーローを矢印の" popup_text2="ところまで移動させてみて。" popup_text3=""/>
+		<element id='19' name="2.自動こうげき" popup_text1="敵に近づくと自然にこうげきします。" popup_text2="敵をやっつけてみて。" popup_text3=""/>
+		<element id='20' name="3.ヒーローの友達自動こうげき" popup_text1="ヒーローの友達はきょうりょくなわがぐんの" popup_text2="中の一つであっていつもヒーローをつきまといて" popup_text3="自然に敵をこうげきします。"/>
+		<element id='21' name="4.ヒーローの友達復活" popup_text1="せんとう中にヒーローの友達が死んだ場合" popup_text2="マジックキャンディー１個をつかって" popup_text3="友達を復活させます。"/>
+		<element id='22' name="4.ヒーローの友達復活" popup_text1="左側の復活ボタンでヒーローの友達" popup_text2="復活させますし、マジックキャンディーがなかったら" popup_text3="ボタンは 活性化されません。"/>
+		<element id='23' name="5.ヒーローにへんしんシステム" popup_text1="左側の上段に指が指すボタンを押して" popup_text2="へんしんする後、敵をやっつけてみて。" popup_text3=""/>
+		<element id='24' name="5.ヒーローにへんしんシステム" popup_text1="へんしんをするためにはへんしんの液剤が必要です。" popup_text2="へんしんの液剤は店で購入あるいはゲーム中字を" popup_text3="全部獲得すれば使えます。"/>
+		<element id='25' name="6.『LARVA』字の獲得" popup_text1="上からおりる『LARVA』字のを全部獲得してみて。" popup_text2="" popup_text3=""/>
+		<element id='26' name="7.ユニット生産方法" popup_text1="上からおりるビエンナを獲得して" popup_text2="防御型ユニット’レインボー’を生産してください。" popup_text3=""/>
+		<element id='27' name="8.防御型ユニットの役割" popup_text1="防御型ユニットは敵ユニットのこうげきをかわ" popup_text2="りにふせぐことをします。防御型ユニット" popup_text3="後ろから敵をやっつけてみて。"/>
+		<element id='28' name="9.ヒーロースキル" popup_text1="ヒーロースキルは店で購入できます。" popup_text2="右側の下段にあるスキルを使って敵をやっつけてみて。" popup_text3=""/>
+		<element id='29' name=" - テュートリアル完了の補償 - " popup_text1="一つ！５種類のえきざいをおのおの５個支給" popup_text2="二つ！ヒーローへんしんのえきざい２個支給" popup_text3=""/>
+		<element id='30' name="아이템 구매" popup_text1="アイテムを購入しますか？" popup_text2="" popup_text3=""/>
+	</choice_popup>
+
+	<other_popup>
+		<element id='0' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='1' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='2' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='3' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='4' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='5' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='6' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='7' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='8' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='9' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='10' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='11' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='12' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='13' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='14' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='15' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='16' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='17' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='18' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='19' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='20' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='21' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='22' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='23' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='24' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='25' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='26' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='27' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='28' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='29' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='30' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='31' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='32' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='33' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='34' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='35' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='36' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='37' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='38' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='39' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='40' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='41' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='42' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='43' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='44' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='45' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='46' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='47' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='48' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='49' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='50' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='51' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='52' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='53' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='54' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='55' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='56' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='57' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='58' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='59' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='60' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='61' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='62' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='63' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='64' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='65' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='66' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='67' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='68' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='69' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='70' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='71' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='72' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='73' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='74' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='75' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='76' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='77' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='78' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='79' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='80' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='81' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='82' name="ピンクをあくまぐんの基地まで護衛せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='83' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='84' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='85' name="友達といっしょに我が軍の基地を防御せよ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='86' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='87' name="あくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='88' name="ユニットをもどしてあくまぐんの基地をこわせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='89' name="あくまぐんのボスをたおせ" popup_text1="" popup_text2="" popup_text3=""/>
+		<element id='90' name="1-10 보스 1차 말풍선" popup_text1="探索に出た偵察兵がまだかえってない…" popup_text2="「ヘルゲート」を開き、全てのせんとう兵力は" popup_text3="ぶそうしたじょうたいでせんとう地域の探索を始める。"/>
+		<element id='91' name="1-10 보스 2차 말풍선" popup_text1="「ニューヨークシティー」侵攻を邪魔する敵が現れたら" popup_text2="必ず消す…" popup_text3=""/>
+		<element id='92' name="2-10 보스 1차 말풍선" popup_text1="「ヘルゲート」を保護し、敵のこうげきに備えて" popup_text2="闇の地域の呪いをきょうかする。" popup_text3=""/>
+		<element id='93' name="2-10 보스 2차 말풍선" popup_text1="ラーバカーを集中的にこうげきして闇の地域から" popup_text2="敵のはんげきをつぶさせろ" popup_text3=""/>
+		<element id='94' name="3-10 보스 1차 말풍선" popup_text1="ほへいたいしょうフランケンシュタイン！ははは～" popup_text2="生半可な能力でこの私にちょうせんしたら、" popup_text3="後悔するぞ。"/>
+		<element id='95' name="3-10 보스 2차 말풍선" popup_text1="さあ、ラーバやろうども、お前らの能力が知りたい。こい!" popup_text2="お前達を甘く見たそうだな…" popup_text3=""/>
+		<element id='96' name="4-10 보스 1차 말풍선" popup_text1="お前達を甘く見たそうだな…" popup_text2="" popup_text3=""/>
+		<element id='97' name="4-10 보스 2차 말풍선" popup_text1="ニューヨークシティーの征服のために今回はちゃんと" popup_text2="相手してやる。私をもっと怒らせて見ろ～" popup_text3=""/>
+		<element id='98' name="5-10 보스 1차 말풍선" popup_text1="身をかくすうちにわれわれの兄弟をおこすやつらが。" popup_text2="むしだって。ハハ〜" popup_text3="くだらないむしどもが私のワールドでよくも… せんとうを!!"/>
+		<element id='99' name="5-10 보스 2차 말풍선" popup_text1="フランケンシュタインほへいたいしょうは運良く勝ったかも" popup_text2="知らないが ウルフ兄弟にはまったくだめだ" popup_text3=""/>
+		<element id='100' name="6-10 보스 1차 말풍선" popup_text1="待ったぞ、この瞬間を…" popup_text2="私の唯一の兄弟がお前らの手に死ぬなんて…" popup_text3=""/>
+		<element id='101' name="6-10 보스 2차 말풍선" popup_text1="全ての兵力を動かしてお前達を殺してやる。" popup_text2="かくごしろ！" popup_text3=""/>
+		<element id='102' name="7-10 보스 1차 말풍선" popup_text1="ははは～たのしい「ニューヨークシティー征服」" popup_text2="ハンマで打ち、ばくだんも投げて、たのしくはかいしよう～" popup_text3=""/>
+		<element id='103' name="7-10 보스 2차 말풍선" popup_text1="あ！臭いおならがする…" popup_text2="何事が今すぐ調べてみろ。大嫌いだ！" popup_text3=""/>
+		<element id='104' name="8-10 보스 1차 말풍선" popup_text1="むかつく～我慢できない。" popup_text2="いったいどうして！お前達は死にもせず" popup_text3="ずっとたたかえるんだ…"/>
+		<element id='105' name="8-10 보스 2차 말풍선" popup_text1="むしどもめ、今度こそあの世に送ってあげよ。" popup_text2="" popup_text3=""/>
+		<element id='106' name="9-10 보스 1차 말풍선" popup_text1="無くした我が兄弟「ブラウン」…" popup_text2="「ニューヨークシティー」にいるとは…" popup_text3="どんなに探したか…"/>
+		<element id='107' name="9-10 보스 2차 말풍선" popup_text1="さあ～私と共に「地球征服」をじつげんしよう！" popup_text2="それが嫌ならお前の友達といっしょに消えることになる。" popup_text3=""/>
+		<element id='108' name="Loading game Tip" popup_text1="Tip : ミッションステージ報償ゴールドは別途支給されます。" popup_text2="" popup_text3=""/>
+		<element id='109' name="Loading game Tip" popup_text1="Tip : ミッションステージで一般ゴールド報償は10％だけ支給されます。" popup_text2="" popup_text3=""/>
+		<element id='110' name="Loading game Tip" popup_text1="Tip : Facebookの友達を招待または設置をすすめてみよう！大きな報償があります。" popup_text2="" popup_text3=""/>
+		<element id='111' name="Loading game Tip" popup_text1="Tip : World Map Google Playで業績とランキングを確認しましょう。" popup_text2="" popup_text3=""/>
+		<element id='112' name="Loading game Tip" popup_text1="Tip : 新しいワールドをオープンすれば魔法キャンディ10個を貰えます。" popup_text2="" popup_text3=""/>
+		<element id='113' name="Loading game Tip" popup_text1="Tip : World Mapで「ジャック船長」を探して幸運クッキを引いてみよう。" popup_text2="" popup_text3=""/>
+		<element id='114' name="Loading game Tip" popup_text1="Tip : 商店にあるきょうりょくなヒーロー友達をたくさん活用しましょう。" popup_text2="" popup_text3=""/>
+		<element id='115' name="Loading game Tip" popup_text1="Tip : ステージの難易度についてのクリアする’キャプテン·ジャック’のクーポンをもらえます。" popup_text2="" popup_text3=""/>
+		<element id='116' name="Loading game Tip" popup_text1="Tip : LARVAの文字を全部集めたらへんしんすいやく1個が生成されます。" popup_text2="" popup_text3=""/>
+		<element id='117' name="Loading game Tip" popup_text1="Tip : ラーバカーは2,4,6,8ワールドでかならず必要な見方のユニットです。" popup_text2="" popup_text3=""/>
+		<element id='118' name="Loading game Tip" popup_text1="Tip : ハード、マスターモードでは敵がひろはば化され、雨といなずま、くろくもが登場します。" popup_text2="" popup_text3=""/>
+		<element id='119' name="チュートリアルスキップ" popup_text1="注意!!" popup_text2="テュートリアルは一回だけプレーできます。" popup_text3="テュートリアルを飛越しますか。"/>
+	</other_popup>
+
+	<add_popup>
+		<element id='0' popup_text1="攻撃力を高める" popup_text2="HPを増やす" popup_text3="15秒ごとにHPを回復" popup_text4="クリティカルが増加" popup_text5="コレクション報酬"/>
+		<element id='1' popup_text1="- 電流レベル" popup_text2="- 次のレベル" popup_text3="成功率 :" popup_text4="あなたのペットをアップグレードしますか？" popup_text5="ボスチャレンジチケット"/>
+		<element id='2' popup_text1="5回→10回" popup_text2="¥ 300" popup_text3="* ボスダンジョンまたはワールドの難易度ノーマルは上記の通りです。" popup_text4="あなたは\nボスダンジョンか\nらアップグレード\nすることができます" popup_text5="（アップグレード可能）"/>
+		<element id='3' popup_text1="1. 基本能力" popup_text2="15秒あたりのHP+10％" popup_text3="（ヒーロー＆フレンド）" popup_text4="2. 特別な能力" popup_text5="Atk +"/>
+		<element id='4' popup_text1="Exp +" popup_text2="HPが10％増加しました" popup_text3="ドロップアイテム(1 + 1）" popup_text4="（上司を除く）" popup_text5=""/>
+		<element id='5' popup_text1="世界地図でペットを開いてください。" popup_text2="あなたは世界地図で広告を見なければなりません。" popup_text3="ペットが開かれました。" popup_text4="石が開かれました" popup_text5="物乞いはいっぱいです。"/>
+		<element id='6' popup_text1="ソーセージは十分ではありません。" popup_text2="ソーセージボックスを開けてください。" popup_text3="アップグレードが完了しました。" popup_text4="石の破片では足りません。" popup_text5="ソーセージボックスが開きました。"/>
+		<element id='7' popup_text1="キーが足りません。" popup_text2="ボスダンジョンのチケットは1日1回請求されます。" popup_text3="ソーセージボックスが開きました。" popup_text4="ペットと石を開くためにソーセージを使用してください。" popup_text5="あなたはゲームプレイを通してソーセージを得ることができます！"/>
+		<element id='8' popup_text1="ソーセージボックスは使用するために開かれなければなりません！" popup_text2="ソーセージを使ってペット\n用の石を開くことができます。" popup_text3="TOUCH TO START" popup_text4="" popup_text5=""/>
+		<element id='9' popup_text1="私たちの味方" popup_text2="ヒーロースキル装備" popup_text3="ローディング中。。。" popup_text4="- 元の -" popup_text5="シナリオゲームをプレイできます（シングルプレイ）"/>
+		<element id='10' popup_text1="拡張パック（PVP付き）" popup_text2="あなたは主人公、ダンジョン、PVP（ネットワークプレイ）" popup_text3="でマルチモードをプレイすることができます" popup_text4="リトルヒーローをタップ：1000日戦争" popup_text5="世界の終わりを止めるために邪悪なTitansを取り除いてください。"/>
+		<element id='11' popup_text1="ラインファーム" popup_text2="すべて同じものをつなぎ合わせて" popup_text3="ボード全体を埋め尽くすパズルゲーム。" popup_text4="バブルモンスター" popup_text5="ハロウィンスタイルのバブルシューティングゲームです。"/>
+		<element id='12' popup_text1="ATK" popup_text2="HP" popup_text3="15秒ごとにHP" popup_text4="クリティカル" popup_text5="増"/>
+		<element id='13' popup_text1="" popup_text2="" popup_text3="" popup_text4="" popup_text5=""/>
+
+	</add_popup>
+</define>
