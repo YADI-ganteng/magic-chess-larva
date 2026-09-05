@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<define>	
+	<kBT_ShipGun hp='40000' move_speed='0' attack_cooltime='2000' defence='60' critical='5' sight_range='0' attack_range='500' skill_probability='0' item_reward='27' exp='540' boss_level='10' gold='0' point='0' stun_x='0' stun_y='0' eff_x='0' eff_y='0' hp_pos='0' position_type='0' line='0'/>
+	<kBT_Teacher hp='100000' move_speed='0.8' attack_cooltime='2000' defence='240' critical='10' sight_range='500' attack_range='146' skill_probability='30' item_reward='28' exp='2200' boss_level='25' gold='0' point='0' stun_x='-43' stun_y='-260' eff_x='0' eff_y='0' hp_pos='246' position_type='1' line='0'/>
+	<kBT_Lady hp='160000' move_speed='0.4' attack_cooltime='2000' defence='480' critical='15' sight_range='500' attack_range='150' skill_probability='30' item_reward='29' exp='5280' boss_level='40' gold='0' point='0' stun_x='32' stun_y='-204' eff_x='0' eff_y='0' hp_pos='286' position_type='1' line='0'/>
+	<kBT_BaronT hp='220000' move_speed='0.8' attack_cooltime='2000' defence='1200' critical='20' sight_range='500' attack_range='175' skill_probability='30' item_reward='30' exp='9240' boss_level='48' gold='0' point='0' stun_x='53' stun_y='-321' eff_x='0' eff_y='0' hp_pos='288' position_type='1' line='0'/>
+	<kBT_Higre hp='280000' move_speed='0.4' attack_cooltime='2000' defence='1750' critical='25' sight_range='500' attack_range='150' skill_probability='30' item_reward='-1' exp='17220' boss_level='55' gold='0' point='0' stun_x='23' stun_y='-215' eff_x='0' eff_y='0' hp_pos='290' position_type='1' line='0'/>
+</define>
+
+<!--
+kBT_ShipGun: 첫스테이지 보스 우주선의 무기인 경우 쿨타임, 크리티컬, 사거리 유효데이타로 사용한다.
+복대레이디와 하이그레마왕의 attack_range 는 탈것의 중점을 기준으로 잡은것으로 현재값보다 작지 않게 주의.
+
+-->
